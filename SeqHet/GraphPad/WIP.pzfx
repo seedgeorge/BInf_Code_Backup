@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="6.0.0.289" RegisteredTo="      " Login="gseed" DateTime="2014-05-30T16:07:06+00:00"/>
+<MostRecentVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="6.0.0.289" RegisteredTo="      " Login="gseed" DateTime="2014-06-02T13:59:38+00:00"/>
+</Created>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes>
+</Notes>
+<Constant><Name>Experiment Date</Name><Value>2014-05-30</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence Selected="1">
+
+<Ref ID="Table0" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="none" YFormat="replicates" Replicates="1" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Top 15 Su2C LN</Title>
+<YColumn Width="171" Decimals="6" Subcolumns="1">
+<Title>Metabolism of carbohydrates</Title>
+<Subcolumn>
+<d>4.03497</d>
+<d>-0.32379</d>
+<d>4.19185</d>
+<d>2.6101</d>
+<d>2.01316</d>
+<d>3.81419</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="129" Decimals="6" Subcolumns="1">
+<Title>Platelet degranulation</Title>
+<Subcolumn>
+<d>1.85329</d>
+<d>2.58021</d>
+<d>1.94733</d>
+<d>-0.28889</d>
+<d>3.76401</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="265" Decimals="6" Subcolumns="1">
+<Title>Response to elevated platelet cytosolic Ca2+</Title>
+<Subcolumn>
+<d>1.85329</d>
+<d>2.58021</d>
+<d>1.94733</d>
+<d>-0.28889</d>
+<d>3.76401</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="165" Decimals="6" Subcolumns="1">
+<Title>Striated Muscle Contraction</Title>
+<Subcolumn>
+<d>4.03497</d>
+<d>-0.32379</d>
+<d>-0.29718</d>
+<d>2.6101</d>
+<d>4.34762</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="261" Decimals="6" Subcolumns="1">
+<Title>Platelet activation, signaling and aggregation</Title>
+<Subcolumn>
+<d>4.03497</d>
+<d>5.48421</d>
+<d>1.94733</d>
+<d>-0.28889</d>
+<d>3.76401</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="152" Decimals="6" Subcolumns="1">
+<Title>Adaptive Immune System</Title>
+<Subcolumn>
+<d>6.21666</d>
+<d>5.48421</d>
+<d>1.94733</d>
+<d>-0.28889</d>
+<d>1.42955</d>
+<d>10.1369</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="124" Decimals="5" Subcolumns="1">
+<Title>GPCR ligand binding</Title>
+<Subcolumn>
+<d>-0.32839</d>
+<d>-0.32379</d>
+<d>6.43637</d>
+<d>5.50908</d>
+<d>3.76401</d>
+<d>3.81419</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="90" Decimals="6" Subcolumns="1">
+<Title>Axon guidance</Title>
+<Subcolumn>
+<d>8.39834</d>
+<d>5.48421</d>
+<d>1.94733</d>
+<d>5.50908</d>
+<d>0.845935</d>
+<d>8.02933</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="181" Decimals="5" Subcolumns="1">
+<Title>Generic Transcription Pathway</Title>
+<Subcolumn>
+<d>1.85329</d>
+<d>-0.32379</d>
+<d>4.19185</d>
+<d>2.6101</d>
+<d>6.09846</d>
+<d>-0.40095</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="214" Decimals="5" Subcolumns="1">
+<Title>Metabolism of lipids and lipoproteins</Title>
+<Subcolumn>
+<d>-0.32839</d>
+<d>5.48421</d>
+<d>6.43637</d>
+<d>8.40806</d>
+<d>3.76401</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="170" Decimals="5" Subcolumns="1">
+<Title>GPCR downstream signaling</Title>
+<Subcolumn>
+<d>10.58</d>
+<d>2.58021</d>
+<d>10.9254</d>
+<d>5.50908</d>
+<d>8.43292</d>
+<d>3.81419</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="116" Decimals="5" Subcolumns="1">
+<Title>Signaling by GPCR</Title>
+<Subcolumn>
+<d>10.58</d>
+<d>2.58021</d>
+<d>10.9254</d>
+<d>8.40806</d>
+<d>9.01653</d>
+<d>3.81419</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="192" Decimals="5" Subcolumns="1">
+<Title>O-linked glycosylation of mucins</Title>
+<Subcolumn>
+<d>1.85329</d>
+<d>-0.32379</d>
+<d>6.43637</d>
+<d>-0.28889</d>
+<d>16.0199</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="218" Decimals="5" Subcolumns="1">
+<Title>Termination of O-glycan biosynthesis</Title>
+<Subcolumn>
+<d>1.85329</d>
+<d>-0.32379</d>
+<d>6.43637</d>
+<d>-0.28889</d>
+<d>16.0199</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="221" Decimals="5" Subcolumns="1">
+<Title>Post-translational protein modification</Title>
+<Subcolumn>
+<d>6.21666</d>
+<d>2.58021</d>
+<d>10.9254</d>
+<d>2.6101</d>
+<d>16.6035</d>
+<d>1.70662</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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
+AdTfXloyqGVjGzU115fJajnyaYW88YZOv/GZlZy6IZtJqfSNneRwqn+Tms7E8QmxVH9Sy81V
+OvRpds6aog8hcyH6XHov5NUUAW3G28ujjdhaLyPYbpVtfZmAJj+prJ+yWpgx+YBy5ZQNwqLJ
+OxR1yvmztU8wbO0TyMvnpbY2ZkhnAluTj710abG+fCalqfFYPtYby2n04yz6d1GovUvMKTfV
+nMQ0lc05wdcuI+FuZYFvkfyyL62s8vXIJ3xr8FnzPY2Yc7vHNGcXLbo3uBRdo+UTjNdyqTnJ
+gN26nkQ+qXXoX70xJ3uc9hL0azTDakbOlax2PITkx8JHlJ+FZsi7wruVd0OL5Gw437DVdkum
+1Y4hw2rk/edyVvPoVvMDq5Fmct28qmYjFzlXs3nVSmbbLVUym4hGOTlsLJKJhI1FMmRPFskU
+PxyNRTgBMBVP0GWUvFKzNrqAhmhSWfsnfGcC9wk94Zd9bdIWnJ4suiF7vk7tPedZe1OTykV2
+vrc/uN+3NrTGuzc46FsQSnu/GrzBN1XvdDda0Y0i6dWL5AWgXSTfMOvOx9LxWDaeyGlxxXgS
+Na1WR8+lVrdHC/pLrDu5bfoXqS5bmoz1bdY/+HXdpkRew10hc6D5U0gV7L6I2whatR6Rc+kX
+6bARn5y4aKTHTjDZk7F3szPXKmnGozB+mDBhUo+8WTC/hPwWinps75d04c4y8zBhUpe8hSZ4
+4cu+Z8fh05mlYWlYmtrT2M9W3vFsZZZiaViac6lFHlaLWBqWpsFa5GV+HhMm5+jnmbXIx2oR
+EyYN1iKB1SImTBqsRX5Wi5gwOSd5M1qIftpaX2d/N/xL1r9rMkb0D1n/f9TxMo++TDQAYkVk
+rULVYwmeFL0SfIMc/k+pGv5lMVFh95M/jdb6rcfzLyJXdvX770khY/kO+Ua2PgzklZDxZ6/C
+IStwUugi9Hl9dU1leXop3S9BqLD48miKrni038icsPiOl6fd9CMurXN4zVC/lk2ktHRevTqW
+11BGX/v9R5ErIguvmB+ZtwCldds4kq28GifSy01a13B1Jq/1ZjKbQYRolwT7RwVkpGXtmICR
+PJ/pyyTtX/UdRbv0/7tGJ6DIKuzFP3z22avKWcAu5ldGPYUoshcMnatw0f8BAAD//wMAFmzb
+8Q==</Template></GraphPadPrismFile>
