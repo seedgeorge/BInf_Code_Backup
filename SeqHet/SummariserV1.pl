@@ -38,12 +38,52 @@ foreach my $file (@files) {
 	while (my $line = <FH>) {
 		chomp $line;
 		if ($line =~ /(.+)\,(\d+$)/) {
-			my $path = $1;
+			my $pathway = $1;
 			my $score = $2;
-			$pathwaytotals{$path} += $score;
+			$pathwaytotals{$pathway} .= $score;
+			$pathwaytotals{$pathway} .= ",";
 		}
 	}
 	close (FH);
 }
 
 # ---------- Section 3  - generate the mean and std dev for each pathway
+my $length = scalar(@files);
+print "$length files are evaluated.\n";
+
+foreach my $pathway (keys %pathwaytotals) {
+	my @temparray = split(/,/,$pathwaytotals{$pathway});
+	my $avg = Mean(@temparray);
+	my $std = StdDev(@temparray);
+	print "$pathway\t$avg\n"
+}
+
+sub StdDev {
+	my $total = "";
+	my $sum = "";
+	my $sumOfSquares = "";
+	my $stddev = "";
+	my $variance = "";
+	foreach my $value (@_) {
+		$sum += $value;
+		$total++;
+		$sumOfSquares += $value * $value;
+	}
+	$variance = ($sumOfSquares -(($sum*$sum)/$total))/($total-1);
+	$stddev = sqrt($variance);
+	return $stddev;
+}
+
+sub Mean {
+	my $mean = "";
+	my $total = "";
+	my $sum = "";
+	my $value = "";
+	foreach $value (@_) {
+		$sum += $value;
+		$total++;
+	}
+	$mean = $sum/$total;
+	return $mean;
+}
+	
