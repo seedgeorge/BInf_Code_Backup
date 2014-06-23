@@ -145,7 +145,7 @@ foreach my $gene (keys %ghash){
 	}
 }
 
-print "What pathway involvement threshold should be used?\n";
+print "What pathway involvement threshold should be used? (Zero is default)\n";
 my $threshold = <STDIN>;
 
 my $resultcount = "";

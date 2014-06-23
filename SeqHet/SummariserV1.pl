@@ -7,6 +7,7 @@ use 5.010;
 use Data::Dumper;
 use DateTime;
 use File::Path qw(make_path);
+use List::Util qw(sum);
 
 # This script is designed to summarise the results from a discrete set of SeqHet runs. 
 # It produces a summary table, rows being individual pathways, and the columns as mean score, standard deviation
@@ -53,37 +54,51 @@ print "$length files are evaluated.\n";
 
 foreach my $pathway (keys %pathwaytotals) {
 	my @temparray = split(/,/,$pathwaytotals{$pathway});
+	# print my $sum = sum(@temparray);
+	# print "\n";
 	my $avg = Mean(@temparray);
 	my $std = StdDev(@temparray);
-	print "$pathway\t$avg\n"
+	my $sum = sum(@temparray);
+	$pathwaytotals{$pathway} = "$sum\t$avg\t$std"; 
 }
 
 sub StdDev {
-	my $total = "";
-	my $sum = "";
-	my $sumOfSquares = "";
-	my $stddev = "";
-	my $variance = "";
-	foreach my $value (@_) {
-		$sum += $value;
-		$total++;
-		$sumOfSquares += $value * $value;
+	my $total = "0";
+	my $sumOfSquares = "0";
+	my $stddev = "0";
+	my $variance = "0";
+	my $sum = sum(@_);
+	if ($sum > 0) {
+		foreach my $value (@_) {
+			$total++;
+			$sumOfSquares += $value * $value;
+		}
+		$variance = ($sumOfSquares -(($sum*$sum)/$total))/($total-1);
+		$stddev = sqrt($variance);
 	}
-	$variance = ($sumOfSquares -(($sum*$sum)/$total))/($total-1);
-	$stddev = sqrt($variance);
 	return $stddev;
 }
 
 sub Mean {
 	my $mean = "";
 	my $total = "";
-	my $sum = "";
+	my $sum = sum(@_);
 	my $value = "";
 	foreach $value (@_) {
-		$sum += $value;
+		# $sum += $value;
 		$total++;
 	}
 	$mean = $sum/$total;
 	return $mean;
 }
-	
+
+# ---------- Section 4  - output summary file
+my $fileoutput = $directory."-summary.txt";
+
+open (OUTPUT,">$fulldir/$fileoutput") or die "Could not open output file\n";
+foreach my $pathway (keys %pathwaytotals) {
+	print OUTPUT "$pathway\t$pathwaytotals{$pathway}\n";
+}
+
+
+close (OUTPUT);
