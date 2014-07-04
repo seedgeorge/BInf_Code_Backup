@@ -1,0 +1,2623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="6.0.0.289" RegisteredTo="      " Login="gseed" DateTime="2014-06-28T16:54:08+00:00"/>
+</Created>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes>
+</Notes>
+<Constant><Name>Experiment Date</Name><Value>2014-06-20</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+
+<Ref ID="Table0"/>
+<Ref ID="Table2"/>
+<Ref ID="Table3"/>
+<Ref ID="Table5" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Top 100 TCGA</Title>
+<RowTitlesColumn Width="556">
+<Subcolumn>
+<d>PI3K events in ERBB4 signaling</d>
+<d>PIP3 activates AKT signaling</d>
+<d>PI3K/AKT Signaling in Cancer</d>
+<d>Oxidative Stress Induced Senescence</d>
+<d>PI3K/AKT activation</d>
+<d>Interferon Signaling</d>
+<d>Signaling by Interleukins</d>
+<d>Signaling by Wnt</d>
+<d>Role of LAT2/NTAL/LAB on calcium mobilization</d>
+<d>Toll Like Receptor 4 (TLR4) Cascade</d>
+<d>Translation</d>
+<d>Signaling by Insulin receptor</d>
+<d>Response to elevated platelet cytosolic Ca2+</d>
+<d>GAB1 signalosome</d>
+<d>RNA Polymerase I Promoter Clearance</d>
+<d>Meiotic Recombination</d>
+<d>Collagen formation</d>
+<d>RNA Polymerase II Transcription</d>
+<d>Meiotic Synapsis</d>
+<d>Separation of Sister Chromatids</d>
+<d>mRNA Processing</d>
+<d>RNA Polymerase I Transcription</d>
+<d>Phospholipid metabolism</d>
+<d>Mitotic G1-G1/S phases</d>
+<d>MPS IX - Natowicz syndrome</d>
+<d>MPS VI - Maroteaux-Lamy syndrome</d>
+<d>Stimuli-sensing channels</d>
+<d>MPS IIID - Sanfilippo syndrome D</d>
+<d>MPS VII - Sly syndrome</d>
+<d>MPS IIIC - Sanfilippo syndrome C</d>
+<d>MPS IV - Morquio syndrome B</d>
+<d>Late Phase of HIV Life Cycle</d>
+<d>MPS IIIA - Sanfilippo syndrome A</d>
+<d>Glycosaminoglycan metabolism</d>
+<d>Mucopolysaccharidoses</d>
+<d>MPS IIIB - Sanfilippo syndrome B</d>
+<d>PPARA Activates Gene Expression</d>
+<d>Metabolism of amino acids and derivatives</d>
+<d>MPS II - Hunter syndrome</d>
+<d>MPS I - Hurler syndrome</d>
+<d>MPS IV - Morquio syndrome A</d>
+<d>Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)</d>
+<d>Toll-Like Receptors Cascades</d>
+<d>Mitotic Anaphase</d>
+<d>HIV Life Cycle</d>
+<d>Chromosome Maintenance</d>
+<d>Mitotic Metaphase and Anaphase</d>
+<d>Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell</d>
+<d>SLC-mediated transmembrane transport</d>
+<d>Signaling by SCF-KIT</d>
+<d>Signaling by ERBB4</d>
+<d>Downstream signaling of activated FGFR</d>
+<d>DAP12 interactions</d>
+<d>DAP12 signaling</d>
+<d>Cellular Senescence</d>
+<d>Downstream Signaling Events Of B Cell Receptor (BCR)</d>
+<d>Signaling by FGFR</d>
+<d>Potassium Channels</d>
+<d>RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription</d>
+<d>Biological oxidations</d>
+<d>Downstream signal transduction</d>
+<d>Signaling by ERBB2</d>
+<d>Metabolism of mRNA</d>
+<d>Signaling by FGFR in disease</d>
+<d>M Phase</d>
+<d>Antigen processing: Ubiquitination &amp;amp; Proteasome degradation</d>
+<d>Transmission across Chemical Synapses</d>
+<d>G alpha (q) signalling events</d>
+<d>Signaling by the B Cell Receptor (BCR)</d>
+<d>Fatty acid, triacylglycerol, and ketone body metabolism</d>
+<d>Fc epsilon receptor (FCERI) signaling</d>
+<d>Signaling by EGFR in Cancer</d>
+<d>Signaling by EGFR</d>
+<d>Class I MHC mediated antigen processing &amp;amp; presentation</d>
+<d>Peptide ligand-binding receptors</d>
+<d>HIV Infection</d>
+<d>Post-translational protein modification</d>
+<d>Gastrin-CREB signalling pathway via PKC and MAPK</d>
+<d>Metabolism of RNA</d>
+<d>G alpha (i) signalling events</d>
+<d>Ion channel transport</d>
+<d>Mitotic M-M/G1 phases</d>
+<d>NGF signalling via TRKA from the plasma membrane</d>
+<d>Metabolism of carbohydrates</d>
+<d>Signaling by PDGF</d>
+<d>Cytokine Signaling in Immune system</d>
+<d>Platelet activation, signaling and aggregation</d>
+<d>Signalling by NGF</d>
+<d>Transcription</d>
+<d>Class A/1 (Rhodopsin-like receptors)</d>
+<d>Axon guidance</d>
+<d>Cell Cycle, Mitotic</d>
+<d>Olfactory Signaling Pathway</d>
+<d>GPCR ligand binding</d>
+<d>Generic Transcription Pathway</d>
+<d>Adaptive Immune System</d>
+<d>Innate Immune System</d>
+<d>Metabolism of lipids and lipoproteins</d>
+<d>GPCR downstream signaling</d>
+<d>Signaling by GPCR</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title/>
+<Subcolumn>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.636364</d>
+<d>2.727273</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>3.090909</d>
+<d>3.090909</d>
+<d>3.090909</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.363636</d>
+<d>3.363636</d>
+<d>3.363636</d>
+<d>3.454545</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.727273</d>
+<d>3.727273</d>
+<d>3.818182</d>
+<d>3.818182</d>
+<d>3.909091</d>
+<d>3.909091</d>
+<d>4</d>
+<d>4</d>
+<d>4.090909</d>
+<d>4.181818</d>
+<d>4.272727</d>
+<d>4.272727</d>
+<d>4.272727</d>
+<d>4.454545</d>
+<d>4.636364</d>
+<d>5.090909</d>
+<d>5.181818</d>
+<d>5.272727</d>
+<d>5.454545</d>
+<d>5.727273</d>
+<d>6.363636</d>
+<d>6.636364</d>
+<d>7.181818</d>
+<d>8.636364</d>
+<d>9.363636</d>
+<d>9.727273</d>
+<d>10.72727</d>
+<d>15.09091</d>
+<d>16.81818</d>
+</Subcolumn>
+<Subcolumn>
+<d>2.891995</d>
+<d>2.891995</d>
+<d>2.891995</d>
+<d>4.729021</d>
+<d>2.866737</d>
+<d>3.101319</d>
+<d>3.133398</d>
+<d>3.466725</d>
+<d>3.042128</d>
+<d>2.838053</d>
+<d>4.295875</d>
+<d>3.557323</d>
+<d>2.377929</d>
+<d>3.042128</d>
+<d>4.631905</d>
+<d>4.105429</d>
+<d>4.031693</d>
+<d>3.724611</d>
+<d>3.984059</d>
+<d>2.978712</d>
+<d>3.445682</d>
+<d>4.926736</d>
+<d>2.544156</d>
+<d>2.841255</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.173756</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.697665</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.173756</d>
+<d>3.697665</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.294624</d>
+<d>3.2891</d>
+<d>3.600505</d>
+<d>4.094342</d>
+<d>4.214693</d>
+<d>3.600505</d>
+<d>4.229765</d>
+<d>3.832872</d>
+<d>3.98634</d>
+<d>3.961175</d>
+<d>3.780332</d>
+<d>3.970345</d>
+<d>3.970345</d>
+<d>5.693697</d>
+<d>4.02718</d>
+<d>3.951985</d>
+<d>3.849439</d>
+<d>5.623005</d>
+<d>4.759679</d>
+<d>4.388</d>
+<d>4.105429</d>
+<d>4.390071</d>
+<d>4.590504</d>
+<d>4.227615</d>
+<d>4.227615</d>
+<d>5.106146</d>
+<d>6.652409</d>
+<d>4.410731</d>
+<d>4.388</d>
+<d>4.566678</d>
+<d>4.60632</d>
+<d>4.60632</d>
+<d>4.512609</d>
+<d>7.250078</d>
+<d>5.337688</d>
+<d>6.284179</d>
+<d>6.663332</d>
+<d>5.234501</d>
+<d>7.217403</d>
+<d>5.437245</d>
+<d>4.900835</d>
+<d>5.139862</d>
+<d>6.958317</d>
+<d>6.022684</d>
+<d>6.168837</d>
+<d>5.906853</d>
+<d>6.431457</d>
+<d>8.52163</d>
+<d>11.79291</d>
+<d>6.27839</d>
+<d>7.852041</d>
+<d>15.85101</d>
+<d>14.36536</d>
+<d>10.96606</d>
+<d>11.44791</d>
+<d>11.58526</d>
+<d>11.37621</d>
+<d>29.90135</d>
+<d>32.44324</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table2" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Top 100 Su2C +TCGA</Title>
+<RowTitlesColumn Width="184">
+<Subcolumn>
+<d>PI3K/AKT activation</d>
+<d>PI3K/AKT Signaling in Cancer</d>
+<d>PIP3 activates AKT signaling</d>
+<d>Signaling by NOTCH</d>
+<d>Toll Like Receptor 7/8 (TLR7/8) Cascade</d>
+<d>Toll Like Receptor 9 (TLR9) Cascade</d>
+<d>Translation</d>
+<d>GAB1 signalosome</d>
+<d>NRAGE signals death through JNK</d>
+<d>Role of LAT2/NTAL/LAB on calcium mobilization</d>
+<d>Signaling by Insulin receptor</d>
+<d>Signaling by Wnt</d>
+<d>Cell death signalling via NRAGE, NRIF and NADE</d>
+<d>Cell junction organization</d>
+<d>Collagen biosynthesis and modifying enzymes</d>
+<d>Signaling by Interleukins</d>
+<d>Toll Like Receptor 4 (TLR4) Cascade</d>
+<d>Transcription</d>
+<d>Chromosome Maintenance</d>
+<d>Metabolism of RNA</d>
+<d>PPARA Activates Gene Expression</d>
+<d>Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)</d>
+<d>Transcriptional Regulation of White Adipocyte Differentiation</d>
+<d>Downstream signaling of activated FGFR</d>
+<d>Phospholipid metabolism</d>
+<d>Processing of Capped Intron-Containing Pre-mRNA</d>
+<d>Signaling by ERBB2</d>
+<d>Stimuli-sensing channels</d>
+<d>Factors involved in megakaryocyte development and platelet production</d>
+<d>L1CAM interactions</d>
+<d>Metabolism of amino acids and derivatives</d>
+<d>Signaling by FGFR</d>
+<d>Signaling by SCF-KIT</d>
+<d>Collagen formation</d>
+<d>Glycosaminoglycan metabolism</d>
+<d>M Phase</d>
+<d>MPS I - Hurler syndrome</d>
+<d>MPS II - Hunter syndrome</d>
+<d>MPS IIIA - Sanfilippo syndrome A</d>
+<d>MPS IIIB - Sanfilippo syndrome B</d>
+<d>MPS IIIC - Sanfilippo syndrome C</d>
+<d>MPS IIID - Sanfilippo syndrome D</d>
+<d>MPS IV - Morquio syndrome A</d>
+<d>MPS IV - Morquio syndrome B</d>
+<d>MPS IX - Natowicz syndrome</d>
+<d>MPS VI - Maroteaux-Lamy syndrome</d>
+<d>MPS VII - Sly syndrome</d>
+<d>Mucopolysaccharidoses</d>
+<d>Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell</d>
+<d>Peptide ligand-binding receptors</d>
+<d>DAP12 signaling</d>
+<d>Downstream Signaling Events Of B Cell Receptor (BCR)</d>
+<d>HIV Infection</d>
+<d>p75 NTR receptor-mediated signalling</d>
+<d>Platelet degranulation</d>
+<d>Response to elevated platelet cytosolic Ca2+</d>
+<d>Toll-Like Receptors Cascades</d>
+<d>DAP12 interactions</d>
+<d>Mitotic M-M/G1 phases</d>
+<d>Signaling by FGFR in disease</d>
+<d>Downstream signal transduction</d>
+<d>Signaling by EGFR</d>
+<d>Signaling by EGFR in Cancer</d>
+<d>Signaling by ERBB4</d>
+<d>Signaling by the B Cell Receptor (BCR)</d>
+<d>mRNA Processing</d>
+<d>NGF signalling via TRKA from the plasma membrane</d>
+<d>Antigen processing: Ubiquitination &amp;amp; Proteasome degradation</d>
+<d>Cellular Senescence</d>
+<d>Interferon Signaling</d>
+<d>Fatty acid, triacylglycerol, and ketone body metabolism</d>
+<d>G alpha (i) signalling events</d>
+<d>Signaling by PDGF</d>
+<d>Rho GTPase cycle</d>
+<d>Signaling by Rho GTPases</d>
+<d>Class I MHC mediated antigen processing &amp;amp; presentation</d>
+<d>G alpha (q) signalling events</d>
+<d>SLC-mediated transmembrane transport</d>
+<d>Fc epsilon receptor (FCERI) signaling</d>
+<d>Gastrin-CREB signalling pathway via PKC and MAPK</d>
+<d>Termination of O-glycan biosynthesis</d>
+<d>Transmission across Chemical Synapses</d>
+<d>Class A/1 (Rhodopsin-like receptors)</d>
+<d>Ion channel transport</d>
+<d>O-linked glycosylation of mucins</d>
+<d>Cell Cycle, Mitotic</d>
+<d>Platelet activation, signaling and aggregation</d>
+<d>Metabolism of carbohydrates</d>
+<d>Cytokine Signaling in Immune system</d>
+<d>Axon guidance</d>
+<d>Signalling by NGF</d>
+<d>GPCR ligand binding</d>
+<d>Olfactory Signaling Pathway</d>
+<d>Post-translational protein modification</d>
+<d>Generic Transcription Pathway</d>
+<d>Innate Immune System</d>
+<d>Adaptive Immune System</d>
+<d>Metabolism of lipids and lipoproteins</d>
+<d>GPCR downstream signaling</d>
+<d>Signaling by GPCR</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title>Su2C</Title>
+<Subcolumn>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.363636</d>
+<d>2.454545</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.727273</d>
+<d>2.727273</d>
+<d>2.727273</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>3</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.363636</d>
+<d>3.545455</d>
+<d>3.727273</d>
+<d>4.272727</d>
+<d>4.363636</d>
+<d>4.454545</d>
+<d>4.636364</d>
+<d>4.818182</d>
+<d>5.363636</d>
+<d>5.818182</d>
+<d>6.363636</d>
+<d>6.636364</d>
+<d>7.818182</d>
+<d>12.09091</d>
+<d>13</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.694912</d>
+<d>1.967925</d>
+<d>1.967925</d>
+<d>1.29334</d>
+<d>1.75292</d>
+<d>0.934199</d>
+<d>1.572491</d>
+<d>1.75292</d>
+<d>1.572491</d>
+<d>0.924416</d>
+<d>1.286291</d>
+<d>1.361817</d>
+<d>1.501514</d>
+<d>1.68954</d>
+<d>1.629278</d>
+<d>1.793929</d>
+<d>0.786245</d>
+<d>1.55505</d>
+<d>1.55505</d>
+<d>1.55505</d>
+<d>1.778661</d>
+<d>1.662419</d>
+<d>1.167748</d>
+<d>1.778661</d>
+<d>1.88776</d>
+<d>1.445998</d>
+<d>1.700267</d>
+<d>1.868397</d>
+<d>1.868397</d>
+<d>1.700267</d>
+<d>1.341641</d>
+<d>1.264911</d>
+<d>1</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.788854</d>
+<d>1.414214</d>
+<d>1.758098</d>
+<d>2.343269</d>
+<d>1.868397</d>
+<d>1.375103</d>
+<d>2.547726</d>
+<d>2.547726</d>
+<d>2.42712</d>
+<d>1.721522</d>
+<d>0.98165</d>
+<d>2.088932</d>
+<d>2.195036</d>
+<d>2.101947</d>
+<d>2.101947</d>
+<d>2.00454</d>
+<d>2.412091</d>
+<d>1.361817</d>
+<d>2.0181</d>
+<d>1.809068</d>
+<d>2.0181</d>
+<d>1.916436</d>
+<d>2.453198</d>
+<d>2.572583</d>
+<d>2.572583</d>
+<d>2.926369</d>
+<d>2.926369</d>
+<d>2.0226</d>
+<d>2.385563</d>
+<d>2.625054</d>
+<d>2.48998</d>
+<d>2.750207</d>
+<d>7.947555</d>
+<d>2.482667</d>
+<d>2.053821</d>
+<d>2.493628</d>
+<d>7.925792</d>
+<d>1.120065</d>
+<d>2.583162</d>
+<d>2.24013</d>
+<d>2.760105</d>
+<d>3.074824</d>
+<d>3.110101</d>
+<d>3.074824</d>
+<d>8.953415</d>
+<d>7.965836</d>
+<d>4.16697</d>
+<d>5.143398</d>
+<d>4.985433</d>
+<d>5.036232</d>
+<d>9.224473</d>
+<d>9.197826</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title>TCGA</Title>
+<Subcolumn>
+<d>2.272727</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>1.818182</d>
+<d>1.727273</d>
+<d>1.909091</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>0.545455</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.272727</d>
+<d>0.727273</d>
+<d>1.727273</d>
+<d>2.090909</d>
+<d>2.272727</d>
+<d>2.363636</d>
+<d>5.272727</d>
+<d>2.818182</d>
+<d>4</d>
+<d>2.545455</d>
+<d>2.636364</d>
+<d>2.090909</d>
+<d>3.090909</d>
+<d>2.454545</d>
+<d>1.545455</d>
+<d>3.363636</d>
+<d>2.545455</d>
+<d>1.454545</d>
+<d>1.727273</d>
+<d>2.545455</d>
+<d>3.272727</d>
+<d>3.090909</d>
+<d>2.363636</d>
+<d>2.545455</d>
+<d>3.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.909091</d>
+<d>3.818182</d>
+<d>3.181818</d>
+<d>3.272727</d>
+<d>3.909091</d>
+<d>1.181818</d>
+<d>2.090909</d>
+<d>2.363636</d>
+<d>2.727273</d>
+<d>3.181818</d>
+<d>4.272727</d>
+<d>3.545455</d>
+<d>3.363636</d>
+<d>3.727273</d>
+<d>3.727273</d>
+<d>3.090909</d>
+<d>3.636364</d>
+<d>2.454545</d>
+<d>4.272727</d>
+<d>3.545455</d>
+<d>3.272727</d>
+<d>2.272727</d>
+<d>3.636364</d>
+<d>4.090909</d>
+<d>4.454545</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>3.818182</d>
+<d>3.636364</d>
+<d>2.909091</d>
+<d>3.636364</d>
+<d>4</d>
+<d>0.909091</d>
+<d>3.545455</d>
+<d>5.454545</d>
+<d>4.181818</d>
+<d>1.363636</d>
+<d>6.363636</d>
+<d>5.090909</d>
+<d>4.272727</d>
+<d>4.636364</d>
+<d>5.727273</d>
+<d>5.181818</d>
+<d>7.181818</d>
+<d>6.636364</d>
+<d>3.909091</d>
+<d>8.636364</d>
+<d>9.727273</d>
+<d>9.363636</d>
+<d>10.72727</d>
+<d>15.09091</d>
+<d>16.81818</d>
+</Subcolumn>
+<Subcolumn>
+<d>2.866737</d>
+<d>2.891995</d>
+<d>2.891995</d>
+<d>2.442056</d>
+<d>2.723634</d>
+<d>2.913916</d>
+<d>4.295875</d>
+<d>3.042128</d>
+<d>1.035725</d>
+<d>3.042128</d>
+<d>3.557323</d>
+<d>3.466725</d>
+<d>1.272078</d>
+<d>1.848833</d>
+<d>3.44832</d>
+<d>3.133398</d>
+<d>2.838053</d>
+<d>8.52163</d>
+<d>4.214693</d>
+<d>5.234501</d>
+<d>3.173756</d>
+<d>3.294624</d>
+<d>2.700168</d>
+<d>3.780332</d>
+<d>2.544156</d>
+<d>2.621589</d>
+<d>4.105429</d>
+<d>3.173756</d>
+<d>2.544156</d>
+<d>2.572583</d>
+<d>3.697665</d>
+<d>3.951985</d>
+<d>3.98634</d>
+<d>4.031693</d>
+<d>3.751363</d>
+<d>4.227615</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>4.229765</d>
+<d>7.250078</d>
+<d>3.970345</d>
+<d>4.02718</d>
+<d>5.337688</d>
+<d>1.721522</d>
+<d>2.343269</d>
+<d>2.377929</d>
+<d>3.2891</d>
+<d>3.970345</d>
+<d>4.900835</d>
+<d>4.590504</d>
+<d>4.388</d>
+<d>4.60632</d>
+<d>4.60632</d>
+<d>3.961175</d>
+<d>4.410731</d>
+<d>3.445682</d>
+<d>5.139862</d>
+<d>4.227615</d>
+<d>5.693697</d>
+<d>3.101319</d>
+<d>4.388</d>
+<d>7.217403</d>
+<d>6.022684</d>
+<d>2.442056</d>
+<d>2.442056</d>
+<d>4.512609</d>
+<d>6.652409</d>
+<d>3.832872</d>
+<d>4.566678</d>
+<d>6.663332</d>
+<d>1.30035</d>
+<d>5.106146</d>
+<d>11.79291</d>
+<d>5.437245</d>
+<d>1.858641</d>
+<d>7.852041</d>
+<d>5.906853</d>
+<d>6.958317</d>
+<d>6.168837</d>
+<d>6.27839</d>
+<d>6.431457</d>
+<d>14.36536</d>
+<d>15.85101</d>
+<d>6.284179</d>
+<d>10.96606</d>
+<d>11.58526</d>
+<d>11.44791</d>
+<d>11.37621</d>
+<d>29.90135</d>
+<d>32.44324</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table3" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Top 100 Su2C</Title>
+<RowTitlesColumn Width="556">
+<Subcolumn>
+<d>PI3K/AKT activation</d>
+<d>PI3K/AKT Signaling in Cancer</d>
+<d>PIP3 activates AKT signaling</d>
+<d>Signaling by NOTCH</d>
+<d>Toll Like Receptor 7/8 (TLR7/8) Cascade</d>
+<d>Toll Like Receptor 9 (TLR9) Cascade</d>
+<d>Translation</d>
+<d>GAB1 signalosome</d>
+<d>NRAGE signals death through JNK</d>
+<d>Role of LAT2/NTAL/LAB on calcium mobilization</d>
+<d>Signaling by Insulin receptor</d>
+<d>Signaling by Wnt</d>
+<d>Cell death signalling via NRAGE, NRIF and NADE</d>
+<d>Cell junction organization</d>
+<d>Collagen biosynthesis and modifying enzymes</d>
+<d>Signaling by Interleukins</d>
+<d>Toll Like Receptor 4 (TLR4) Cascade</d>
+<d>Transcription</d>
+<d>Chromosome Maintenance</d>
+<d>Metabolism of RNA</d>
+<d>PPARA Activates Gene Expression</d>
+<d>Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)</d>
+<d>Transcriptional Regulation of White Adipocyte Differentiation</d>
+<d>Downstream signaling of activated FGFR</d>
+<d>Phospholipid metabolism</d>
+<d>Processing of Capped Intron-Containing Pre-mRNA</d>
+<d>Signaling by ERBB2</d>
+<d>Stimuli-sensing channels</d>
+<d>Factors involved in megakaryocyte development and platelet production</d>
+<d>L1CAM interactions</d>
+<d>Metabolism of amino acids and derivatives</d>
+<d>Signaling by FGFR</d>
+<d>Signaling by SCF-KIT</d>
+<d>Collagen formation</d>
+<d>Glycosaminoglycan metabolism</d>
+<d>M Phase</d>
+<d>MPS I - Hurler syndrome</d>
+<d>MPS II - Hunter syndrome</d>
+<d>MPS IIIA - Sanfilippo syndrome A</d>
+<d>MPS IIIB - Sanfilippo syndrome B</d>
+<d>MPS IIIC - Sanfilippo syndrome C</d>
+<d>MPS IIID - Sanfilippo syndrome D</d>
+<d>MPS IV - Morquio syndrome A</d>
+<d>MPS IV - Morquio syndrome B</d>
+<d>MPS IX - Natowicz syndrome</d>
+<d>MPS VI - Maroteaux-Lamy syndrome</d>
+<d>MPS VII - Sly syndrome</d>
+<d>Mucopolysaccharidoses</d>
+<d>Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell</d>
+<d>Peptide ligand-binding receptors</d>
+<d>DAP12 signaling</d>
+<d>Downstream Signaling Events Of B Cell Receptor (BCR)</d>
+<d>HIV Infection</d>
+<d>p75 NTR receptor-mediated signalling</d>
+<d>Platelet degranulation</d>
+<d>Response to elevated platelet cytosolic Ca2+</d>
+<d>Toll-Like Receptors Cascades</d>
+<d>DAP12 interactions</d>
+<d>Mitotic M-M/G1 phases</d>
+<d>Signaling by FGFR in disease</d>
+<d>Downstream signal transduction</d>
+<d>Signaling by EGFR</d>
+<d>Signaling by EGFR in Cancer</d>
+<d>Signaling by ERBB4</d>
+<d>Signaling by the B Cell Receptor (BCR)</d>
+<d>mRNA Processing</d>
+<d>NGF signalling via TRKA from the plasma membrane</d>
+<d>Antigen processing: Ubiquitination &amp;amp; Proteasome degradation</d>
+<d>Cellular Senescence</d>
+<d>Interferon Signaling</d>
+<d>Fatty acid, triacylglycerol, and ketone body metabolism</d>
+<d>G alpha (i) signalling events</d>
+<d>Signaling by PDGF</d>
+<d>Rho GTPase cycle</d>
+<d>Signaling by Rho GTPases</d>
+<d>Class I MHC mediated antigen processing &amp;amp; presentation</d>
+<d>G alpha (q) signalling events</d>
+<d>SLC-mediated transmembrane transport</d>
+<d>Fc epsilon receptor (FCERI) signaling</d>
+<d>Gastrin-CREB signalling pathway via PKC and MAPK</d>
+<d>Termination of O-glycan biosynthesis</d>
+<d>Transmission across Chemical Synapses</d>
+<d>Class A/1 (Rhodopsin-like receptors)</d>
+<d>Ion channel transport</d>
+<d>O-linked glycosylation of mucins</d>
+<d>Cell Cycle, Mitotic</d>
+<d>Platelet activation, signaling and aggregation</d>
+<d>Metabolism of carbohydrates</d>
+<d>Cytokine Signaling in Immune system</d>
+<d>Axon guidance</d>
+<d>Signalling by NGF</d>
+<d>GPCR ligand binding</d>
+<d>Olfactory Signaling Pathway</d>
+<d>Post-translational protein modification</d>
+<d>Generic Transcription Pathway</d>
+<d>Innate Immune System</d>
+<d>Adaptive Immune System</d>
+<d>Metabolism of lipids and lipoproteins</d>
+<d>GPCR downstream signaling</d>
+<d>Signaling by GPCR</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title>Su2C</Title>
+<Subcolumn>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.636364</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.727273</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.818182</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>1.909091</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.090909</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.363636</d>
+<d>2.454545</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.727273</d>
+<d>2.727273</d>
+<d>2.727273</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>3</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.363636</d>
+<d>3.545455</d>
+<d>3.727273</d>
+<d>4.272727</d>
+<d>4.363636</d>
+<d>4.454545</d>
+<d>4.636364</d>
+<d>4.818182</d>
+<d>5.363636</d>
+<d>5.818182</d>
+<d>6.363636</d>
+<d>6.636364</d>
+<d>7.818182</d>
+<d>12.09091</d>
+<d>13</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.694912</d>
+<d>1.967925</d>
+<d>1.967925</d>
+<d>1.29334</d>
+<d>1.75292</d>
+<d>0.934199</d>
+<d>1.572491</d>
+<d>1.75292</d>
+<d>1.572491</d>
+<d>0.924416</d>
+<d>1.286291</d>
+<d>1.361817</d>
+<d>1.501514</d>
+<d>1.68954</d>
+<d>1.629278</d>
+<d>1.793929</d>
+<d>0.786245</d>
+<d>1.55505</d>
+<d>1.55505</d>
+<d>1.55505</d>
+<d>1.778661</d>
+<d>1.662419</d>
+<d>1.167748</d>
+<d>1.778661</d>
+<d>1.88776</d>
+<d>1.445998</d>
+<d>1.700267</d>
+<d>1.868397</d>
+<d>1.868397</d>
+<d>1.700267</d>
+<d>1.341641</d>
+<d>1.264911</d>
+<d>1</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.788854</d>
+<d>1.414214</d>
+<d>1.758098</d>
+<d>2.343269</d>
+<d>1.868397</d>
+<d>1.375103</d>
+<d>2.547726</d>
+<d>2.547726</d>
+<d>2.42712</d>
+<d>1.721522</d>
+<d>0.98165</d>
+<d>2.088932</d>
+<d>2.195036</d>
+<d>2.101947</d>
+<d>2.101947</d>
+<d>2.00454</d>
+<d>2.412091</d>
+<d>1.361817</d>
+<d>2.0181</d>
+<d>1.809068</d>
+<d>2.0181</d>
+<d>1.916436</d>
+<d>2.453198</d>
+<d>2.572583</d>
+<d>2.572583</d>
+<d>2.926369</d>
+<d>2.926369</d>
+<d>2.0226</d>
+<d>2.385563</d>
+<d>2.625054</d>
+<d>2.48998</d>
+<d>2.750207</d>
+<d>7.947555</d>
+<d>2.482667</d>
+<d>2.053821</d>
+<d>2.493628</d>
+<d>7.925792</d>
+<d>1.120065</d>
+<d>2.583162</d>
+<d>2.24013</d>
+<d>2.760105</d>
+<d>3.074824</d>
+<d>3.110101</d>
+<d>3.074824</d>
+<d>8.953415</d>
+<d>7.965836</d>
+<d>4.16697</d>
+<d>5.143398</d>
+<d>4.985433</d>
+<d>5.036232</d>
+<d>9.224473</d>
+<d>9.197826</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table5" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Top 100 TCGA + Su2C</Title>
+<RowTitlesColumn Width="308">
+<Subcolumn>
+<d>PI3K events in ERBB4 signaling</d>
+<d>PI3K events in ERBB2 signaling</d>
+<d>PI-3K cascade</d>
+<d>Oxidative Stress Induced Senescence</d>
+<d>Interferon Signaling</d>
+<d>Signaling by Interleukins</d>
+<d>Signaling by Wnt</d>
+<d>PI3K/AKT activation</d>
+<d>Response to elevated platelet cytosolic Ca2+</d>
+<d>Collagen formation</d>
+<d>Toll Like Receptor 4 (TLR4) Cascade</d>
+<d>Signaling by Insulin receptor</d>
+<d>Role of LAT2/NTAL/LAB on calcium mobilization</d>
+<d>GAB1 signalosome</d>
+<d>Translation</d>
+<d>Meiotic Recombination</d>
+<d>RNA Polymerase I Promoter Clearance</d>
+<d>mRNA Processing</d>
+<d>Phospholipid metabolism</d>
+<d>Separation of Sister Chromatids</d>
+<d>Meiotic Synapsis</d>
+<d>RNA Polymerase II Transcription</d>
+<d>Mitotic G1-G1/S phases</d>
+<d>RNA Polymerase I Transcription</d>
+<d>Mucopolysaccharidoses</d>
+<d>MPS VII - Sly syndrome</d>
+<d>MPS VI - Maroteaux-Lamy syndrome</d>
+<d>MPS IX - Natowicz syndrome</d>
+<d>MPS IV - Morquio syndrome B</d>
+<d>MPS IV - Morquio syndrome A</d>
+<d>MPS IIID - Sanfilippo syndrome D</d>
+<d>MPS IIIC - Sanfilippo syndrome C</d>
+<d>MPS IIIB - Sanfilippo syndrome B</d>
+<d>MPS IIIA - Sanfilippo syndrome A</d>
+<d>MPS II - Hunter syndrome</d>
+<d>MPS I - Hurler syndrome</d>
+<d>Glycosaminoglycan metabolism</d>
+<d>Metabolism of amino acids and derivatives</d>
+<d>Stimuli-sensing channels</d>
+<d>PPARA Activates Gene Expression</d>
+<d>Late Phase of HIV Life Cycle</d>
+<d>Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)</d>
+<d>Toll-Like Receptors Cascades</d>
+<d>Chromosome Maintenance</d>
+<d>HIV Life Cycle</d>
+<d>Mitotic Metaphase and Anaphase</d>
+<d>Mitotic Anaphase</d>
+<d>SLC-mediated transmembrane transport</d>
+<d>Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell</d>
+<d>Signaling by ERBB4</d>
+<d>Signaling by SCF-KIT</d>
+<d>Downstream signaling of activated FGFR</d>
+<d>DAP12 interactions</d>
+<d>DAP12 signaling</d>
+<d>Cellular Senescence</d>
+<d>Downstream Signaling Events Of B Cell Receptor (BCR)</d>
+<d>Signaling by FGFR</d>
+<d>Potassium Channels</d>
+<d>RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription</d>
+<d>Downstream signal transduction</d>
+<d>Signaling by ERBB2</d>
+<d>Biological oxidations</d>
+<d>Metabolism of mRNA</d>
+<d>Transmission across Chemical Synapses</d>
+<d>Antigen processing: Ubiquitination &amp;amp; Proteasome degradation</d>
+<d>Signaling by FGFR in disease</d>
+<d>M Phase</d>
+<d>Fc epsilon receptor (FCERI) signaling</d>
+<d>G alpha (q) signalling events</d>
+<d>Fatty acid, triacylglycerol, and ketone body metabolism</d>
+<d>Signaling by the B Cell Receptor (BCR)</d>
+<d>Signaling by EGFR in Cancer</d>
+<d>Signaling by EGFR</d>
+<d>Class I MHC mediated antigen processing &amp;amp; presentation</d>
+<d>Peptide ligand-binding receptors</d>
+<d>Post-translational protein modification</d>
+<d>HIV Infection</d>
+<d>Gastrin-CREB signalling pathway via PKC and MAPK</d>
+<d>Metabolism of RNA</d>
+<d>G alpha (i) signalling events</d>
+<d>Ion channel transport</d>
+<d>Metabolism of carbohydrates</d>
+<d>NGF signalling via TRKA from the plasma membrane</d>
+<d>Mitotic M-M/G1 phases</d>
+<d>Signaling by PDGF</d>
+<d>Cytokine Signaling in Immune system</d>
+<d>Platelet activation, signaling and aggregation</d>
+<d>Signalling by NGF</d>
+<d>Transcription</d>
+<d>Class A/1 (Rhodopsin-like receptors)</d>
+<d>Axon guidance</d>
+<d>Cell Cycle, Mitotic</d>
+<d>Olfactory Signaling Pathway</d>
+<d>GPCR ligand binding</d>
+<d>Generic Transcription Pathway</d>
+<d>Adaptive Immune System</d>
+<d>Innate Immune System</d>
+<d>Metabolism of lipids and lipoproteins</d>
+<d>GPCR downstream signaling</d>
+<d>Signaling by GPCR</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title>TCGA</Title>
+<Subcolumn>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.181818</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.363636</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.454545</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.545455</d>
+<d>2.636364</d>
+<d>2.727273</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.818182</d>
+<d>2.909091</d>
+<d>2.909091</d>
+<d>3.090909</d>
+<d>3.090909</d>
+<d>3.090909</d>
+<d>3.181818</d>
+<d>3.181818</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.272727</d>
+<d>3.363636</d>
+<d>3.363636</d>
+<d>3.363636</d>
+<d>3.454545</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.545455</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.636364</d>
+<d>3.727273</d>
+<d>3.727273</d>
+<d>3.818182</d>
+<d>3.818182</d>
+<d>3.909091</d>
+<d>3.909091</d>
+<d>4</d>
+<d>4</d>
+<d>4.090909</d>
+<d>4.181818</d>
+<d>4.272727</d>
+<d>4.272727</d>
+<d>4.272727</d>
+<d>4.454545</d>
+<d>4.636364</d>
+<d>5.090909</d>
+<d>5.181818</d>
+<d>5.272727</d>
+<d>5.454545</d>
+<d>5.727273</d>
+<d>6.363636</d>
+<d>6.636364</d>
+<d>7.181818</d>
+<d>8.636364</d>
+<d>9.363636</d>
+<d>9.727273</d>
+<d>10.72727</d>
+<d>15.09091</d>
+<d>16.81818</d>
+</Subcolumn>
+<Subcolumn>
+<d>2.891995</d>
+<d>2.891995</d>
+<d>2.891995</d>
+<d>4.729021</d>
+<d>3.101319</d>
+<d>3.133398</d>
+<d>3.466725</d>
+<d>2.866737</d>
+<d>2.377929</d>
+<d>4.031693</d>
+<d>2.838053</d>
+<d>3.557323</d>
+<d>3.042128</d>
+<d>3.042128</d>
+<d>4.295875</d>
+<d>4.105429</d>
+<d>4.631905</d>
+<d>3.445682</d>
+<d>2.544156</d>
+<d>2.978712</d>
+<d>3.984059</d>
+<d>3.724611</d>
+<d>2.841255</d>
+<d>4.926736</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.751363</d>
+<d>3.697665</d>
+<d>3.173756</d>
+<d>3.173756</d>
+<d>3.697665</d>
+<d>3.294624</d>
+<d>3.2891</d>
+<d>4.214693</d>
+<d>4.094342</d>
+<d>3.600505</d>
+<d>3.600505</d>
+<d>3.832872</d>
+<d>4.229765</d>
+<d>3.961175</d>
+<d>3.98634</d>
+<d>3.780332</d>
+<d>3.970345</d>
+<d>3.970345</d>
+<d>5.693697</d>
+<d>4.02718</d>
+<d>3.951985</d>
+<d>3.849439</d>
+<d>5.623005</d>
+<d>4.388</d>
+<d>4.105429</d>
+<d>4.759679</d>
+<d>4.390071</d>
+<d>5.106146</d>
+<d>4.227615</d>
+<d>4.590504</d>
+<d>4.227615</d>
+<d>4.566678</d>
+<d>6.652409</d>
+<d>4.388</d>
+<d>4.410731</d>
+<d>4.60632</d>
+<d>4.60632</d>
+<d>4.512609</d>
+<d>7.250078</d>
+<d>6.284179</d>
+<d>5.337688</d>
+<d>6.663332</d>
+<d>5.234501</d>
+<d>7.217403</d>
+<d>5.437245</d>
+<d>6.958317</d>
+<d>5.139862</d>
+<d>4.900835</d>
+<d>6.022684</d>
+<d>6.168837</d>
+<d>5.906853</d>
+<d>6.431457</d>
+<d>8.52163</d>
+<d>11.79291</d>
+<d>6.27839</d>
+<d>7.852041</d>
+<d>15.85101</d>
+<d>14.36536</d>
+<d>10.96606</d>
+<d>11.44791</d>
+<d>11.58526</d>
+<d>11.37621</d>
+<d>29.90135</d>
+<d>32.44324</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="243" Decimals="6" Subcolumns="3">
+<Title>Su2C</Title>
+<Subcolumn>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>1.454545</d>
+<d>2.545455</d>
+<d>1.636364</d>
+<d>1.545455</d>
+<d>1.454545</d>
+<d>2.090909</d>
+<d>2</d>
+<d>1.636364</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.545455</d>
+<d>1.454545</d>
+<d>0.909091</d>
+<d>0.636364</d>
+<d>2.363636</d>
+<d>1.818182</d>
+<d>1.272727</d>
+<d>1.272727</d>
+<d>1</d>
+<d>0.818182</d>
+<d>0.636364</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>2</d>
+<d>1.909091</d>
+<d>1.818182</d>
+<d>1.727273</d>
+<d>1.363636</d>
+<d>1.727273</d>
+<d>2.090909</d>
+<d>1.727273</d>
+<d>1.454545</d>
+<d>1.363636</d>
+<d>1.363636</d>
+<d>2.909091</d>
+<d>2</d>
+<d>2.272727</d>
+<d>1.909091</d>
+<d>1.818182</d>
+<d>2.181818</d>
+<d>2.090909</d>
+<d>2.545455</d>
+<d>2.090909</d>
+<d>1.909091</d>
+<d>1.363636</d>
+<d>0.909091</d>
+<d>2.272727</d>
+<d>1.818182</d>
+<d>1.090909</d>
+<d>1.363636</d>
+<d>3.181818</d>
+<d>2.545455</d>
+<d>2.181818</d>
+<d>2</d>
+<d>3</d>
+<d>2.909091</d>
+<d>2.727273</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.272727</d>
+<d>2.909091</d>
+<d>2</d>
+<d>5.363636</d>
+<d>2.090909</d>
+<d>3.181818</d>
+<d>1.727273</d>
+<d>2.727273</d>
+<d>3.272727</d>
+<d>3.727273</d>
+<d>2.454545</d>
+<d>2.181818</d>
+<d>2.727273</d>
+<d>4.272727</d>
+<d>3.545455</d>
+<d>4.454545</d>
+<d>1.636364</d>
+<d>3.272727</d>
+<d>4.363636</d>
+<d>3.363636</d>
+<d>4.818182</d>
+<d>4.636364</d>
+<d>5.818182</d>
+<d>6.636364</d>
+<d>6.363636</d>
+<d>7.818182</d>
+<d>12.09091</d>
+<d>13</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.634848</d>
+<d>1.439697</d>
+<d>1.916436</d>
+<d>1.501514</d>
+<d>1.572491</d>
+<d>1.634848</d>
+<d>2.547726</d>
+<d>1.341641</d>
+<d>1.68954</d>
+<d>1.75292</d>
+<d>1.572491</d>
+<d>1.75292</d>
+<d>1.29334</d>
+<d>1.375103</d>
+<d>1.206045</d>
+<d>1.361817</d>
+<d>1.662419</d>
+<d>0.904534</d>
+<d>1.489356</d>
+<d>1.341641</d>
+<d>0.873863</d>
+<d>1.206045</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.264911</d>
+<d>1.868397</d>
+<d>1.88776</d>
+<d>1.55505</d>
+<d>1.433369</d>
+<d>1.55505</d>
+<d>2.42712</d>
+<d>1.793929</d>
+<d>1.572491</d>
+<d>0.80904</d>
+<d>0.80904</d>
+<d>2.625054</d>
+<d>1.788854</d>
+<d>2.00454</d>
+<d>1.700267</d>
+<d>1.778661</d>
+<d>1.721522</d>
+<d>1.758098</d>
+<d>2.0181</d>
+<d>2.343269</d>
+<d>1.868397</d>
+<d>1.206045</d>
+<d>1.221028</d>
+<d>2.195036</d>
+<d>1.778661</d>
+<d>0.831209</d>
+<d>0.6742</d>
+<d>2.482667</d>
+<d>1.809068</d>
+<d>2.088932</d>
+<d>1</d>
+<d>2.48998</d>
+<d>2.385563</d>
+<d>2.453198</d>
+<d>2.412091</d>
+<d>2.101947</d>
+<d>2.101947</d>
+<d>2.0226</d>
+<d>1.414214</d>
+<d>7.965836</d>
+<d>1.868397</d>
+<d>2.750207</d>
+<d>0.786245</d>
+<d>2.572583</d>
+<d>2.493628</d>
+<d>2.24013</d>
+<d>2.0181</d>
+<d>0.98165</d>
+<d>2.572583</d>
+<d>2.760105</d>
+<d>2.583162</d>
+<d>3.110101</d>
+<d>1.629278</d>
+<d>2.053821</d>
+<d>3.074824</d>
+<d>1.120065</d>
+<d>8.953415</d>
+<d>3.074824</d>
+<d>4.16697</d>
+<d>4.985433</d>
+<d>5.143398</d>
+<d>5.036232</d>
+<d>9.224473</d>
+<d>9.197826</d>
+</Subcolumn>
+<Subcolumn>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+<d>11</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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</Template></GraphPadPrismFile>
