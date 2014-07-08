@@ -80,8 +80,10 @@ foreach my $name (keys %uniquesamples) {
 	}
 	$mergedhash{$_} += $muthash{$_} for keys %muthash;
 	$mergedhash{$_} += $copyhash{$_} for keys %copyhash;
-	my $fileoutput = $name." COMB".".csv";		
-	open (OUTPUT,">Input/$fileoutput") or die "Could not open output file\n";
+	my $fileoutput = $name." COMB".".csv";	
+	my $outdir = "Input/$directory";	
+	make_path("$outdir");
+	open (OUTPUT,">Input/$directory/$fileoutput") or die "Could not open output file\n";
 	foreach my $gene (keys %mergedhash) {
 		print OUTPUT ",","$gene",",","$mergedhash{$gene}\n";
 	}
