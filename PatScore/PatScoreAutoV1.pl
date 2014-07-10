@@ -18,40 +18,47 @@ print "This script works on several input documents, and produces some output st
 print "The script requires ONE input file from the user: a simple list of genetic aberrations present in the sample in the format 'Gene Name','Number' (.csv); additionally, a pathway-assignment file will be referenced automatically and will be bundled with this script\n.";
 print "Please ensure that 1. the input file is in the right format (.csv extension,) and 2. that it is in the same folder as this script.\n";
 print "\n";
-print "THIS SCRIPT IS ALREADY CONFIGURED\nAre you happy to proceed?\t";
+print "THIS SCRIPT IS ALREADY CONFIGURED\nType directory to score:\t";
 
 # -----------------	------------------ # this is all basic introductory stuff, selecting files etc, with some limited error detection
 
-my $proceedloop = ""; #this whole business is a y/n prompt - basically, does the user want to proceed? The loop runs until proceedloop becomes positive
-until ($proceedloop) {
-	print "Enter Y|N: ";
-	chomp (my $yesno = <STDIN>);
-	if ($yesno =~ /^[Y]$/i){ #matches Y or y
-		print "This script will continue.\n";
-		$proceedloop =1;
-	} elsif ($yesno =~ /^[N]$/i){ #matches N, n
-		die "This script will close.\n";	
-	} else {
-		print "What? Unrecognised character. Try again?\n";
-	}
-}
+# my $proceedloop = ""; #this whole business is a y/n prompt - basically, does the user want to proceed? The loop runs until proceedloop becomes positive
+# until ($proceedloop) {
+	# print "Enter Y|N: ";
+	# chomp (my $yesno = <STDIN>);
+	# if ($yesno =~ /^[Y]$/i){ #matches Y or y
+		# print "This script will continue.\n";
+		# $proceedloop =1;
+	# } elsif ($yesno =~ /^[N]$/i){ #matches N, n
+		# die "This script will close.\n";	
+	# } else {
+		# print "What? Unrecognised character. Try again?\n";
+	# }
+# }
 
-print "Please write the name of the file that you wish to assess \(including filetype, ie: file.csv\).\n";
- # User defines filename, relies on being in the same folder, would also accept directory of course, but it's weird on windows etc
+# print "Please write the name of the file that you wish to assess \(including filetype, ie: file.csv\).\n";
+ # # User defines filename, relies on being in the same folder, would also accept directory of course, but it's weird on windows etc
 
-my $filename = "";
+# my $filename = "";
 
-my $proceedloop2 = ""; #second proceedloop
-until ($proceedloop2) {
-	print "Enter filename: ";
-	chomp ($filename = <STDIN>);
-	if ($filename =~ /\.csv$/) { #matches .csv documents
-		print "Correct filetype, this script will continue.\n\n";
-		$proceedloop2 =1;	
-	} else {
-		print "Unrecognised filetype. Try again?\n";
-	}
-}
+# my $proceedloop2 = ""; #second proceedloop
+# until ($proceedloop2) {
+	# print "Enter filename: ";
+	# chomp ($filename = <STDIN>);
+	# if ($filename =~ /\.csv$/) { #matches .csv documents
+		# print "Correct filetype, this script will continue.\n\n";
+		# $proceedloop2 =1;	
+	# } else {
+		# print "Unrecognised filetype. Try again?\n";
+	# }
+# }
+
+chomp (my $inputdir = <STDIN>);
+my $fulldir = "Input/$inputdir";
+
+opendir DIR, $fulldir or die "This directory doesn't exist!";
+my @files = readdir DIR;
+closedir DIR;
 
 open (INPUT1,"Input/$filename") 
 	or die "Couldn't find this file, sorry. Did you name it right?\n";
@@ -87,24 +94,25 @@ close (INPUT1);
 
 # -----------------	------------------ # this section is the part where the script checks %ghash against the reference pathway document - reference documents are in the subfolder 'Database' 
 
-print "Which pathway reference document are you using? Type 1 for default or 2 to manually enter the name.\n";
+# print "Which pathway reference document are you using? Type 1 for default or 2 to manually enter the name.\n";
 
-my $decision = "";
-my $pathref = "";
-until ($pathref) {
-	print "1:default, 2:manual entry: \t ";
-	chomp ($decision = <STDIN>);
-	if ($decision == 1) {
-		print "Default file used - ReactomePathwaysTopLevelsRemoved.csv\n";
-		$pathref = "ReactomePathwaysTopLevelsRemoved.csv";
-	} elsif ($decision == 2) {
-		print "Manual entry selected - please type file name:\t ";
-		chomp ($pathref = <STDIN>);
-	}
-}
+# my $decision = "";
+# my $pathref = "";
+# until ($pathref) {
+	# print "1:default, 2:manual entry: \t ";
+	# chomp ($decision = <STDIN>);
+	# if ($decision == 1) {
+		# print "Default file used - ReactomePathwaysTopLevelsRemoved.csv\n";
+		# $pathref = "ReactomePathwaysTopLevelsRemoved.csv";
+	# } elsif ($decision == 2) {
+		# print "Manual entry selected - please type file name:\t ";
+		# chomp ($pathref = <STDIN>);
+	# }
+# }
 
 #the uncurated version is reactomepathways.csv
 
+my $pathref = "ReactomePathwaysTopLevelsRemoved.csv";
 my %pathways; # saving the pathway data in here, formatted Pathway:array of genes
 my %results; # I'd like to put all the results for each pathway in here - formatted Pathway:Score
 
