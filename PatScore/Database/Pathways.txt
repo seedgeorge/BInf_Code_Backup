@@ -1,0 +1,5386 @@
+1 Apoptosis (Pathway) 440 
+
+1.1 Extrinsic Pathway for Apoptosis (Pathway) 442 
+
+1.1.1 Death Receptor Signalling (Pathway) 444 
+
+1.1.1.1 FasL/ CD95L signaling (Pathway) 445 
+
+1.1.1.2 TNF signaling (Pathway) 454 
+
+1.1.1.3 TRAIL signaling (Pathway) 461 
+
+1.1.2 Caspase-8 activation by cleavage (Pathway) 467 
+
+1.1.2.1 Dimerization of procaspase-8 (Pathway) 468 
+
+1.1.2.3 Regulation by c-FLIP (Pathway) 475 
+
+1.1.3 Regulation by c-FLIP (Pathway) 488 
+
+1.2 Intrinsic Pathway for Apoptosis (Pathway) 490 
+
+1.2.1 Activation, myristolyation of BID and translocation to mitochondria (Pathway) 492 
+
+1.2.2 Activation of BH3-only proteins (Pathway) 498 
+
+1.2.2.1 Activation of BAD and translocation to mitochondria (Pathway) 500 
+
+1.2.2.2 Activation of NOXA and translocation to mitochondria (Pathway) 506 
+
+1.2.2.3 Activation of PUMA and translocation to mitochondria (Pathway) 510 
+
+1.2.2.4 Activation of BIM and translocation to mitochondria (Pathway) 515 
+
+1.2.2.5 Activation of BMF and translocation to mitochondria (Pathway) 518 
+
+1.2.3 BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members 520 (Pathway) 
+
+1.2.4 Activation, translocation and oligomerization of BAX (Pathway) 524 
+
+1.2.5 Activation and oligomerization of BAK protein (Pathway) 527 
+
+1.2.6 Release of apoptotic factors from the mitochondria (Pathway) 530 
+
+1.2.7 Apoptotic factor-mediated response (Pathway) 533 
+
+1.2.7.1 Cytochrome c-mediated apoptotic response (Pathway) 534 
+
+1.2.7.1.1 Formation of apoptosome (Pathway) 536 
+
+1.2.7.1.2 Activation of caspases through apoptosome-mediated cleavage (Pathway) 538 
+
+1.2.7.2 SMAC-mediated apoptotic response (Pathway) 542 
+
+1.2.7.2.1 SMAC binds to IAPs (Pathway) 544 
+
+1.2.7.2.2 SMAC-mediated dissociation of IAP:caspase complexes (Pathway) 548 
+
+1.3 Apoptotic execution phase (Pathway) 552 
+
+1.3.1 Apoptotic cleavage of cellular proteins (Pathway) 555 
+
+1.3.1.1 Caspase-mediated cleavage of cytoskeletal proteins (Pathway) 556 
+
+1.3.1.2 Apoptotic cleavage of cell adhesion proteins (Pathway) 570 
+
+1.3.1.3 Breakdown of the nuclear lamina (Pathway) 585 
+
+1.3.2 Apoptosis induced DNA fragmentation (Pathway) 608 
+
+1.3.2.1 Activation of DNA fragmentation factor (Pathway) 609 
+
+1.3.3 Stimulation of the cell death response by PAK-2p34 (Pathway) 624 
+
+1.4 Regulation of Apoptosis (Pathway) 637 
+
+1.4.1 Regulation of activated PAK-2p34 by proteasome mediated degradation (Pathway) 638 
+
+1.4.2 Regulation of PAK-2p34 activity by PS-GAP/RHG10 (Pathway) 643 
+
+1.4.3 Role of DCC in regulating apoptosis (Pathway) 648 
+
+1.4.3.8 UNC5A binds NRAGE (Reaction) 660 2 Binding and Uptake of Ligands by Scavenger Receptors (Pathway) 663 
+
+2.1 Scavenging of heme from plasma (Pathway) 664 
+
+2.2 Scavenging by Class A Receptors (Pathway) 684 
+
+2.3 Scavenging by Class B Receptors (Pathway) 705 
+
+2.3.4 SCARB1:ligand is endocytosed (BlackBoxEvent) 713 2.4 Scavenging by Class F Receptors (Pathway) 715 
+
+2.5 Scavenging by Class H Receptors (Pathway) 720 
+
+2.5.4 STAB2:ligand is endocytosed (BlackBoxEvent) 726 3 Cell Cycle (Pathway) 728 
+
+3.1 Cell Cycle Checkpoints (Pathway) 729 
+
+3.1.1 G1/S DNA Damage Checkpoints (Pathway) 730 
+
+3.1.1.1 p53-Dependent G1/S DNA damage checkpoint (Pathway) 731 
+
+3.1.1.1.1 p53-Dependent G1 DNA Damage Response (Pathway) 732 
+
+3.1.1.1.1.1 Stabilization of p53 (Pathway) 733 
+
+3.1.1.1.1.1.3 Autodegradation of the E3 ubiquitin ligase COP1 (Pathway) 737 
+
+3.1.1.1.1.2 Transcriptional activation of p53 responsive genes (Pathway) 744 
+
+3.1.1.1.1.2.1 Transcriptional activation of cell cycle inhibitor p21 (Pathway) 745 
+
+3.1.1.2 p53-Independent G1/S DNA damage checkpoint (Pathway) 750 
+
+3.1.1.2.1 p53-Independent DNA Damage Response (Pathway) 750 
+
+3.1.1.2.1.2 Ubiquitin Mediated Degradation of Phosphorylated Cdc25A (Pathway) 753 
+
+3.1.2 G2/M Checkpoints (Pathway) 757 
+
+3.1.2.1 G2/M DNA damage checkpoint (Pathway) 757 
+
+3.1.2.1.3 Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex (Pathway) 762 
+
+3.1.2.2 G2/M DNA replication checkpoint (Pathway) 768 
+
+3.1.2.3 Activation of ATR in response to replication stress (Pathway) 770 
+
+3.1.3 Mitotic Spindle Checkpoint (Pathway) 786 
+
+3.1.3.1 Amplification of signal from the kinetochores (Pathway) 787 
+
+3.1.3.1.1 Amplification of signal from unattached kinetochores via a MAD2 inhibitory 788 signal (Pathway) 
+
+3.1.3.2 Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by792 mitotic spindle checkpoint components (Pathway) 
+
+3.1.3.2.2 Inactivation of APC/C via direct inhibition of the APC/C complex (Pathway) 795 
+
+3.2 Cell Cycle, Mitotic (Pathway) 798 
+
+3.2.1 Mitotic G1-G1/S phases (Pathway) 799 
+
+3.2.1.1 G0 and Early G1 (Pathway) 800 
+
+3.2.1.2 G1 Phase (Pathway) 812 
+
+3.2.1.2.1 Cyclin D associated events in G1 (Pathway) 813 
+
+3.2.1.3 G1/S Transition (Pathway) 828 
+
+3.2.1.3.1 Cyclin E associated events during G1/S transition (Pathway) 829 
+
+3.2.1.3.1.6 SCF(Skp2)-mediated degradation of p27/p21 (Pathway) 834 
+
+3.2.1.3.1.14 Phosphorylation of proteins involved in G1/S transition by active Cyclin 853 E:Cdk2 complexes (Pathway) 
+
+3.2.1.3.2 G1/S-Specific Transcription (Pathway) 855 
+
+3.2.1.3.3 Activation of the pre-replicative complex (Pathway) 858 
+
+3.2.1.3.4 E2F mediated regulation of DNA replication (Pathway) 868 
+
+3.2.1.3.4.1 Inhibition of replication initiation of damaged DNA by RB1/E2F1 (Pathway) 869 
+
+3.2.1.3.4.2 E2F-enabled inhibition of pre-replication complex formation (Pathway) 872 
+
+3.2.2 S Phase (Pathway) 874 
+
+3.2.2.1 Cyclin A:Cdk2-associated events at S phase entry (Pathway) 875 
+
+3.2.2.1.5 SCF(Skp2)-mediated degradation of p27/p21 (Pathway) 879 
+
+3.2.2.2 Synthesis of DNA (Pathway) 889 
+
+3.2.2.2.1 DNA replication initiation (Pathway) 889 
+
+3.2.2.2.2 Switching of origins to a post-replicative state (Pathway) 892 
+
+3.2.2.2.2.1 Orc1 removal from chromatin (Pathway) 892 
+
+3.2.2.2.2.2 CDK-mediated phosphorylation and removal of Cdc6 (Pathway) 896 
+
+3.2.2.2.3 DNA strand elongation (Pathway) 902 
+
+3.2.2.2.3.1 Unwinding of DNA (Pathway) 903 
+
+3.2.2.2.3.2 Leading Strand Synthesis (Pathway) 909 
+
+3.2.2.2.3.2.1 Polymerase switching (Pathway) 910 
+
+3.2.2.2.3.3 Lagging Strand Synthesis (Pathway) 916 
+
+3.2.2.2.3.3.1 Polymerase switching (Pathway) 916 
+
+3.2.2.2.3.3.2 Processive synthesis on the lagging strand (Pathway) 917 
+
+3.2.2.2.3.3.2.3 Removal of the Flap Intermediate (Pathway) 920 
+
+3.2.2.3 Ubiquitin-dependent degradation of Cyclin D (Pathway) 925 
+
+3.2.2.3.1 Ubiquitin-dependent degradation of Cyclin D1 (Pathway) 926 
+
+3.2.2.4 Establishment of Sister Chromatid Cohesion (Pathway) 930 
+
+3.2.3 Regulation of DNA replication (Pathway) 938 
+
+3.2.3.1 Association of licensing factors with the pre-replicative complex (Pathway) 939 
+
+3.2.3.2 Removal of licensing factors from origins (Pathway) 941 
+
+3.2.3.2.1 Orc1 removal from chromatin (Pathway) 942 
+
+3.2.3.2.4 CDK-mediated phosphorylation and removal of Cdc6 (Pathway) 944 
+
+3.2.4 Mitotic G2-G2/M phases (Pathway) 946 
+
+3.2.4.1 G2 Phase (Pathway) 946 
+
+3.2.4.2 G2/M Transition (Pathway) 949 
+
+3.2.4.2.1 Cyclin A/B1 associated events during G2/M transition (Pathway) 950 
+
+3.2.4.2.1.8 Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2961 complexes (Pathway) 
+
+3.2.4.2.2 Cyclin B2 mediated events (Pathway) 978 
+
+3.2.4.2.3 Regulation of PLK1 Activity at G2/M Transition (Pathway) 983 
+
+3.2.4.2.4 Polo-like kinase mediated events (Pathway) 999 
+
+3.2.4.2.5 Centrosome maturation (Pathway) 1023 
+
+3.2.4.2.5.1 Recruitment of mitotic centrosome proteins and complexes (Pathway) 1024 
+
+3.2.4.2.5.1.3 Recruitment of NuMA to mitotic centrosomes (Pathway) 1029 
+
+3.2.4.2.5.2 Loss of proteins required for interphase microtubule organizationÂ from the 1037 centrosome (Pathway) 
+
+3.2.4.2.5.2.2 Loss of Nlp from mitotic centrosomes (Pathway) 1039 
+
+3.2.5 M Phase (Pathway) 1042 
+
+3.2.5.1 Mitotic Prophase (Pathway) 1043 
+
+3.2.5.1.1 Golgi Cisternae Pericentriolar Stack Reorganization (Pathway) 1043 
+
+3.2.5.1.2 Condensation of Prophase Chromosomes (Pathway) 1059 
+
+3.2.5.1.3 MASTL Facilitates Mitotic Progression (Pathway) 1075 
+
+3.2.5.1.4 Nuclear Envelope Breakdown (Pathway) 1083 
+
+3.2.5.1.4.1 Activation of NIMA Kinases NEK9, NEK6, NEK7 (Pathway) 1084 
+
+3.2.5.1.4.2 Nuclear Pore Complex (NPC) Disassembly (Pathway) 1091 
+
+3.2.5.1.4.3 Clearance of Nuclear Envelope Membranes from Chromatin (Pathway) 1095 
+
+3.2.5.1.4.4 Depolymerisation of the Nuclear Lamina (Pathway) 1100 
+
+3.2.5.2 Mitotic Prometaphase (Pathway) 1112 
+
+3.2.5.2.2 Resolution of Sister Chromatid Cohesion (Pathway) 1114 
+
+3.2.5.2.3 Condensation of Prometaphase Chromosomes (Pathway) 1129 
+
+3.2.5.3 Mitotic Metaphase and Anaphase (Pathway) 1139 
+
+3.2.5.3.1 Mitotic Metaphase/Anaphase Transition (Pathway) 1139 
+
+3.2.5.3.2 Mitotic Anaphase (Pathway) 1142 
+
+3.2.5.3.2.1 Separation of Sister Chromatids (Pathway) 1142 
+
+3.2.5.3.2.2 Nuclear Envelope Reassembly (Pathway) 1154 
+
+3.2.5.3.2.2.1 Initiation of Nuclear Envelope Reformation (Pathway) 1155 
+
+3.2.5.4 Mitotic Telophase/Cytokinesis (Pathway) 1161 
+
+3.2.5.4.4 Cohesin Loading onto Chromatin (Pathway) 1163 
+
+3.2.6 M/G1 Transition (Pathway) 1168 
+
+3.2.6.1 DNA Replication Pre-Initiation (Pathway) 1168 
+
+3.2.6.1.1 Assembly of the pre-replicative complex (Pathway) 1169 
+
+3.2.6.1.1.1 Assembly of the ORC complex at the origin of replication (Pathway) 1171 
+
+3.2.6.1.1.3 CDC6 association with the ORC:origin complex (Pathway) 1177 
+
+3.2.6.1.1.4 CDT1 association with the CDC6:ORC:origin complex (Pathway) 1180 
+
+3.2.6.1.2 Activation of the pre-replicative complex (Pathway) 1186 
+
+3.2.7 Regulation of mitotic cell cycle (Pathway) 1188 
+
+3.2.7.1 APC/C-mediated degradation of cell cycle proteins (Pathway) 1188 
+
+3.2.7.1.1 Regulation of APC/C activators between G1/S and early anaphase (Pathway)1192 
+
+3.2.7.1.1.6 Phosphorylation of Emi1 (Pathway) 1200 
+
+3.2.7.1.1.7 SCF-beta-TrCP mediated degradation of Emi1 (Pathway) 1204 
+
+3.2.7.1.1.9 Inhibition of the proteolytic activity of APC/C required for the onset of 1209 anaphase by mitotic spindle checkpoint components (Pathway) 
+
+3.2.7.1.1.9.2 Inactivation of APC/C via direct inhibition of the APC/C complex 1210 (Pathway) 
+
+3.2.7.1.2 Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins (Pathway) 
+
+3.2.7.1.2.1 Phosphorylation of the APC/C (Pathway) 1212 
+
+3.2.7.1.2.2 APC/C:Cdc20 mediated degradation of mitotic proteins (Pathway) 1215 
+
+3.2.7.1.2.2.2 APC/C:Cdc20 mediated degradation of Cyclin B (Pathway) 1218 
+
+3.2.7.1.2.2.3 APC/C:Cdc20 mediated degradation of Securin (Pathway) 1222 
+
+3.2.7.1.3 Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase (Pathway) 1225 
+
+3.2.7.1.4 APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted1229 proteins in late mitosis/early G1 (Pathway) 
+
+3.2.7.1.5 Autodegradation of Cdh1 by Cdh1:APC/C (Pathway) 1238 
+
+3.3 Chromosome Maintenance (Pathway) 1241 
+
+3.3.1 Nucleosome assembly (Pathway) 1242 
+
+3.3.1.1 Deposition of new CENPA-containing nucleosomes at the centromere (Pathway)1243 
+
+3.3.2 Telomere Maintenance (Pathway) 1250 
+
+3.3.2.1 Extension of Telomeres (Pathway) 1254 
+
+3.3.2.1.1 Telomere Extension By Telomerase (Pathway) 1254 
+
+3.3.2.1.2 Telomere C-strand (Lagging Strand) Synthesis (Pathway) 1273 
+
+3.3.2.1.2.1 Telomere C-strand synthesis initiation (Pathway) 1274 
+
+3.3.2.1.2.2 Polymerase switching on the C-strand of the telomere (Pathway) 1278 
+
+3.3.2.1.2.3 Processive synthesis on the C-strand of the telomere (Pathway) 1285 
+
+3.3.2.1.2.3.3 Removal of the Flap Intermediate from the C-strand (Pathway) 1290 
+
+3.3.2.2 Packaging Of Telomere Ends (Pathway) 1298 
+
+3.4 Meiosis (Pathway) 1306 
+
+3.4.1 Meiotic recombination (Pathway) 1307 
+
+3.4.2 Meiotic synapsis (Pathway) 1332 
+
+3.4.2.6 ATR phosphorylates Histone H2A.X at unsynapsed regions (Reaction) 1346 4 Cell-Cell communication (Pathway) 1348 
+
+4.1 Cell junction organization (Pathway) 1349 
+
+4.1.1 Cell-cell junction organization (Pathway) 1349 
+
+4.1.1.1 Adherens junctions interactions (Pathway) 1351 
+
+4.1.1.1.8 Nectin/Necl trans heterodimerization (Pathway) 1362 
+
+4.1.1.2 Tight junction interactions (Pathway) 1373 
+
+4.1.2 Cell-extracellular matrix interactions (Pathway) 1383 
+
+4.1.2.2 Localization of the PINCH-ILK-PARVIN complex to focal adhesions (Pathway) 1386 
+
+4.1.2.3 Regulation of cytoskeletal remodeling and cell spreading by IPP complex 1389 components (Pathway) 
+
+4.1.3 Type I hemidesmosome assembly (Pathway) 1400 
+
+4.2 Signal regulatory protein (SIRP) family interactions (Pathway) 1408 
+
+4.3 DSCAM interactions (Pathway) 1426 
+
+4.4 Nephrin interactions (Pathway) 1436 
+
+4.4.12 Interaction of nephrin with adherens junction-associated proteins (Reaction) 1455 5 Cellular responses to stress (Pathway) 1458 
+
+5.1 Cellular response to hypoxia (Pathway) 1459 
+
+5.1.1 Regulation of Hypoxia-inducible Factor (HIF) by oxygen (Pathway) 1460 
+
+5.1.1.1 Oxygen-dependent asparagine hydroxylation of Hypoxia-inducible Factor Alpha 1461 (Pathway) 
+
+5.1.1.2 Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha 1465 (Pathway) 
+
+5.1.1.3 Regulation of gene expression by Hypoxia-inducible Factor (Pathway) 1492 5.1.1.3.1 HIF-alpha translocates from cytosol to nucleus (BlackBoxEvent) 1494 
+
+5.2 Detoxification of Reactive Oxygen Species (Pathway) 1504 
+
+5.3 Cellular response to heat stress (Pathway) 1551 
+
+5.3.1 HSF1 activation (Pathway) 1555 5.3.1.1 Dissociation of cytosolic HSF1:HSP90 complex (Reaction) 1557 
+
+5.3.2 HSF1-dependent transactivation (Pathway) 1573 
+
+5.3.2.4 Attenuation phase (Pathway) 1581 
+
+5.3.3 Regulation of HSF1-mediated heat shock response (Pathway) 1589 
+
+5.4 Cellular Senescence (Pathway) 1604 
+
+5.4.1 Oncogene Induced Senescence (Pathway) 1607 
+
+5.4.2 Oxidative Stress Induced Senescence (Pathway) 1633 
+
+5.4.3 DNA Damage/Telomere Stress Induced Senescence (Pathway) 1686 
+
+5.4.3.12 Formation of Senescence-Associated Heterochromatin Foci (SAHF) (Pathway)1700 
+
+5.4.4 Senescence-Associated Secretory Phenotype (SASP) (Pathway) 1706 
+
+5.4.4.22 AP-1 stimulates IL1A transcription (BlackBoxEvent) 1743 6 Chromatin organization (Pathway) 1746 
+
+6.1 Chromatin modifying enzymes (Pathway) 1747 
+
+6.1.1 HATs acetylate histones (Pathway) 1749 
+
+6.1.2 HDACs deacetylate histones (Pathway) 1785 
+
+6.1.3 HDMs demethylate histones (Pathway) 1800 
+
+6.1.4 RMTs methylate histone arginines (Pathway) 1817 
+
+6.1.4.19 PRMT6 methylates histone H2A arginine-30 (H2AR29) (Reaction) 1847 7 Circadian Clock (Pathway) 1849 
+
+7.6 BMAL1:CLOCK,NPAS2 activates circadian gene expression (Pathway) 1861 
+
+7.8 REV-ERBA represses gene expression (Pathway) 1894 
+
+7.21 RORA activates circadian gene expression (Pathway) 1924 
+
+7.21.5 Expression of CPT1A (BlackBoxEvent) 1928 8 Developmental Biology (Pathway) 1930 
+
+8.1 Axon guidance (Pathway) 1930 
+
+8.1.1 Semaphorin interactions (Pathway) 1931 
+
+8.1.1.1 Sema4D in semaphorin signaling (Pathway) 1933 
+
+8.1.1.1.1 Sema4D mediated inhibition of cell attachment and migration (Pathway) 1934 
+
+8.1.1.1.2 Sema4D induced cell migration and growth-cone collapse (Pathway) 1944 
+
+8.1.1.2 SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion (Pathway) 1956 
+
+8.1.1.3 Sema3A PAK dependent Axon repulsion (Pathway) 1971 
+
+8.1.1.4 CRMPs in Sema3A signaling (Pathway) 1982 
+
+8.1.1.5 Other semaphorin interactions (Pathway) 1990 
+
+8.1.2 NCAM signaling for neurite out-growth (Pathway) 2003 
+
+8.1.2.12 RAF/MAP kinase cascade (Pathway) 2026 
+
+8.1.2.12.1 RAF activation (Pathway) 2028 
+
+8.1.2.12.2 MEK activation (Pathway) 2037 
+
+8.1.2.12.2.2 RAF phosphorylates MEK (Pathway) 2039 
+
+8.1.2.12.3 ERK activation (Pathway) 2045 
+
+8.1.2.12.3.1 ERK1 activation (Pathway) 2045 
+
+8.1.2.12.3.2 ERK2 activation (Pathway) 2055 
+
+8.1.2.15 NCAM1 interactions (Pathway) 2066 
+
+8.1.3 Netrin-1 signaling (Pathway) 2083 
+
+8.1.3.1 DCC mediated attractive signaling (Pathway) 2084 
+
+8.1.3.2 Netrin mediated repulsion signals (Pathway) 2103 
+
+8.1.3.14 Role of second messengers in netrin-1 signaling (Pathway) 2127 
+
+8.1.4 Signaling by Robo receptor (Pathway) 2136 
+
+8.1.4.1 Regulation of Commissural axon pathfinding by Slit and Robo (Pathway) 2138 
+
+8.1.4.6 Inactivation of Cdc42 and Rac (Pathway) 2149 
+
+8.1.4.7 Activation of Rac (Pathway) 2158 
+
+8.1.4.8 Role of Abl in Robo-Slit signaling (Pathway) 2165 
+
+8.1.5 L1CAM interactions (Pathway) 2172 
+
+8.1.5.1 Recycling pathway of L1 (Pathway) 2174 
+
+8.1.5.2 Interaction between L1 and Ankyrins (Pathway) 2196 
+
+8.1.5.3 Signal transduction by L1 (Pathway) 2204 
+
+8.1.5.12 CHL1 interactions (Pathway) 2232 
+
+8.1.5.13 Neurofascin interactions (Pathway) 2242 
+
+8.1.5.14 NrCAM interactions (Pathway) 2254 
+
+8.1.6 EPH-Ephrin signaling (Pathway) 2262 
+
+8.1.6.7 EPHA-mediated growth cone collapse (Pathway) 2274 
+
+8.1.6.8 EPHB-mediated forward signaling (Pathway) 2286 
+
+8.1.6.9 Ephrin signaling (Pathway) 2328 
+
+8.1.6.10 EPH-ephrin mediated repulsion of cells (Pathway) 2345 
+
+8.2 Myogenesis (Pathway) 2359 
+
+8.2.1 CDO in myogenesis (Pathway) 2360 
+
+8.3 Regulation of beta-cell development (Pathway) 2383 
+
+8.3.1 Regulation of gene expression in early pancreatic precursor cells (Pathway) 2385 
+
+8.3.2 Regulation of gene expression in late stage (branching morphogenesis) pancreatic 2398 bud precursor cells (Pathway) 
+
+2407 (Pathway) 
+
+8.3.4 Regulation of gene expression in beta cells (Pathway) 2414 
+
+8.3.4.1 AKT-mediated inactivation of FOXO1A (Pathway) 2415 
+
+8.4 Signaling by NODAL (Pathway) 2442 
+
+8.4.10 Regulation of signaling by NODAL (Pathway) 2461 
+
+8.5 Transcriptional regulation of white adipocyte differentiation (Pathway) 2467 
+
+8.6 Transcriptional regulation of pluripotent stem cells (Pathway) 2511 
+
+8.6.13 POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation (Pathway)2543 
+
+8.6.14 POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation (Pathway)
+
+8.6.14.7 POU5F1 (OCT4), SOX2, NANOG bind the TSC22D1 promoter (Reaction) 2580 9 Disease (Pathway) 2582 
+
+9.1 HIV Infection (Pathway) 2583 
+
+9.1.1 HIV Life Cycle (Pathway) 2584 
+
+9.1.1.1 Early Phase of HIV Life Cycle (Pathway) 2586 
+
+9.1.1.1.1 Binding and entry of HIV virion (Pathway) 2587 
+
+9.1.1.1.2 Uncoating of the HIV Virion (Pathway) 2604 
+
+9.1.1.1.5 Reverse Transcription of HIV RNA (Pathway) 2612 
+
+9.1.1.1.5.1 Minus-strand DNA synthesis (Pathway) 2614 
+
+9.1.1.1.5.2 Plus-strand DNA synthesis (Pathway) 2633 
+
+9.1.1.1.7 Integration of provirus (Pathway) 2645 
+
+9.1.1.1.7.5 Integration of viral DNA into host genomic DNA (Pathway) 2657 
+
+9.1.1.1.7.7 2-LTR circle formation (Pathway) 2668 
+
+9.1.1.1.7.8 Autointegration results in viral DNA circles (Pathway) 2673 
+
+9.1.1.2 Late Phase of HIV Life Cycle (Pathway) 2677 
+
+9.1.1.2.1 Transcription of the HIV genome (Pathway) 2678 
+
+9.1.1.2.1.3 HIV Transcription Initiation (Pathway) 2684 
+
+9.1.1.2.1.4 RNA Polymerase II HIV Promoter Escape (Pathway) 2691 
+
+9.1.1.2.1.5 RNA Pol II CTD phosphorylation and interaction with CE (Pathway) 2703 
+
+9.1.1.2.1.6 HIV Transcription Elongation (Pathway) 2710 
+
+9.1.1.2.1.6.1 Formation of the HIV-1 Early Elongation Complex (Pathway) 2712 
+
+9.1.1.2.1.6.2 Tat-mediated elongation of the HIV-1 transcript (Pathway) 2722 
+
+9.1.1.2.1.6.2.1 Formation of HIV-1 elongation complex containing HIV-1 Tat 2724 (Pathway) 
+
+9.1.1.2.1.6.3 Abortive elongation of HIV-1 transcript in the absence of Tat (Pathway)2738 
+
+9.1.1.2.1.7 HIV elongation arrest and recovery (Pathway) 2742 
+
+9.1.1.2.1.8 Formation of HIV elongation complex in the absence of HIV Tat (Pathway)2747 
+
+9.1.1.2.1.9 Pausing and recovery of HIV elongation (Pathway) 2752 
+
+9.1.1.2.1.10 Tat-mediated HIV elongation arrest and recovery (Pathway) 2755 
+
+9.1.1.2.1.11 Pausing and recovery of Tat-mediated HIV elongation (Pathway) 2760 
+
+9.1.1.2.1.12 HIV Transcription Termination (Pathway) 2763 
+
+9.1.1.2.2 Rev-mediated nuclear export of HIV RNA (Pathway) 2764 
+
+9.1.1.2.4 Assembly Of The HIV Virion (Pathway) 2779 
+
+9.1.1.2.4.1 Synthesis And Processing Of GAG, GAGPOL Polyproteins (Pathway) 2780 
+
+9.1.1.2.4.1.2 Membrane binding and targetting of GAG proteins (Pathway) 2782 
+
+9.1.1.2.4.2 Synthesis and processing of ENV and VPU (Pathway) 2788 
+
+9.1.1.2.5 Budding and maturation of HIV virion (Pathway) 2802 
+
+9.2 Influenza Infection (Pathway) 2807 
+
+9.2.1 Influenza Life Cycle (Pathway) 2809 
+
+9.2.1.2 Entry of Influenza Virion into Host Cell via Endocytosis (Pathway) 2813 
+
+9.2.1.3 Fusion and Uncoating of the Influenza Virion (Pathway) 2815 
+
+9.2.1.3.1 Fusion of the Influenza Virion to the Host Cell Endosome (Pathway) 2816 
+
+9.2.1.3.2 Uncoating of the Influenza Virion (Pathway) 2819 
+
+9.2.1.3.2.2 Ribonucleoprotein release from M1 proteins (Reaction) 2821 9.2.1.4 Transport of Ribonucleoproteins into the Host Nucleus (Pathway) 2822 
+
+9.2.1.5 Influenza Viral RNA Transcription and Replication (Pathway) 2828 
+
+9.2.1.5.1 vRNP Assembly (Pathway) 2830 
+
+9.2.1.5.2 Viral Messenger RNA Synthesis (Pathway) 2835 
+
+9.2.1.5.3 cRNA Synthesis (Pathway) 2849 
+
+9.2.1.5.4 vRNA Synthesis (Pathway) 2853 
+
+9.2.1.5.5 Viral mRNA Translation (Pathway) 2856 
+
+9.2.1.6 Export of Viral Ribonucleoproteins from Nucleus (Pathway) 2861 
+
+9.2.1.6.1 Viral RNP Complexes in the Host Cell Nucleus (Pathway) 2863 
+
+9.2.1.6.2 NEP/NS2 Interacts with the Cellular Export Machinery (Pathway) 2868 
+
+9.2.1.7 Virus Assembly and Release (Pathway) 2872 
+
+9.2.1.7.1 Assembly of Viral Components at the Budding Site (Pathway) 2874 
+
+9.2.1.7.1.9 Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic2884 reticulum to the Golgi Apparatus (Pathway) 
+
+9.2.1.7.2 Packaging of Eight RNA Segments (Pathway) 2896 
+
+9.2.1.7.3 Budding (Pathway) 2901 
+
+9.2.1.7.4 Release (Pathway) 2903 
+
+9.2.2 Host Interactions with Influenza Factors (Pathway) 2906 
+
+9.2.2.1 NS1 Mediated Effects on Host Pathways (Pathway) 2906 
+
+9.2.2.1.1 Inhibition of Host mRNA Processing and RNA Silencing (Pathway) 2907 
+
+9.2.2.1.2 Inhibition of Interferon Synthesis (Pathway) 2909 
+
+9.2.2.1.2.1 Inhibition of IFN-beta (Pathway) 2910 
+
+9.2.2.1.3 Inhibition of PKR (Pathway) 2911 
+
+9.2.2.2 Influenza Virus Induced Apoptosis (Pathway) 2912 
+
+9.3 Latent infection of Homo sapiens with Mycobacterium tuberculosis (Pathway) 2915 
+
+9.3.1 Phagosomal maturation (early endosomal stage) (Pathway) 2916 
+
+9.3.2 Response of Mtb to phagocytosis (Pathway) 2937 
+
+9.3.2.1 Tolerance by Mtb to nitric oxide produced by macrophages (Pathway) 2939 
+
+9.3.2.2 Tolerance of reactive oxygen produced by macrophages (Pathway) 2951 
+
+9.3.2.3 Cell redox homeostasis (Pathway) 2961 
+
+9.3.2.4 Mtb iron assimilation by chelation (Pathway) 2971 
+
+9.4 Uptake and actions of bacterial toxins (Pathway) 2982 
+
+9.4.1 Neurotoxicity of clostridium toxins (Pathway) 2983 
+
+9.4.1.1 Toxicity of botulinum toxin type A (BoNT/A) (Pathway) 2985 
+
+9.4.1.2 Toxicity of botulinum toxin type B (BoNT/B) (Pathway) 2994 
+
+9.4.1.3 Toxicity of botulinum toxin type E (BoNT/E) (Pathway) 3002 
+
+9.4.1.4 Toxicity of botulinum toxin type C (BoNT/C) (Pathway) 3012 
+
+9.4.1.5 Toxicity of botulinum toxin type D (BoNT/D) (Pathway) 3020 
+
+9.4.1.6 Toxicity of botulinum toxin type F (BoNT/F) (Pathway) 	3028 
+
+9.4.1.7 Toxicity of botulinum toxin type G (BoNT/G) (Pathway) 	3036 
+
+9.4.2 Uptake and function of anthrax toxins (Pathway) 	3044 
+
+9.5 Signaling by EGFR in Cancer (Pathway) 	30233071 9.5.1 Signaling by constitutively active EGFR (Pathway) 3072 
+
+9.6 Amyloids (Pathway) 3124 
+
+9.7 Signaling by FGFR in disease (Pathway) 3137 
+
+9.7.1 Signaling by FGFR mutants (Pathway) 3138 
+
+9.7.1.1 Signaling by FGFR1 mutants (Pathway) 3142 
+
+9.7.1.1.1 Signaling by FGFR1 amplification mutants (Pathway) 3145 
+
+9.7.1.1.2 Signaling by FGFR1 fusion mutants (Pathway) 3153 
+
+9.7.1.1.3 Signaling by activated point mutants of FGFR1 (Pathway) 3183 
+
+9.7.1.2 Signaling by FGFR2 mutants (Pathway) 3193 
+
+9.7.1.2.1 Activated point mutants of FGFR2 (Pathway) 3195 
+
+9.7.1.2.2 Signaling by FGFR2 amplification mutants (Pathway) 3217 
+
+9.7.1.3 Signaling by FGFR3 mutants (Pathway) 3225 
+
+9.7.1.3.1 Signaling by activated point mutants of FGFR3 (Pathway) 3229 
+
+9.7.1.3.2 t(4;14) translocations of FGFR3 (Pathway) 3241 
+
+9.7.1.4 Signaling by FGFR4 mutants (Pathway) 3249 
+
+9.8 Abnormal metabolism in phenylketonuria (Pathway) 3281 
+
+9.9 Mucopolysaccharidoses (Pathway) 3291 
+
+9.9.1 MPS I - Hurler syndrome (Pathway) 3292 
+
+9.9.1.2 Glycosaminoglycan metabolism (Pathway) 3297 
+
+9.9.1.2.1 Hyaluronan metabolism (Pathway) 3298 
+
+9.9.1.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3299 
+
+9.9.1.2.1.2 Hyaluronan uptake and degradation (Pathway) 3303 
+
+9.9.1.2.2 Transport and synthesis of PAPS (Pathway) 3317 
+
+9.9.1.2.3 Keratan sulfate/keratin metabolism (Pathway) 3324 
+
+9.9.1.2.3.1 Keratan sulfate biosynthesis (Pathway) 3326 
+
+9.9.1.2.3.2 Keratan sulfate degradation (Pathway) 3341 
+
+9.9.1.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3351 
+
+9.9.1.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3352 
+
+9.9.1.2.4.2 HS-GAG biosynthesis (Pathway) 3359 
+
+9.9.1.2.4.3 HS-GAG degradation (Pathway) 3380 
+
+9.9.1.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3400 
+
+9.9.1.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3402 
+
+9.9.1.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3403 
+
+9.9.1.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3414 
+
+9.9.1.2.5.4 CS/DS degradation (Pathway) 3420 
+
+9.9.2 MPS II - Hunter syndrome (Pathway) 3434 
+
+9.9.2.2 Glycosaminoglycan metabolism (Pathway) 3438 
+
+9.9.2.2.1 Hyaluronan metabolism (Pathway) 3438 
+
+9.9.2.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3438 
+
+9.9.2.2.1.2 Hyaluronan uptake and degradation (Pathway) 3439 
+
+9.9.2.2.2 Transport and synthesis of PAPS (Pathway) 3442 
+
+9.9.2.2.3 Keratan sulfate/keratin metabolism (Pathway) 3443 
+
+9.9.2.2.3.1 Keratan sulfate biosynthesis (Pathway) 3443 
+
+9.9.2.2.3.2 Keratan sulfate degradation (Pathway) 3446 
+
+9.9.2.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3448 
+
+9.9.2.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3449 
+
+9.9.2.2.4.2 HS-GAG biosynthesis (Pathway) 3450 
+
+9.9.2.2.4.3 HS-GAG degradation (Pathway) 3454 
+
+9.9.2.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3459 
+
+9.9.2.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3459 
+
+9.9.2.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3460 
+
+9.9.2.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3462 
+
+9.9.2.2.5.4 CS/DS degradation (Pathway) 3463 
+
+9.9.3 MPS IIIA - Sanfilippo syndrome A (Pathway) 3466 
+
+9.9.3.2 Glycosaminoglycan metabolism (Pathway) 3470 
+
+9.9.3.2.1 Hyaluronan metabolism (Pathway) 3470 
+
+9.9.3.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3471 
+
+9.9.3.2.1.2 Hyaluronan uptake and degradation (Pathway) 3471 
+
+9.9.3.2.2 Transport and synthesis of PAPS (Pathway) 3474 
+
+9.9.3.2.3 Keratan sulfate/keratin metabolism (Pathway) 3476 
+
+9.9.3.2.3.1 Keratan sulfate biosynthesis (Pathway) 3476 
+
+9.9.3.2.3.2 Keratan sulfate degradation (Pathway) 3478 
+
+9.9.3.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3481 
+
+9.9.3.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3481 
+
+9.9.3.2.4.1.4 B3GATs transfer GlcA to tetrasaccharide linker (Reaction) 3482 9.9.3.2.4.2 HS-GAG biosynthesis (Pathway) 3482 
+
+9.9.3.2.4.3 HS-GAG degradation (Pathway) 3486 
+
+9.9.3.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3491 
+
+9.9.3.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3491 
+
+9.9.3.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3492 
+
+9.9.3.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3494 
+
+9.9.3.2.5.4 CS/DS degradation (Pathway) 3496 
+
+9.9.4 MPS IIIB - Sanfilippo syndrome B (Pathway) 3499 
+
+9.9.4.2 Glycosaminoglycan metabolism (Pathway) 3502 
+
+9.9.4.2.1 Hyaluronan metabolism (Pathway) 3502 9.9.4.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3503 
+
+9.9.4.2.1.2 Hyaluronan uptake and degradation (Pathway) 3503 
+
+9.9.4.2.2 Transport and synthesis of PAPS (Pathway) 3506 
+
+9.9.4.2.3 Keratan sulfate/keratin metabolism (Pathway) 3508 
+
+9.9.4.2.3.1 Keratan sulfate biosynthesis (Pathway) 3508 
+
+9.9.4.2.3.2 Keratan sulfate degradation (Pathway) 3510 
+
+9.9.4.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3513 
+
+9.9.4.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3513 
+
+9.9.4.2.4.2 HS-GAG biosynthesis (Pathway) 3514 
+
+9.9.4.2.4.3 HS-GAG degradation (Pathway) 3518 
+
+9.9.4.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3523 
+
+9.9.4.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3523 
+
+9.9.4.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3524 
+
+9.9.4.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3526 
+
+9.9.4.2.5.4 CS/DS degradation (Pathway) 3528 
+
+9.9.5 MPS IIIC - Sanfilippo syndrome C (Pathway) 3531 
+
+9.9.5.2 Glycosaminoglycan metabolism (Pathway) 3535 
+
+9.9.5.2.1 Hyaluronan metabolism (Pathway) 3535 
+
+9.9.5.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3535 
+
+9.9.5.2.1.2 Hyaluronan uptake and degradation (Pathway) 3536 
+
+9.9.5.2.2 Transport and synthesis of PAPS (Pathway) 3539 
+
+9.9.5.2.3 Keratan sulfate/keratin metabolism (Pathway) 3540 
+
+9.9.5.2.3.1 Keratan sulfate biosynthesis (Pathway) 3540 
+
+9.9.5.2.3.2 Keratan sulfate degradation (Pathway) 3543 
+
+9.9.5.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3545 
+
+9.9.5.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3545 
+
+9.9.5.2.4.2 HS-GAG biosynthesis (Pathway) 3546 
+
+9.9.5.2.4.3 HS-GAG degradation (Pathway) 3550 
+
+9.9.5.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3555 
+
+9.9.5.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3555 
+
+9.9.5.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3556 
+
+9.9.5.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3558 
+
+9.9.5.2.5.4 CS/DS degradation (Pathway) 3560 
+
+9.9.6 MPS IIID - Sanfilippo syndrome D (Pathway) 3563 
+
+9.9.6.2 Glycosaminoglycan metabolism (Pathway) 3566 
+
+9.9.6.2.1 Hyaluronan metabolism (Pathway) 3567 
+
+9.9.6.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3567 
+
+9.9.6.2.1.2 Hyaluronan uptake and degradation (Pathway) 3568 
+
+9.9.6.2.2 Transport and synthesis of PAPS (Pathway) 3571 
+
+9.9.6.2.3 Keratan sulfate/keratin metabolism (Pathway) 3572 
+
+9.9.6.2.3.1 Keratan sulfate biosynthesis (Pathway) 3572 
+
+9.9.6.2.3.2 Keratan sulfate degradation (Pathway) 3575 
+
+9.9.6.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3577 
+
+9.9.6.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3577 
+
+9.9.6.2.4.2 HS-GAG biosynthesis (Pathway) 3578 
+
+9.9.6.2.4.3 HS-GAG degradation (Pathway) 3582 
+
+9.9.6.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3587 
+
+9.9.6.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3587 
+
+9.9.6.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3588 
+
+9.9.6.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3590 
+
+9.9.6.2.5.4 CS/DS degradation (Pathway) 3592 
+
+9.9.7 MPS IV - Morquio syndrome A (Pathway) 3595 
+
+9.9.7.2 Glycosaminoglycan metabolism (Pathway) 3598 
+
+9.9.7.2.1 Hyaluronan metabolism (Pathway) 3598 
+
+9.9.7.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3598 
+
+9.9.7.2.1.2 Hyaluronan uptake and degradation (Pathway) 3599 
+
+9.9.7.2.2 Transport and synthesis of PAPS (Pathway) 3602 
+
+9.9.7.2.3 Keratan sulfate/keratin metabolism (Pathway) 3604 
+
+9.9.7.2.3.1 Keratan sulfate biosynthesis (Pathway) 3604 
+
+9.9.7.2.3.2 Keratan sulfate degradation (Pathway) 3606 
+
+9.9.7.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3609 
+
+9.9.7.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3609 
+
+9.9.7.2.4.2 HS-GAG biosynthesis (Pathway) 3610 
+
+9.9.7.2.4.3 HS-GAG degradation (Pathway) 3614 
+
+9.9.7.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3619 
+
+9.9.7.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3619 
+
+9.9.7.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3620 
+
+9.9.7.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3622 
+
+9.9.7.2.5.4 CS/DS degradation (Pathway) 3624 
+
+9.9.8 MPS IV - Morquio syndrome B (Pathway) 3627 
+
+9.9.8.2 Glycosaminoglycan metabolism (Pathway) 3631 
+
+9.9.8.2.1 Hyaluronan metabolism (Pathway) 3631 
+
+9.9.8.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3631 
+
+9.9.8.2.1.2 Hyaluronan uptake and degradation (Pathway) 3632 
+
+9.9.8.2.2 Transport and synthesis of PAPS (Pathway) 3635 
+
+9.9.8.2.3 Keratan sulfate/keratin metabolism (Pathway) 3636 
+
+9.9.8.2.3.1 Keratan sulfate biosynthesis (Pathway) 3636 
+
+9.9.8.2.3.2 Keratan sulfate degradation (Pathway) 3639 
+
+9.9.8.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3641 
+
+9.9.8.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3641 
+
+9.9.8.2.4.2 HS-GAG biosynthesis (Pathway) 3642 
+
+9.9.8.2.4.3 HS-GAG degradation (Pathway) 3646 
+
+9.9.8.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3651 
+
+9.9.8.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3651 
+
+9.9.8.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3652 
+
+9.9.8.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3654 
+
+9.9.8.2.5.4 CS/DS degradation (Pathway) 3656 
+
+9.9.9 MPS VI - Maroteaux-Lamy syndrome (Pathway) 3659 
+
+9.9.9.2 Glycosaminoglycan metabolism (Pathway) 3663 
+
+9.9.9.2.1 Hyaluronan metabolism (Pathway) 3663 
+
+9.9.9.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3663 
+
+9.9.9.2.1.2 Hyaluronan uptake and degradation (Pathway) 3664 
+
+9.9.9.2.2 Transport and synthesis of PAPS (Pathway) 3667 
+
+9.9.9.2.3 Keratan sulfate/keratin metabolism (Pathway) 3668 
+
+9.9.9.2.3.1 Keratan sulfate biosynthesis (Pathway) 3668 
+
+9.9.9.2.3.2 Keratan sulfate degradation (Pathway) 3671 
+
+9.9.9.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3673 
+
+9.9.9.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3673 
+
+9.9.9.2.4.2 HS-GAG biosynthesis (Pathway) 3674 
+
+9.9.9.2.4.3 HS-GAG degradation (Pathway) 3678 
+
+9.9.9.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 	3683 
+
+9.9.9.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)3683 
+
+9.9.9.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 	3684 
+
+9.9.9.2.5.3 Dermatan sulfate biosynthesis (Pathway) 	3686 
+
+9.9.9.2.5.4 CS/DS degradation (Pathway) 	3688 
+
+9.9.10 MPS VII - Sly syndrome (Pathway) 	36823691 9.9.10.1 Defective GUSB does not hydrolyse glucuronate (BlackBoxEvent) 3692 
+
+9.9.10.2 Glycosaminoglycan metabolism (Pathway) 3695 
+
+9.9.10.2.1 Hyaluronan metabolism (Pathway) 3695 
+
+9.9.10.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3695 
+
+9.9.10.2.1.2 Hyaluronan uptake and degradation (Pathway) 3696 
+
+9.9.10.2.2 Transport and synthesis of PAPS (Pathway) 3699 
+
+9.9.10.2.3 Keratan sulfate/keratin metabolism (Pathway) 3700 
+
+9.9.10.2.3.1 Keratan sulfate biosynthesis (Pathway) 3700 
+
+9.9.10.2.3.2 Keratan sulfate degradation (Pathway) 3703 
+
+9.9.10.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3705 
+
+9.9.10.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)
+
+9.9.10.2.4.2 HS-GAG biosynthesis (Pathway) 3706 
+
+9.9.10.2.4.3 HS-GAG degradation (Pathway) 3711 
+
+9.9.10.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3715 
+
+9.9.10.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)
+
+9.9.10.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3717 
+
+9.9.10.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3719 
+
+9.9.10.2.5.4 CS/DS degradation (Pathway) 3720 
+
+9.9.11 MPS IX - Natowicz syndrome (Pathway) 3723 
+
+9.9.11.2 Glycosaminoglycan metabolism (Pathway) 3726 
+
+9.9.11.2.1 Hyaluronan metabolism (Pathway) 3726 
+
+9.9.11.2.1.1 Hyaluronan biosynthesis and export (Pathway) 3726 
+
+9.9.11.2.1.2 Hyaluronan uptake and degradation (Pathway) 3727 
+
+9.9.11.2.2 Transport and synthesis of PAPS (Pathway) 3730 
+
+9.9.11.2.3 Keratan sulfate/keratin metabolism (Pathway) 3732 
+
+9.9.11.2.3.1 Keratan sulfate biosynthesis (Pathway) 3732 
+
+9.9.11.2.3.2 Keratan sulfate degradation (Pathway) 3734 
+
+9.9.11.2.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 3737 
+
+9.9.11.2.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)
+
+9.9.11.2.4.2 HS-GAG biosynthesis (Pathway) 3738 
+
+9.9.11.2.4.3 HS-GAG degradation (Pathway) 3742 
+
+9.9.11.2.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 3747 
+
+9.9.11.2.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway)
+
+9.9.11.2.5.2 Chondroitin sulfate biosynthesis (Pathway) 3748 
+
+9.9.11.2.5.3 Dermatan sulfate biosynthesis (Pathway) 3750 
+
+9.9.11.2.5.4 CS/DS degradation (Pathway) 3752 
+
+9.10 Diseases associated with visual transduction (Pathway) 3755 
+
+9.10.1 Retinoid cycle disease events (Pathway) 3756 
+
+9.10.1.13 Biosynthesis of A2E, implicated in retinal degradation (Pathway) 3785 
+
+9.11 PI3K/AKT Signaling in Cancer (Pathway) 3794 
+
+9.11.1 Constitutive PI3K/AKT Signaling in Cancer (Pathway) 3795 
+
+9.12 Signaling by NOTCH1 in Cancer (Pathway) 3863 
+
+9.12.1 Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant 3866 (Pathway) 
+
+3867 Mutant (Pathway) 
+
+9.12.2 Signaling by NOTCH1 HD Domain Mutants in Cancer (Pathway) 3877 
+
+9.12.2.1 Constitutive Signaling by NOTCH1 HD Domain Mutants (Pathway) 3878 
+
+ligand binding (Reaction) 9.12.3 Signaling by NOTCH1 PEST Domain Mutants in Cancer (Pathway) 3889 
+
+9.12.3.1 Constitutive Signaling by NOTCH1 PEST Domain Mutants (Pathway) 3890 
+
+9.12.4 Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer (Pathway) 3926 
+
+9.12.4.1 Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants (Pathway) 3927 
+
+9.12.5 FBXW7 Mutants and NOTCH1 in Cancer (Pathway) 3943 
+
+9.12.5.1 Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling (Pathway) 3944 
+
+9.13 Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate (Pathway) 3948 
+
+9.14 Glycogen storage diseases (Pathway) 3951 
+
+9.14.1 Myoclonic epilepsy of Lafora (Pathway) 3952 
+
+9.14.1.3 Metabolism of carbohydrates (Pathway) 3959 
+
+9.14.1.3.1 Digestion of dietary carbohydrate (Pathway) 3960 
+
+9.14.1.3.2 Hexose transport (Pathway) 3977 
+
+9.14.1.3.2.4 Glucose transport (Pathway) 3983 
+
+9.14.1.3.2.4.6 Regulation of Glucokinase by Glucokinase Regulatory Protein (Pathway)3992 
+
+9.14.1.3.3 Glucose metabolism (Pathway) 4004 
+
+9.14.1.3.3.1 Glycolysis (Pathway) 4006 
+
+9.14.1.3.3.2 Gluconeogenesis (Pathway) 4021 
+
+9.14.1.3.3.3 Glycogen synthesis (Pathway) 4048 
+
+9.14.1.3.3.4 Glycogen breakdown (glycogenolysis) (Pathway) 4073 
+
+9.14.1.3.4 Fructose catabolism (Pathway) 4092 
+
+9.14.1.3.5 Galactose catabolism (Pathway) 4097 
+
+9.14.1.3.6 Pentose phosphate pathway (hexose monophosphate shunt) (Pathway) 4101 
+
+9.14.1.3.7 5-Phosphoribose 1-diphosphate biosynthesis (Pathway) 4113 
+
+9.14.1.3.8 Glycosaminoglycan metabolism (Pathway) 4116 
+
+9.14.1.3.8.1 Hyaluronan metabolism (Pathway) 4117 
+
+9.14.1.3.8.1.1 Hyaluronan biosynthesis and export (Pathway) 4117 
+
+9.14.1.3.8.1.2 Hyaluronan uptake and degradation (Pathway) 4118 
+
+9.14.1.3.8.2 Transport and synthesis of PAPS (Pathway) 4121 
+
+9.14.1.3.8.3 Keratan sulfate/keratin metabolism (Pathway) 4122 
+
+9.14.1.3.8.3.1 Keratan sulfate biosynthesis (Pathway) 4122 
+
+9.14.1.3.8.3.2 Keratan sulfate degradation (Pathway) 4125 
+
+9.14.1.3.8.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 4127 
+
+9.14.1.3.8.4.1 A tetrasaccharide linker sequence is required for GAG synthesis 4127 (Pathway) 
+
+9.14.1.3.8.4.2 HS-GAG biosynthesis (Pathway) 4129 
+
+9.14.1.3.8.4.3 HS-GAG degradation (Pathway) 4133 
+
+9.14.1.3.8.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 4138 
+
+9.14.1.3.8.5.1 A tetrasaccharide linker sequence is required for GAG synthesis 4138 (Pathway) 
+
+9.14.1.3.8.5.2 Chondroitin sulfate biosynthesis (Pathway) 4139 
+
+9.14.1.3.8.5.3 Dermatan sulfate biosynthesis (Pathway) 4141 
+
+9.14.1.3.8.5.4 CS/DS degradation (Pathway) 4142 
+
+9.15 Defects in vitamin and cofactor metabolism (Pathway) 4145 
+
+9.15.1 Defects in cobalamin (B12) metabolism (Pathway) 4146 
+
+9.15.1.1 Defective AMN causes hereditary megaloblastic anemia 1 (Pathway) 4148 
+
+9.15.1.1.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4151 
+
+9.15.1.1.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4152 
+
+9.15.1.1.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4158 
+
+9.15.1.1.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4164 
+
+9.15.1.1.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4169 
+
+9.15.1.1.2.4.2 Coenzyme A biosynthesis (Pathway) 4171 
+
+9.15.1.1.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4180 
+
+9.15.1.1.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4189 
+
+9.15.1.1.2.7 Biotin transport and metabolism (Pathway) 4231 
+
+9.15.1.1.2.8 Nicotinate metabolism (Pathway) 4251 
+
+9.15.1.1.2.8.8 Nicotinamide salvaging (Pathway) 4257 
+
+9.15.1.1.2.9 Metabolism of folate and pterines (Pathway) 4263 
+
+9.15.1.1.2.10 Molybdenum cofactor biosynthesis (Pathway) 4280 
+
+9.15.1.2 Defective CUBN causes hereditary megaloblastic anemia 1 (Pathway) 4289 
+
+9.15.1.2.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4292 
+
+9.15.1.2.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4292 
+
+9.15.1.2.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4294 
+
+9.15.1.2.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4295 
+
+9.15.1.2.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4297 
+
+9.15.1.2.2.4.2 Coenzyme A biosynthesis (Pathway) 4297 
+
+9.15.1.2.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4299 
+
+9.15.1.2.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4301 
+
+9.15.1.2.2.7 Biotin transport and metabolism (Pathway) 4308 
+
+9.15.1.2.2.8 Nicotinate metabolism (Pathway) 4312 
+
+9.15.1.2.2.8.8 Nicotinamide salvaging (Pathway) 4314 
+
+9.15.1.2.2.9 Metabolism of folate and pterines (Pathway) 4316 
+
+9.15.1.2.2.10 Molybdenum cofactor biosynthesis (Pathway) 4321 
+
+9.15.1.3 Defective TCN2 causes hereditary megaloblastic anemia (Pathway) 4323 
+
+9.15.1.3.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4326 
+
+9.15.1.3.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4326 
+
+9.15.1.3.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4328 
+
+9.15.1.3.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4329 
+
+9.15.1.3.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4330 
+
+9.15.1.3.2.4.2 Coenzyme A biosynthesis (Pathway) 4331 
+
+9.15.1.3.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4333 
+
+9.15.1.3.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4335 
+
+9.15.1.3.2.7 Biotin transport and metabolism (Pathway) 4342 
+
+9.15.1.3.2.8 Nicotinate metabolism (Pathway) 4346 
+
+9.15.1.3.2.8.8 Nicotinamide salvaging (Pathway) 4348 
+
+9.15.1.3.2.9 Metabolism of folate and pterines (Pathway) 4350 
+
+9.15.1.3.2.10 Molybdenum cofactor biosynthesis (Pathway) 4355 
+
+4357 (Pathway) 
+
+9.15.1.4.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4360 
+
+9.15.1.4.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4361 
+
+9.15.1.4.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4362 
+
+9.15.1.4.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4363 
+
+9.15.1.4.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4365 
+
+9.15.1.4.2.4.2 Coenzyme A biosynthesis (Pathway) 4365 
+
+9.15.1.4.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4368 
+
+9.15.1.4.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4370 
+
+9.15.1.4.2.7 Biotin transport and metabolism (Pathway) 4377 
+
+9.15.1.4.2.8 Nicotinate metabolism (Pathway) 4381 
+
+9.15.1.4.2.8.8 Nicotinamide salvaging (Pathway) 4383 
+
+9.15.1.4.2.9 Metabolism of folate and pterines (Pathway) 4384 
+
+9.15.1.4.2.10 Molybdenum cofactor biosynthesis (Pathway) 4390 
+
+9.15.1.5 Defective GIF causes intrinsic factor deficiency (Pathway) 4392 
+
+9.15.1.5.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4394 
+
+9.15.1.5.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4395 
+
+9.15.1.5.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4396 
+
+9.15.1.5.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4397 
+
+9.15.1.5.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4399 
+
+9.15.1.5.2.4.2 Coenzyme A biosynthesis (Pathway) 4399 
+
+9.15.1.5.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4402 
+
+9.15.1.5.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4404 
+
+9.15.1.5.2.7 Biotin transport and metabolism (Pathway) 4411 
+
+9.15.1.5.2.8 Nicotinate metabolism (Pathway) 4415 
+
+9.15.1.5.2.8.8 Nicotinamide salvaging (Pathway) 4417 
+
+9.15.1.5.2.9 Metabolism of folate and pterines (Pathway) 4418 
+
+9.15.1.5.2.10 Molybdenum cofactor biosynthesis (Pathway) 4424 
+
+4426 (Pathway) 
+
+9.15.1.6.3 Metabolism of water-soluble vitamins and cofactors (Pathway) 4432 
+
+9.15.1.6.3.1 Vitamin C (ascorbate) metabolism (Pathway) 4432 
+
+9.15.1.6.3.2 Vitamin B1 (thiamin) metabolism (Pathway) 4434 
+
+9.15.1.6.3.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4435 
+
+9.15.1.6.3.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4436 
+
+9.15.1.6.3.4.2 Coenzyme A biosynthesis (Pathway) 4437 
+
+9.15.1.6.3.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4423
+
+9.15.1.6.3.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4441 
+
+9.15.1.6.3.7 Biotin transport and metabolism (Pathway) 4448 
+
+9.15.1.6.3.8 Nicotinate metabolism (Pathway) 4452 
+
+9.15.1.6.3.8.8 Nicotinamide salvaging (Pathway) 4454 
+
+9.15.1.6.3.9 Metabolism of folate and pterines (Pathway) 4456 
+
+9.15.1.6.3.10 Molybdenum cofactor biosynthesis (Pathway) 4461 
+
+4463 (Pathway) 
+
+9.15.1.7.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4466 
+
+9.15.1.7.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4467 
+
+9.15.1.7.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4468 
+
+9.15.1.7.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4469 
+
+9.15.1.7.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4471 
+
+9.15.1.7.2.4.2 Coenzyme A biosynthesis (Pathway) 4471 
+
+9.15.1.7.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4474 
+
+9.15.1.7.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4476 
+
+9.15.1.7.2.7 Biotin transport and metabolism (Pathway) 4483 
+
+9.15.1.7.2.8 Nicotinate metabolism (Pathway) 4487 
+
+9.15.1.7.2.8.8 Nicotinamide salvaging (Pathway) 4489 
+
+9.15.1.7.2.9 Metabolism of folate and pterines (Pathway) 4490 
+
+9.15.1.7.2.10 Molybdenum cofactor biosynthesis (Pathway) 4496 
+
+9.15.1.8 Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE 4498 (Pathway) 
+
+9.15.1.8.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4503 
+
+9.15.1.8.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4503 
+
+9.15.1.8.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4504 
+
+9.15.1.8.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4506 
+
+9.15.1.8.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4507 
+
+9.15.1.8.2.4.2 Coenzyme A biosynthesis (Pathway) 4508 
+
+9.15.1.8.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4510 
+
+9.15.1.8.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4512 
+
+9.15.1.8.2.7 Biotin transport and metabolism (Pathway) 4519 
+
+9.15.1.8.2.8 Nicotinate metabolism (Pathway) 4523 
+
+9.15.1.8.2.8.8 Nicotinamide salvaging (Pathway) 4525 
+
+9.15.1.8.2.9 Metabolism of folate and pterines (Pathway) 4526 
+
+9.15.1.8.2.10 Molybdenum cofactor biosynthesis (Pathway) 4532 
+
+9.15.1.9 Defective MTR causes methylmalonic aciduria and homocystinuria type cblG 4534 (Pathway) 
+
+9.15.1.9.3 Metabolism of water-soluble vitamins and cofactors (Pathway) 4539 
+
+9.15.1.9.3.1 Vitamin C (ascorbate) metabolism (Pathway) 4539 
+
+9.15.1.9.3.2 Vitamin B1 (thiamin) metabolism (Pathway) 4540 
+
+9.15.1.9.3.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4542 
+
+9.15.1.9.3.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4543 
+
+9.15.1.9.3.4.2 Coenzyme A biosynthesis (Pathway) 4544 
+
+9.15.1.9.3.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4546 
+
+9.15.1.9.3.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4548 
+
+9.15.1.9.3.7 Biotin transport and metabolism (Pathway) 4555 
+
+9.15.1.9.3.8 Nicotinate metabolism (Pathway) 4559 
+
+9.15.1.9.3.8.7 NAD+ is phosphorylated to NADP+ (Reaction) 4560 9.15.1.9.3.8.8 Nicotinamide salvaging (Pathway) 4561 
+
+9.15.1.9.3.9 Metabolism of folate and pterines (Pathway) 4562 
+
+9.15.1.9.3.10 Molybdenum cofactor biosynthesis (Pathway) 4568 
+
+9.15.1.10 Defective MMAB causes methylmalonic aciduria type cblB (Pathway) 4570 
+
+9.15.1.10.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4573 
+
+9.15.1.10.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4573 
+
+9.15.1.10.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4574 
+
+9.15.1.10.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4576 
+
+9.15.1.10.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4577 
+
+9.15.1.10.2.4.2 Coenzyme A biosynthesis (Pathway) 4578 
+
+9.15.1.10.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4580 
+
+9.15.1.10.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4582 
+
+9.15.1.10.2.7 Biotin transport and metabolism (Pathway) 4589 
+
+9.15.1.10.2.8 Nicotinate metabolism (Pathway) 4593 
+
+9.15.1.10.2.8.8 Nicotinamide salvaging (Pathway) 4595 
+
+9.15.1.10.2.9 Metabolism of folate and pterines (Pathway) 4596 
+
+9.15.1.10.2.10 Molybdenum cofactor biosynthesis (Pathway) 4602 
+
+9.15.1.11 Defective MMAA causes methylmalonic aciduria type cblA (Pathway) 4604 
+
+9.15.1.11.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4607 
+
+9.15.1.11.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4607 
+
+9.15.1.11.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4609 
+
+9.15.1.11.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4610 
+
+9.15.1.11.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4612 
+
+9.15.1.11.2.4.2 Coenzyme A biosynthesis (Pathway) 4612 
+
+9.15.1.11.2.4.3 Phosphopantetheine conjugation of the ACP domain of FAS (Reaction)9.15.1.11.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4614 
+
+9.15.1.11.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4616 
+
+9.15.1.11.2.7 Biotin transport and metabolism (Pathway) 4623 
+
+9.15.1.11.2.8 Nicotinate metabolism (Pathway) 4627 
+
+9.15.1.11.2.8.8 Nicotinamide salvaging (Pathway) 4629 
+
+9.15.1.11.2.9 Metabolism of folate and pterines (Pathway) 4631 
+
+9.15.1.11.2.10 Molybdenum cofactor biosynthesis (Pathway) 4636 
+
+9.15.1.12 Defective MUT causes methylmalonic aciduria mut type (Pathway) 4638 
+
+9.15.1.12.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4642 
+
+9.15.1.12.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4642 
+
+9.15.1.12.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4644 
+
+9.15.1.12.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4645 
+
+9.15.1.12.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4646 
+
+9.15.1.12.2.4.2 Coenzyme A biosynthesis (Pathway) 4647 
+
+9.15.1.12.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4649 
+
+9.15.1.12.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4651 
+
+9.15.1.12.2.7 Biotin transport and metabolism (Pathway) 4658 
+
+9.15.1.12.2.8 Nicotinate metabolism (Pathway) 4662 
+
+9.15.1.12.2.8.8 Nicotinamide salvaging (Pathway) 4664 
+
+9.15.1.12.2.9 Metabolism of folate and pterines (Pathway) 4666 
+
+9.15.1.12.2.10 Molybdenum cofactor biosynthesis (Pathway) 4671 
+
+9.15.1.13 Defective CD320 causes methylmalonic aciduria (Pathway) 4673 
+
+9.15.1.13.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4676 
+
+9.15.1.13.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4676 
+
+9.15.1.13.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4678 
+
+9.15.1.13.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4679 
+
+9.15.1.13.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4680 
+
+9.15.1.13.2.4.2 Coenzyme A biosynthesis (Pathway) 4681 
+
+9.15.1.13.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4683 
+
+9.15.1.13.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4685 
+
+9.15.1.13.2.7 Biotin transport and metabolism (Pathway) 4692 
+
+9.15.1.13.2.8 Nicotinate metabolism (Pathway) 4696 
+
+9.15.1.13.2.8.8 Nicotinamide salvaging (Pathway) 4698 
+
+9.15.1.13.2.9 Metabolism of folate and pterines (Pathway) 4700 
+
+9.15.1.13.2.10 Molybdenum cofactor biosynthesis (Pathway) 4705 
+
+9.15.2 Defects in biotin (Btn) metabolism (Pathway) 4707 
+
+9.15.2.1 Defective HLCS causes multiple carboxylase deficiency (Pathway) 4708 
+
+9.15.2.1.2 Metabolism of water-soluble vitamins and cofactors (Pathway) 4715 
+
+9.15.2.1.2.1 Vitamin C (ascorbate) metabolism (Pathway) 4715 
+
+9.15.2.1.2.2 Vitamin B1 (thiamin) metabolism (Pathway) 4716 
+
+9.15.2.1.2.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4718 
+
+9.15.2.1.2.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4719 
+
+9.15.2.1.2.4.2 Coenzyme A biosynthesis (Pathway) 4720 
+
+9.15.2.1.2.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4722 
+
+9.15.2.1.2.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4724 
+
+9.15.2.1.2.7 Biotin transport and metabolism (Pathway) 4731 
+
+9.15.2.1.2.8 Nicotinate metabolism (Pathway) 4735 
+
+9.15.2.1.2.8.8 Nicotinamide salvaging (Pathway) 4737 
+
+9.15.2.1.2.9 Metabolism of folate and pterines (Pathway) 4738 
+
+9.15.2.1.2.10 Molybdenum cofactor biosynthesis (Pathway) 4744 
+
+9.15.2.2 Defective BTD causes biotidinase deficiency (Pathway) 4746 
+
+9.15.2.2.3 Metabolism of water-soluble vitamins and cofactors (Pathway) 4751 
+
+9.15.2.2.3.1 Vitamin C (ascorbate) metabolism (Pathway) 4752 
+
+9.15.2.2.3.2 Vitamin B1 (thiamin) metabolism (Pathway) 4753 
+
+9.15.2.2.3.3 Vitamin B2 (riboflavin) metabolism (Pathway) 4754 
+
+9.15.2.2.3.4 Vitamin B5 (pantothenate) metabolism (Pathway) 4756 
+
+9.15.2.2.3.4.2 Coenzyme A biosynthesis (Pathway) 4756 
+
+9.15.2.2.3.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 4759 
+
+9.15.2.2.3.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 4761 
+
+9.15.2.2.3.7 Biotin transport and metabolism (Pathway) 4768 
+
+9.15.2.2.3.8 Nicotinate metabolism (Pathway) 4772 
+
+9.15.2.2.3.8.8 Nicotinamide salvaging (Pathway) 4774 
+
+9.15.2.2.3.9 Metabolism of folate and pterines (Pathway) 4775 
+
+9.15.2.2.3.10 Molybdenum cofactor biosynthesis (Pathway) 4781 
+
+9.16 Signaling by TGF-beta Receptor Complex in Cancer (Pathway) 4783 
+
+9.16.1 Loss of Function of SMAD4 in Cancer (Pathway) 4786 
+
+9.16.1.1 SMAD4 MH2 Domain Mutants in Cancer (Pathway) 4788 
+
+9.16.1.1.2 Signaling by TGF-beta Receptor Complex (Pathway) 4791 
+
+9.16.1.1.2.1 TGF-beta receptor signaling activates SMADs (Pathway) 4795 
+
+9.16.1.1.2.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 4810 
+
+9.16.1.1.2.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)4862 (Pathway) 
+
+9.16.1.1.2.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)4872 
+
+9.16.1.1.2.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)4874 
+
+9.16.1.1.2.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)4896 
+
+9.16.2 Loss of Function of SMAD2/3 in Cancer (Pathway) 4929 
+
+9.16.2.1 SMAD2/3 Phosphorylation Motif Mutants in Cancer (Pathway) 4930 
+
+9.16.2.1.3 Signaling by TGF-beta Receptor Complex (Pathway) 4935 
+
+9.16.2.1.3.1 TGF-beta receptor signaling activates SMADs (Pathway) 4936 
+
+9.16.2.1.3.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 4938 
+
+9.16.2.1.3.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)4947 (Pathway) 
+
+9.16.2.1.3.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)4948 
+
+9.16.2.1.3.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)4949 
+
+9.16.2.1.3.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)4954 
+
+9.16.2.2 SMAD2/3 MH2 Domain Mutants in Cancer (Pathway) 4959 
+
+9.16.2.2.5 Signaling by TGF-beta Receptor Complex (Pathway) 4968 
+
+9.16.2.2.5.1 TGF-beta receptor signaling activates SMADs (Pathway) 4968 
+
+9.16.2.2.5.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 4971 
+
+9.16.2.2.5.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)4980 (Pathway) 
+
+9.16.2.2.5.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)4981 
+
+9.16.2.2.5.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)4982 
+
+9.16.2.2.5.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)4987 
+
+9.16.3 Loss of Function of TGFBR2 in Cancer (Pathway) 4992 
+
+9.16.3.1 TGFBR2 MSI Frameshift Mutants in Cancer (Pathway) 4994 
+
+9.16.3.1.2 Signaling by TGF-beta Receptor Complex (Pathway) 4998 
+
+9.16.3.1.2.1 TGF-beta receptor signaling activates SMADs (Pathway) 4998 
+
+9.16.3.1.2.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 5001 
+
+9.16.3.1.2.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)5010 (Pathway) 
+
+9.16.3.1.2.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)5011 
+
+9.16.3.1.2.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)5012 
+
+9.16.3.1.2.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)5017 
+
+9.16.3.2 TGFBR2 Kinase Domain Mutants in Cancer (Pathway) 5022 
+
+9.16.3.2.3 TGFBR2 KD mutants do not phosphorylate TGFBR1 (BlackBoxEvent) 5028 9.16.3.2.4 Signaling by TGF-beta Receptor Complex (Pathway) 5030 
+
+9.16.3.2.4.1 TGF-beta receptor signaling activates SMADs (Pathway) 5030 
+
+9.16.3.2.4.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 5033 
+
+9.16.3.2.4.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)5041 (Pathway) 
+
+9.16.3.2.4.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)5043 
+
+9.16.3.2.4.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)5043 
+
+9.16.3.2.4.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)5048 
+
+9.16.4 Loss of Function of TGFBR1 in Cancer (Pathway) 5053 
+
+9.16.4.1 TGFBR1 LBD Mutants in Cancer (Pathway) 5055 
+
+9.16.4.1.2 Signaling by TGF-beta Receptor Complex (Pathway) 5059 
+
+9.16.4.1.2.1 TGF-beta receptor signaling activates SMADs (Pathway) 5059 
+
+9.16.4.1.2.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 5062 
+
+9.16.4.1.2.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)5070 (Pathway) 
+
+9.16.4.1.2.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)5072 
+
+9.16.4.1.2.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)5072 
+
+9.16.4.1.2.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)5077 
+
+9.16.4.2 TGFBR1 KD Mutants in Cancer (Pathway) 5082 
+
+9.16.4.2.4 Signaling by TGF-beta Receptor Complex (Pathway) 5090 
+
+9.16.4.2.4.1 TGF-beta receptor signaling activates SMADs (Pathway) 5090 
+
+9.16.4.2.4.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 5093 
+
+9.16.4.2.4.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)5101 (Pathway) 
+
+9.16.4.2.4.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway)5103 
+
+9.16.4.2.4.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway)5103 
+
+9.16.4.2.4.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway)5108 
+
+9.17 Signaling by WNT in cancer (Pathway) 5113 
+
+9.17.1 truncated APC mutants destabilize the destruction complex (Pathway) 5116 
+
+9.17.1.1 APC truncation mutants are not K63 polyubiquitinated (Pathway) 5118 
+
+9.17.1.1.2 Degradation of beta-catenin by the destruction complex (Pathway) 5121 
+
+9.17.1.1.2.7 Beta-catenin phosphorylation cascade (Pathway) 5131 
+
+9.17.1.1.2.13 repression of WNT target genes (Pathway) 5144 
+
+9.17.1.2 APC truncation mutants have impaired AXIN binding (Pathway) 5157 
+
+9.17.1.2.2 Degradation of beta-catenin by the destruction complex (Pathway) 5161 
+
+9.17.1.2.2.7 Beta-catenin phosphorylation cascade (Pathway) 5162 
+
+9.17.1.2.2.13 repression of WNT target genes (Pathway) 5166 
+
+9.17.1.3 Degradation of beta-catenin by the destruction complex (Pathway) 5167 
+
+9.17.1.3.7 Beta-catenin phosphorylation cascade (Pathway) 5169 
+
+9.17.1.3.13 repression of WNT target genes (Pathway) 5172 
+
+9.17.2 AXIN mutants destabilize the destruction complex, activating WNT signaling 5174 (Pathway) 
+
+9.17.2.1 deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT5175 signaling (Pathway) 
+
+9.17.2.1.2 Degradation of beta-catenin by the destruction complex (Pathway) 5178 
+
+9.17.2.1.2.7 Beta-catenin phosphorylation cascade (Pathway) 5180 
+
+9.17.2.1.2.13 repression of WNT target genes (Pathway) 5183 
+
+9.17.2.2 AXIN missense mutants destabilize the destruction complex (Pathway) 5185 
+
+9.17.2.2.2 Degradation of beta-catenin by the destruction complex (Pathway) 5188 
+
+9.17.2.2.2.7 Beta-catenin phosphorylation cascade (Pathway) 5190 
+
+9.17.2.2.2.13 repression of WNT target genes (Pathway) 5193 
+
+9.17.2.3 Degradation of beta-catenin by the destruction complex (Pathway) 5195 
+
+9.17.2.3.7 Beta-catenin phosphorylation cascade (Pathway) 5197 
+
+9.17.2.3.13 repression of WNT target genes (Pathway) 5200 
+
+9.17.3 AMER1 mutants destabilize the destruction complex (Pathway) 5201 
+
+9.17.3.1 deletions in the AMER1 gene destabilize the destruction complex (Pathway) 5203 
+
+9.17.3.1.2 Degradation of beta-catenin by the destruction complex (Pathway) 5206 
+
+9.17.3.1.2.7 Beta-catenin phosphorylation cascade (Pathway) 5208 
+
+9.17.3.1.2.13 repression of WNT target genes (Pathway) 5211 
+
+9.17.3.2 truncations of AMER1 destabilize the destruction complex (Pathway) 5213 
+
+9.17.3.2.2 Degradation of beta-catenin by the destruction complex (Pathway) 5216 
+
+9.17.3.2.2.7 Beta-catenin phosphorylation cascade (Pathway) 5218 
+
+9.17.3.2.2.13 repression of WNT target genes (Pathway) 5221 
+
+9.17.3.3 Degradation of beta-catenin by the destruction complex (Pathway) 5223 
+
+9.17.3.3.7 Beta-catenin phosphorylation cascade (Pathway) 5225 
+
+9.17.3.3.13 repression of WNT target genes (Pathway) 5228 
+
+9.17.4 phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the5229 destruction complex (Pathway) 
+
+9.17.4.1 S45 mutants of beta-catenin aren't phosphorylated (Pathway) 5231 
+
+9.17.4.1.2 Degradation of beta-catenin by the destruction complex (Pathway) 5234 
+
+9.17.4.1.2.7 Beta-catenin phosphorylation cascade (Pathway) 5236 
+
+9.17.4.1.2.13 repression of WNT target genes (Pathway) 5239 
+
+9.17.4.2 T41 mutants of beta-catenin aren't phosphorylated (Pathway) 5241 
+
+9.17.4.2.2 Degradation of beta-catenin by the destruction complex (Pathway) 5244 
+
+9.17.4.2.2.7 Beta-catenin phosphorylation cascade (Pathway) 5246 
+
+9.17.4.2.2.13 repression of WNT target genes (Pathway) 5249 
+
+9.17.4.3 S37 mutants of beta-catenin aren't phosphorylated (Pathway) 5251 
+
+9.17.4.3.2 Degradation of beta-catenin by the destruction complex (Pathway) 5253 
+
+9.17.4.3.2.7 Beta-catenin phosphorylation cascade (Pathway) 5255 
+
+9.17.4.3.2.13 repression of WNT target genes (Pathway) 5258 
+
+9.17.4.4 S33 mutants of beta-catenin aren't phosphorylated (Pathway) 5260 
+
+9.17.4.4.2 Degradation of beta-catenin by the destruction complex (Pathway) 5263 
+
+9.17.4.4.2.7 Beta-catenin phosphorylation cascade (Pathway) 5265 
+
+9.17.4.4.2.13 repression of WNT target genes (Pathway) 5256
+
+9.17.4.5 Degradation of beta-catenin by the destruction complex (Pathway) 5270 
+
+9.17.4.5.7 Beta-catenin phosphorylation cascade (Pathway) 5271 
+
+9.17.4.5.13 repression of WNT target genes (Pathway) 5275 
+
+9.17.5 misspliced GSK3beta mutants stabilize beta-catenin (Pathway) 5276 
+
+9.17.5.2 Degradation of beta-catenin by the destruction complex (Pathway) 5279 
+
+9.17.5.2.6 Association of beta-catenin with the destruction complex (Reaction) 5281 9.17.5.2.7 Beta-catenin phosphorylation cascade (Pathway) 5281 
+
+9.17.5.2.13 repression of WNT target genes (Pathway) 5284 
+
+9.17.6 TCF7L2 mutants don't bind CTBP (Pathway) 5286 
+
+9.17.6.2 Degradation of beta-catenin by the destruction complex (Pathway) 5289 
+
+9.17.6.2.7 Beta-catenin phosphorylation cascade (Pathway) 5291 
+
+9.17.6.2.13 repression of WNT target genes (Pathway) 5294 
+
+9.17.7 misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling 5296 (Pathway) 
+
+9.17.7.2 TCF dependent signaling in response to WNT (Pathway) 5299 
+
+9.17.7.2.2 WNT mediated activation of DVL (Pathway) 5303 
+
+9.17.7.2.4 disassembly of the destruction complex and recruitment of AXIN to the 5314 membrane (Pathway) 
+
+9.17.7.2.6 formation of the beta-catenin:TCF transactivating complex (Pathway) 5333 
+
+9.17.7.2.6.1 binding of TCF/LEF:CTNNB1 to target gene promoters (Pathway) 5335 
+
+9.17.7.2.7 deactivation of the beta-catenin transactivating complex (Pathway) 5360 
+
+9.17.7.2.8 degradation of DVL (Pathway) 5379 
+
+9.17.7.2.9 degradation of AXIN (Pathway) 5389 
+
+9.17.7.2.11 regulation of FZD by ubiquitination (Pathway) 5403 
+
+9.17.7.2.12 negative regulation of TCF-dependent signaling by WNT ligand antagonists5414 (Pathway) 
+
+9.17.7.2.13 negative regulation of TCF-dependent signaling by DVL-interacting proteins5426 (Pathway) 
+
+9.17.8 RNF mutants show enhanced WNT signaling and proliferation (Pathway) 5434 
+
+9.17.8.2 TCF dependent signaling in response to WNT (Pathway) 5438 
+
+9.17.8.2.2 WNT mediated activation of DVL (Pathway) 5438 
+
+9.17.8.2.4 disassembly of the destruction complex and recruitment of AXIN to the 5440 membrane (Pathway) 
+
+9.17.8.2.6 formation of the beta-catenin:TCF transactivating complex (Pathway) 5442 
+
+9.17.8.2.6.1 binding of TCF/LEF:CTNNB1 to target gene promoters (Pathway) 5443 
+
+9.17.8.2.7 deactivation of the beta-catenin transactivating complex (Pathway) 5446 
+
+9.17.8.2.8 degradation of DVL (Pathway) 5449 
+
+9.17.8.2.9 degradation of AXIN (Pathway) 5452 
+
+9.17.8.2.11 regulation of FZD by ubiquitination (Pathway) 5454 
+
+9.17.8.2.12 negative regulation of TCF-dependent signaling by WNT ligand antagonists5456 (Pathway) 
+
+9.17.8.2.13 negative regulation of TCF-dependent signaling by DVL-interacting proteins5457 (Pathway) 
+
+9.17.9 XAV939 inhibits tankyrase, stabilizing AXIN (Pathway) 5458 
+
+9.17.9.2 TCF dependent signaling in response to WNT (Pathway) 5461 
+
+9.17.9.2.2 WNT mediated activation of DVL (Pathway) 5461 
+
+9.17.9.2.4 disassembly of the destruction complex and recruitment of AXIN to the 5463 membrane (Pathway) 
+
+9.17.9.2.6 formation of the beta-catenin:TCF transactivating complex (Pathway) 5466 
+
+9.17.9.2.6.1 binding of TCF/LEF:CTNNB1 to target gene promoters (Pathway) 5466 
+
+9.17.9.2.7 deactivation of the beta-catenin transactivating complex (Pathway) 5470 
+
+9.17.9.2.8 degradation of DVL (Pathway) 5473 
+
+9.17.9.2.9 degradation of AXIN (Pathway) 5475 
+
+9.17.9.2.11 regulation of FZD by ubiquitination (Pathway) 5477 
+
+9.17.9.2.12 negative regulation of TCF-dependent signaling by WNT ligand antagonists5479 (Pathway) 
+
+9.17.9.2.13 negative regulation of TCF-dependent signaling by DVL-interacting proteins5481 (Pathway) 
+
+9.17.10 WNT ligand secretion is abrogated by the PORCN inhibitor LGK974 (Pathway) 5482 
+
+9.17.10.2 WNT ligand biogenesis and trafficking (Pathway) 5486 
+
+9.18 Processing-defective Hh variants abrogate ligand secretion (Pathway) 5506 
+
+9.18.1 Hh ligand biogenesis disease (Pathway) 5508 
+
+9.18.1.7 G287V HHAT variants doesn't palmitoylate Hh-Np (FailedReaction) 5520 10 DNA Repair (Pathway) 5523 
+
+10.1 Base Excision Repair (Pathway) 5524 
+
+10.1.1 Base-Excision Repair, AP Site Formation (Pathway) 5525 
+
+10.1.1.1 Depurination (Pathway) 5525 
+
+10.1.1.1.1 Recognition and association of DNA glycosylase with site containing an 5526 affected purine (Pathway) 
+
+10.1.1.1.2 Cleavage of the damaged purine (Pathway) 5530 
+
+10.1.1.2 Depyrimidination (Pathway) 5534 
+
+10.1.1.2.1 Recognition and association of DNA glycosylase with site containing an 5535 affected pyrimidine (Pathway) 
+
+10.1.1.2.2 Cleavage of the damaged pyrimidine (Pathway) 5541 
+
+10.1.2 Resolution of Abasic Sites (AP sites) (Pathway) 5548 
+
+10.1.2.1 Resolution of AP sites via the single-nucleotide replacement pathway (Pathway)5548 
+
+10.1.2.1.1 Base-free sugar-phosphate removal via the single-nucleotide replacement 5551 pathway (Pathway) 
+
+10.1.2.1.1.1 Displacement of DNA glycosylase by APE1 (Pathway) 5551 
+
+10.1.2.2 Resolution of AP sites via the multiple-nucleotide patch replacement pathway 5561 (Pathway) 
+
+10.1.2.2.1 Removal of DNA patch containing abasic residue (Pathway) 5563 
+
+10.1.2.2.1.1 Displacement of DNA glycosylase by APE1 (Pathway) 5563 
+
+10.2 DNA Damage Bypass (Pathway) 5573 
+
+10.2.1 Translesion synthesis by DNA polymerases bypassing lesion on DNA template 5574 (Pathway) 
+
+10.2.1.1 Translesion synthesis by HREV1 (Pathway) 5575 
+
+10.2.1.2 Translesion synthesis by Pol eta (Pathway) 5577 
+
+10.2.1.3 Translesion synthesis by Pol zeta (Pathway) 5579 
+
+10.3 DNA Damage Reversal (Pathway) 5581 
+
+10.3.2 Reversal of Alkylation Damage By DNA Dioxygenases (Pathway) 5583 
+
+10.3.2.1 ABH2 mediated Reversal of Alkylation Damage (Pathway) 5584 
+
+10.3.2.2 ABH3 mediated Reversal of Alkylation Damage (Pathway) 5587 
+
+10.4 Double-Strand Break Repair (Pathway) 5591 
+
+10.4.1 Homologous Recombination Repair (Pathway) 5593 
+
+10.4.1.1 Homologous recombination repair of replication-independent double-strand 5595 breaks (Pathway) 
+
+10.4.1.1.1 ATM mediated response to DNA double-strand break (Pathway) 5596 
+
+10.4.1.1.1.3 ATM mediated phosphorylation of repair proteins (Pathway) 5598 
+
+10.4.1.1.2 Recruitment of repair and signaling proteins to double-strand breaks (Pathway)
+
+10.4.1.1.2.4 MRN complex relocalizes to nuclear foci (Pathway) 5608 
+
+10.4.1.1.2.4.2 Assembly of the RAD50-MRE11-NBS1 complex at DNA double-strand5610 breaks (Pathway) 
+
+10.4.1.1.3 Processing of DNA double-strand break ends (Pathway) 5613 
+
+10.4.1.1.4 Homologous DNA pairing and strand exchange (Pathway) 5617 
+
+10.4.1.1.4.1 Presynaptic phase of homologous DNA pairing and strand exchange 5618 (Pathway) 
+
+10.4.1.1.4.1.5 Assembly of the RAD51-ssDNA nucleoprotein complex (Pathway) 5622 
+
+10.4.1.1.6 Resolution of D-loop structures (Pathway) 5631 
+
+10.4.1.1.6.1 Resolution of D-loop structures through Holliday junction intermediates 5633 (Pathway) 
+
+10.4.1.1.6.2 Resolution of D-loop structures through synthesis-dependent 5639 strand-annealing (Pathway) 
+
+10.4.2 Nonhomologous End-joining (NHEJ) (Pathway) 5645 
+
+10.4.2.5 Processing of DNA ends prior to end rejoining (Pathway) 5651 
+
+10.5 Nucleotide Excision Repair (Pathway) 5657 
+
+10.5.1 Global Genomic NER (GG-NER) (Pathway) 5659 
+
+10.5.1.1 DNA Damage Recognition in GG-NER (Pathway) 5660 10.5.1.1.1 XPC binds to HR23B forming a heterodimeric complex (Reaction) 5661 
+
+10.5.1.2 Formation of incision complex in GG-NER (Pathway) 5662 
+
+10.5.1.3 Dual incision reaction in GG-NER (Pathway) 5666 
+
+10.5.1.4 Gap-filling DNA repair synthesis and ligation in GG-NER (Pathway) 5669 
+
+10.5.1.4.1 Repair synthesis of patch ~27-30 bases long by DNA polymerase (Pathway)5670 
+
+10.5.2 Transcription-coupled NER (TC-NER) (Pathway) 5673 
+
+10.5.2.1 Formation of transcription-coupled NER (TC-NER) repair complex (Pathway) 5674 
+
+10.5.2.2 Dual incision reaction in TC-NER (Pathway) 5677 
+
+10.5.2.3 Gap-filling DNA repair synthesis and ligation in TC-NER (Pathway) 5680 
+
+10.5.2.3.1 Repair synthesis for gap-filling by DNA polymerase in TC-NER (Pathway) 5680 
+
+10.6 Fanconi Anemia pathway (Pathway) 5684 
+
+10.6.5 Regulation of the Fanconi anemia pathway (Pathway) 5691 
+
+10.7 Mismatch Repair (Pathway) 5697 
+
+10.7.1 Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha) (Pathway) 5699 
+
+10.7.2 Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta) (Pathway) 5714 
+
+10.7.2.8 DNA ligase I ligates single stranded nick in double stranded DNA (Reaction) 5731 11 DNA Replication (Pathway) 5732 
+
+11.1 M/G1 Transition (Pathway) 5733 
+
+11.1.1 DNA Replication Pre-Initiation (Pathway) 5733 
+
+11.1.1.1 Assembly of the pre-replicative complex (Pathway) 5734 
+
+11.1.1.1.1 Assembly of the ORC complex at the origin of replication (Pathway) 5734 
+
+11.1.1.1.3 CDC6 association with the ORC:origin complex (Pathway) 5736 
+
+11.1.1.1.4 CDT1 association with the CDC6:ORC:origin complex (Pathway) 5737 
+
+11.1.1.2 Activation of the pre-replicative complex (Pathway) 5739 
+
+11.2 Synthesis of DNA (Pathway) 5742 
+
+11.2.1 DNA replication initiation (Pathway) 5742 
+
+11.2.2 Switching of origins to a post-replicative state (Pathway) 5743 
+
+11.2.2.1 Orc1 removal from chromatin (Pathway) 5743 
+
+11.2.2.2 CDK-mediated phosphorylation and removal of Cdc6 (Pathway) 5745 
+
+11.2.3 DNA strand elongation (Pathway) 5748 
+
+11.2.3.1 Unwinding of DNA (Pathway) 5748 
+
+11.2.3.2 Leading Strand Synthesis (Pathway) 5750 
+
+11.2.3.2.1 Polymerase switching (Pathway) 5750 
+
+11.2.3.3 Lagging Strand Synthesis (Pathway) 5752 
+
+11.2.3.3.1 Polymerase switching (Pathway) 5752 
+
+11.2.3.3.2 Processive synthesis on the lagging strand (Pathway) 5753 
+
+11.2.3.3.2.3 Removal of the Flap Intermediate (Pathway) 5754 
+
+11.3 Regulation of DNA replication (Pathway) 5756 
+
+11.3.1 Association of licensing factors with the pre-replicative complex (Pathway) 5756 
+
+11.3.2 Removal of licensing factors from origins (Pathway) 5758 
+
+11.3.2.1 Orc1 removal from chromatin (Pathway) 5758 
+
+11.3.2.4 CDK-mediated phosphorylation and removal of Cdc6 (Pathway) 5760 
+
+11.3.2.5 Mcm4,6,7 trimer forms and associates with the replication fork (Reaction) 5761 12 Extracellular matrix organization (Pathway) 5762 
+
+12.1 Collagen formation (Pathway) 5765 
+
+12.1.1 Collagen biosynthesis and modifying enzymes (Pathway) 5769 12.1.1.1 PDI is a chaperone for collagen peptides (Reaction) 5773 
+
+12.1.2 Assembly of collagen fibrils and other multimeric structures (Pathway) 5805 
+
+12.1.2.3 Anchoring fibril formation (Pathway) 5817 
+
+12.1.2.4 Crosslinking of collagen fibrils (Pathway) 5824 
+
+12.2 Fibronectin matrix formation (Pathway) 5856 
+
+12.4 Elastic fibre formation (Pathway) 5866 
+
+12.4.8 Molecules associated with elastic fibres (Pathway) 5885 
+
+12.5 Laminin interactions (Pathway) 5905 
+
+12.6 Non-integrin membrane-ECM interactions (Pathway) 5945 
+
+12.6.8 Syndecan interactions (Pathway) 5961 
+
+12.7 ECM proteoglycans (Pathway) 6004 
+
+12.8 Degradation of the extracellular matrix (Pathway) 6057 
+
+12.8.1 Activation of Matrix Metalloproteinases (Pathway) 6059 
+
+12.8.2 Collagen degradation (Pathway) 6106 
+
+12.9 Integrin cell surface interactions (Pathway) 6275 
+
+12.9.55 Endorepellin binds alpha2beta1 integrin (Reaction) 6361 13 Gene Expression (Pathway) 6363 
+
+13.1 Generic Transcription Pathway (Pathway) 6364 
+
+13.1.4 Notch-HLH transcription pathway (Pathway) 6377 
+
+13.1.5 Nuclear Receptor transcription pathway (Pathway) 6381 
+
+13.1.7 YAP1- and WWTR1 (TAZ)-stimulated gene expression (Pathway) 6389 
+
+13.1.8 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway) 6399 
+
+13.1.8.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway) 6399 
+
+13.1.8.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway) 6406 
+
+13.2 RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription (Pathway) 6413 
+
+13.2.1 RNA Polymerase I Transcription (Pathway) 6414 
+
+13.2.1.1 RNA Polymerase I Promoter Clearance (Pathway) 6415 
+
+13.2.1.1.1 RNA Polymerase I Promoter Opening (Pathway) 6416 
+
+13.2.1.1.2 RNA Polymerase I Transcription Initiation (Pathway) 6419 
+
+13.2.1.1.3 RNA Polymerase I Promoter Escape (Pathway) 6430 
+
+13.2.1.2 RNA Polymerase I Chain Elongation (Pathway) 6431 
+
+13.2.1.3 RNA Polymerase I Transcription Termination (Pathway) 6432 
+
+13.2.2 RNA Polymerase III Transcription (Pathway) 6439 
+
+13.2.2.1 RNA Polymerase III Abortive And Retractive Initiation (Pathway) 6440 
+
+13.2.2.2 RNA Polymerase III Transcription Initiation (Pathway) 6464 
+
+13.2.2.2.1 RNA Polymerase III Transcription Initiation From Type 1 Promoter (Pathway)6466 
+
+13.2.2.2.2 RNA Polymerase III Transcription Initiation From Type 2 Promoter (Pathway)6476 
+
+13.2.2.2.3 RNA Polymerase III Transcription Initiation From Type 3 Promoter (Pathway)6481 
+
+13.2.2.3 RNA Polymerase III Chain Elongation (Pathway) 6487 
+
+13.2.2.4 RNA Polymerase III Transcription Termination (Pathway) 6492 
+
+13.2.3 Transcription from mitochondrial promoters (Pathway) 6493 
+
+13.2.3.1 Mitochondrial transcription initiation (Pathway) 6495 
+
+13.2.3.2 Mitochondrial transcription termination (Pathway) 6499 
+
+13.3 RNA Polymerase II Transcription (Pathway) 6502 
+
+13.3.1 RNA Polymerase II Pre-transcription Events (Pathway) 6502 
+
+13.3.2 RNA Polymerase II Transcription Pre-Initiation And Promoter Opening (Pathway) 6515 
+
+13.3.3 RNA Polymerase II Transcription Initiation And Promoter Clearance (Pathway) 6521 
+
+13.3.3.2 RNA Polymerase II Transcription Initiation (Pathway) 6523 
+
+13.3.3.3 RNA Polymerase II Promoter Escape (Pathway) 6526 
+
+13.3.4 RNA Pol II CTD phosphorylation and interaction with CE (Pathway) 6533 
+
+13.3.5 RNA Polymerase II Transcription Elongation (Pathway) 6536 
+
+13.3.5.1 Formation of the Early Elongation Complex (Pathway) 6538 
+
+13.3.5.2 Formation of RNA Pol II elongation complex (Pathway) 6542 
+
+13.3.6 RNA Polymerase II Transcription Termination (Pathway) 6547 
+
+13.3.6.1 Cleavage of Growing Transcript in the Termination Region (Pathway) 6548 
+
+13.4 mRNA Capping (Pathway) 6553 
+
+13.5 Processing of Capped Intron-Containing Pre-mRNA (Pathway) 6564 
+
+13.5.3 mRNA Splicing (Pathway) 6567 
+
+13.5.3.1 mRNA Splicing - Major Pathway (Pathway) 6567 
+
+13.5.3.2 mRNA Splicing - Minor Pathway (Pathway) 6579 
+
+13.5.4 mRNA 3'-end processing (Pathway) 6591 
+
+13.5.5 Transport of Mature Transcript to Cytoplasm (Pathway) 6593 
+
+13.5.5.1 Transport of Mature mRNA derived from an Intron-Containing Transcript 6594 (Pathway) 
+
+13.5.5.2 Transport of Mature mRNAs Derived from Intronless Transcripts (Pathway) 6597 
+
+13.5.5.2.1 Transport of the SLBP Dependant Mature mRNA (Pathway) 6598 
+
+13.5.5.2.2 Transport of the SLBP independent Mature mRNA (Pathway) 6602 
+
+13.5.5.2.3 Transport of Mature mRNA Derived from an Intronless Transcript (Pathway)6605 
+
+13.6 Processing of Capped Intronless Pre-mRNA (Pathway) 6608 
+
+13.6.1 SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs 6609 (Pathway) 
+
+13.6.2 SLBP independent Processing of Histone Pre-mRNAs (Pathway) 6614 
+
+13.6.3 Processing of Intronless Pre-mRNAs (Pathway) 6616 
+
+13.7 mRNA Editing (Pathway) 6621 
+
+13.7.1 mRNA Editing: C to U Conversion (Pathway) 6623 
+
+13.7.1.1 Formation of the Editosome (Pathway) 6624 
+
+13.7.2 mRNA Editing: A to I Conversion (Pathway) 6627 
+
+13.7.2.2 Formation of editosomes by ADAR proteins (Pathway) 6629 
+
+13.7.2.3 C6 deamination of adenosine (Pathway) 6632 
+
+13.8 tRNA Aminoacylation (Pathway) 6633 
+
+13.8.1 Cytosolic tRNA aminoacylation (Pathway) 6635 
+
+13.8.2 Mitochondrial tRNA aminoacylation (Pathway) 6666 
+
+13.9 Deadenylation-dependent mRNA decay (Pathway) 6702 
+
+13.9.1 Deadenylation of mRNA (Pathway) 6704 
+
+13.9.2 mRNA decay by 3' to 5' exoribonuclease (Pathway) 6711 
+
+13.9.3 mRNA decay by 5' to 3' exoribonuclease (Pathway) 6716 
+
+13.10 Nonsense-Mediated Decay (NMD) (Pathway) 6724 
+
+6726 (Pathway) 
+
+13.10.2 Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex 6740 (EJC) (Pathway) 
+
+13.11 Regulatory RNA pathways (Pathway) 6744 
+
+13.11.1 MicroRNA (miRNA) biogenesis (Pathway) 6745 
+
+13.11.2 Small interfering RNA (siRNA) biogenesis (Pathway) 6761 
+
+13.11.3 Post-transcriptional silencing by small RNAs (Pathway) 6769 
+
+13.12 Regulation of mRNA stability by proteins that bind AU-rich elements (Pathway) 6777 
+
+13.12.1 AUF1 (hnRNP D0) destabilizes mRNA (Pathway) 6778 
+
+13.12.2 Butyrate Response Factor 1 (BRF1) destabilizes mRNA (Pathway) 6786 
+
+13.12.3 Tristetraprolin (TTP) destabilizes mRNA (Pathway) 6796 
+
+13.12.4 KSRP destabilizes mRNA (Pathway) 6803 
+
+13.12.5 HuR stabilizes mRNA (Pathway) 6811 
+
+13.13 Translation (Pathway) 6822 
+
+13.13.1 Eukaryotic Translation Initiation (Pathway) 6823 
+
+13.13.1.1 Cap-dependent Translation Initiation (Pathway) 6824 
+
+13.13.1.1.1 Formation of a pool of free 40S subunits (Pathway) 6765
+
+13.13.1.1.2 Formation of the ternary complex, and subsequently, the 43S complex 6828 (Pathway) 
+
+13.13.1.1.3 Activation of the mRNA upon binding of the cap-binding complex and eIFs,6831 and subsequent binding to 43S (Pathway) 
+
+13.13.1.1.3.5 Translation initiation complex formation (Pathway) 6834 
+
+13.13.1.1.4 Ribosomal scanning and start codon recognition (Pathway) 6838 
+
+13.13.1.1.5 GTP hydrolysis and joining of the 60S ribosomal subunit (Pathway) 6840 
+
+13.13.1.1.6 Recycling of eIF2:GDP (Pathway) 6844 
+
+13.13.1.2 L13a-mediated translational silencing of Ceruloplasmin expression (Pathway) 6846 
+
+13.13.2 SRP-dependent cotranslational protein targeting to membrane (Pathway) 6852 
+
+13.13.3 Eukaryotic Translation Elongation (Pathway) 6861 
+
+13.13.3.3 Peptide chain elongation (Pathway) 6866 
+
+13.13.4 Eukaryotic Translation Termination (Pathway) 6877 
+
+13.14 Metabolism of non-coding RNA (Pathway) 6884 
+
+13.14.1 snRNP Assembly (Pathway) 6885 
+
+13.15 Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind 6900 RNA (Pathway) 
+
+13.16 Epigenetic regulation of gene expression (Pathway) 6907 
+
+13.16.1 PRC2 methylates histones and DNA (Pathway) 6909 
+
+13.16.2 TET1,2,3 and TDG demethylate DNA (Pathway) 6917 
+
+13.16.3 Negative epigenetic regulation of rRNA expression (Pathway) 6932 
+
+13.16.3.1 SIRT1 negatively regulates rRNA Expression (Pathway) 6933 
+
+13.16.3.2 NoRC negatively regulates rRNA expression (Pathway) 6941 
+
+13.16.3.2.7 MBD2 binds methylcytosine in chromatin (Reaction) 6955 14 Hemostasis (Pathway) 6957 
+
+14.1 Platelet homeostasis (Pathway) 6959 
+
+14.1.1 Prostacyclin signalling through prostacyclin receptor (Pathway) 6960 
+
+14.1.2 Nitric oxide stimulates guanylate cyclase (Pathway) 6967 
+
+14.1.2.4 cGMP effects (Pathway) 6973 
+
+14.1.4 Platelet calcium homeostasis (Pathway) 6982 
+
+14.1.4.1 Elevation of cytosolic Ca2+ levels (Pathway) 6983 
+
+14.1.4.2 Reduction of cytosolic Ca++ levels (Pathway) 6992 
+
+14.1.5 Platelet sensitization by LDL (Pathway) 6998 
+
+14.2 Platelet Adhesion to exposed collagen (Pathway) 7010 
+
+14.3 Platelet activation, signaling and aggregation (Pathway) 7018 
+
+14.3.1 GP1b-IX-V activation signalling (Pathway) 7020 
+
+14.3.2 Signal amplification (Pathway) 7032 
+
+14.3.2.1 ADP signalling through P2Y purinoceptor 12 (Pathway) 7034 
+
+14.3.2.2 ADP signalling through P2Y purinoceptor 1 (Pathway) 7040 
+
+14.3.2.3 Thromboxane signalling through TP receptor (Pathway) 7050 
+
+14.3.3 Thrombin signalling through proteinase activated receptors (PARs) (Pathway) 7059 
+
+14.3.4 GPVI-mediated activation cascade (Pathway) 7079 
+
+14.3.5 Platelet Aggregation (Plug Formation) (Pathway) 7112 
+
+14.3.5.1 Integrin alphaIIb beta3 signaling (Pathway) 7113 
+
+14.3.5.1.14 GRB2:SOS provides linkage to MAPK signaling for Integrins (Pathway) 7134 
+
+14.3.5.1.15 p130Cas linkage to MAPK signaling for integrins (Pathway) 7138 
+
+14.3.5.2 Adrenaline signalling through Alpha-2 adrenergic receptor (Pathway) 7153 
+
+14.3.6 Effects of PIP2 hydrolysis (Pathway) 7159 
+
+14.3.6.6 Arachidonate production from DAG (Pathway) 7167 
+
+14.3.7 Response to elevated platelet cytosolic Ca2+ (Pathway) 7173 
+
+14.3.7.2 Disinhibition of SNARE formation (Pathway) 7176 
+
+14.3.7.3 Platelet degranulation (Pathway) 7178 
+
+14.4 Formation of Fibrin Clot (Clotting Cascade) (Pathway) 7194 
+
+14.4.1 Extrinsic Pathway (Pathway) 7195 
+
+14.4.2 Intrinsic Pathway (Pathway) 7203 
+
+14.4.3 Common Pathway (Pathway) 7228 
+
+14.5 Dissolution of Fibrin Clot (Pathway) 7244 
+
+14.6 Cell surface interactions at the vascular wall (Pathway) 7269 
+
+14.6.23 Tie2 Signaling (Pathway) 7291 
+
+14.6.24 PECAM1 interactions (Pathway) 7311 
+
+14.6.25 Basigin interactions (Pathway) 7317 
+
+14.7 Factors involved in megakaryocyte development and platelet production (Pathway) 7330 
+
+14.7.29 Kinesins (Pathway) 7378 
+
+14.7.29.14 Kinesins move along microtubules consuming ATP (BlackBoxEvent) 7402 15 Immune System (Pathway) 7404 
+
+15.1 Adaptive Immune System (Pathway) 7404 
+
+15.1.1 TCR signaling (Pathway) 7406 
+
+15.1.1.1 Phosphorylation of CD3 and TCR zeta chains (Pathway) 7408 
+
+15.1.1.2 Translocation of ZAP-70 to Immunological synapse (Pathway) 7416 
+
+15.1.1.3 Generation of second messenger molecules (Pathway) 7421 
+
+15.1.1.4 Downstream TCR signaling (Pathway) 7443 
+
+15.1.1.4.21 Activation of NF-kB complex (Reaction) 7469 15.1.2 Costimulation by the CD28 family (Pathway) 7470 
+
+15.1.2.1 CD28 co-stimulation (Pathway) 7473 
+
+15.1.2.1.5 CD28 dependent PI3K/Akt signaling (Pathway) 7480 
+
+15.1.2.1.6 CD28 dependent Vav1 pathway (Pathway) 7495 
+
+15.1.2.2 CTLA4 inhibitory signaling (Pathway) 7505 
+
+15.1.2.5 PD-1 signaling (Pathway) 7515 
+
+15.1.3 Signaling by the B Cell Receptor (BCR) (Pathway) 7525 
+
+15.1.3.1 Antigen activates B Cell Receptor (BCR) leading to generation of second 7529 messengers (Pathway) 
+
+15.1.3.2 Downstream signaling events of B Cell Receptor (BCR) (Pathway) 7564 
+
+15.1.3.2.1 Activation of NF-kappaB in B cells (Pathway) 7565 
+
+15.1.3.2.2 Activation of RAS in B cells (Pathway) 7586 
+
+15.1.3.2.3 PIP3 activates AKT signaling (Pathway) 7591 
+
+15.1.3.2.3.6 PDPK1 phosphorylates AKT at T308 (Reaction) 7597 15.1.3.2.3.7 AKT phosphorylates targets in the cytosol (Pathway) 7597 
+
+15.1.3.2.3.9 AKT phosphorylates targets in the nucleus (Pathway) 7609 
+
+15.1.3.2.3.10 Negative regulation of the PI3K/AKT network (Pathway) 7614 
+
+15.1.4 Class I MHC mediated antigen processing & presentation (Pathway) 7622 
+
+15.1.4.1 Antigen processing: Ubiquitination & Proteasome degradation (Pathway) 7624 
+
+15.1.4.2 Antigen Presentation: Folding, assembly and peptide loading of class I MHC 7637 (Pathway) 
+
+15.1.4.3 Antigen processing-Cross presentation (Pathway) 7659 
+
+15.1.4.3.1 Cross-presentation of particulate exogenous antigens (phagosomes) 7660 (Pathway) 
+
+15.1.4.3.2 ER-Phagosome pathway (Pathway) 7670 
+
+15.1.4.3.3 Endosomal/Vacuolar pathway (Pathway) 7683 
+
+15.1.4.3.4 Cross-presentation of soluble exogenous antigens (endosomes) (Pathway) 7691 
+
+15.1.5 MHC class II antigen presentation (Pathway) 7702 
+
+15.1.6 Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell 7744 (Pathway) 
+
+15.1.7 Rap1 signalling (Pathway) 7776 
+
+15.2 Innate Immune System (Pathway) 7784 
+
+15.2.1 Toll-Like Receptors Cascades (Pathway) 7785 
+
+15.2.1.1 Trafficking and processing of endosomal TLR (Pathway) 7787 
+
+15.2.1.2 Toll Like Receptor 10 (TLR10) Cascade (Pathway) 7801 
+
+15.2.1.2.2 MyD88 cascade initiated on plasma membrane (Pathway) 7804 
+
+15.2.1.2.2.12 IRAK1 recruits IKK complex (Pathway) 7820 
+
+15.2.1.2.2.13 IRAK2 mediated activation of TAK1 complex (Pathway) 7829 
+
+15.2.1.2.2.15 TAK1 activates NFkB by phosphorylation and activation of IKKs complex7840 (Pathway) 
+
+15.2.1.2.2.16 MAP kinase activation in TLR cascade (Pathway) 7846 
+
+15.2.1.2.2.16.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 7848 activated human TAK1 (Pathway) 
+
+15.2.1.2.2.16.2 activated TAK1 mediates p38 MAPK activation (Pathway) 7852 
+
+15.2.1.2.2.16.3 ERK activation (Pathway) 7858 
+
+15.2.1.2.2.16.3.1 ERK1 activation (Pathway) 7858 
+
+15.2.1.2.2.16.3.2 ERK2 activation (Pathway) 7860 
+
+15.2.1.2.2.16.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway) 7862 
+
+15.2.1.2.2.16.4.1 ERK/MAPK targets (Pathway) 7864 
+
+15.2.1.2.2.16.4.1.7 ERKs are inactivated (Pathway) 7871 
+
+15.2.1.2.2.16.4.2 CREB phosphorylation (Pathway) 7873 
+
+15.2.1.2.2.16.4.3 Activation of the AP-1 family of transcription factors (Pathway) 7878 
+
+15.2.1.3 Toll Like Receptor 3 (TLR3) Cascade (Pathway) 7883 
+
+15.2.1.3.2 MyD88-independent cascade (Pathway) 7886 
+
+15.2.1.3.2.4 TRIF-mediated TLR3/TLR4 signaling (Pathway) 7892 
+
+15.2.1.3.2.4.1 Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon (Pathway) 7893 
+
+15.2.1.3.2.4.2 IKK complex recruitment mediated by RIP1 (Pathway) 7910 
+
+15.2.1.3.2.4.3 TRIF-mediated programmed cell death (Pathway) 7916 
+
+15.2.1.3.2.4.4 TRAF6 mediated induction of TAK1 complex (Pathway) 7923 
+
+7933 (Pathway) 
+
+15.2.1.3.2.4.6 MAP kinase activation in TLR cascade (Pathway) 7934 
+
+15.2.1.3.2.4.6.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 7934 activated human TAK1 (Pathway) 
+
+15.2.1.3.2.4.6.2 activated TAK1 mediates p38 MAPK activation (Pathway) 7935 
+
+15.2.1.3.2.4.6.3 ERK activation (Pathway) 7937 
+
+15.2.1.3.2.4.6.3.1 ERK1 activation (Pathway) 7937 
+
+15.2.1.3.2.4.6.3.2 ERK2 activation (Pathway) 7939 
+
+15.2.1.3.2.4.6.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)7941 
+
+15.2.1.3.2.4.6.4.1 ERK/MAPK targets (Pathway) 7941 
+
+15.2.1.3.2.4.6.4.1.7 ERKs are inactivated (Pathway) 7943 
+
+15.2.1.3.2.4.6.4.2 CREB phosphorylation (Pathway) 7943 
+
+15.2.1.3.2.4.6.4.3 Activation of the AP-1 family of transcription factors (Pathway) 7945 
+
+15.2.1.4 Toll Like Receptor 5 (TLR5) Cascade (Pathway) 7946 
+
+15.2.1.4.2 MyD88 cascade initiated on plasma membrane (Pathway) 7949 
+
+15.2.1.4.2.12 IRAK1 recruits IKK complex (Pathway) 7952 
+
+15.2.1.4.2.13 IRAK2 mediated activation of TAK1 complex (Pathway) 7953 
+
+15.2.1.4.2.15 TAK1 activates NFkB by phosphorylation and activation of IKKs complex7955 (Pathway) 
+
+15.2.1.4.2.16 MAP kinase activation in TLR cascade (Pathway) 7957 
+
+15.2.1.4.2.16.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 7957 activated human TAK1 (Pathway) 
+
+15.2.1.4.2.16.2 activated TAK1 mediates p38 MAPK activation (Pathway) 7958 
+
+15.2.1.4.2.16.3 ERK activation (Pathway) 7960 
+
+15.2.1.4.2.16.3.1 ERK1 activation (Pathway) 7960 
+
+15.2.1.4.2.16.3.2 ERK2 activation (Pathway) 7962 
+
+15.2.1.4.2.16.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway) 7963 
+
+15.2.1.4.2.16.4.1 ERK/MAPK targets (Pathway) 7963 
+
+15.2.1.4.2.16.4.1.7 ERKs are inactivated (Pathway) 7965 
+
+15.2.1.4.2.16.4.2 CREB phosphorylation (Pathway) 7966 
+
+15.2.1.4.2.16.4.3 Activation of the AP-1 family of transcription factors (Pathway)  7967  
+
+15.2.1.5 Toll Like Receptor 7/8 (TLR7/8) Cascade (Pathway) 7969 
+
+15.2.1.5.2 MyD88 dependent cascade initiated on endosome (Pathway) 7971 
+
+15.2.1.5.2.11 TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 7988 activation (Pathway) 
+
+15.2.1.5.2.11.2 IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation (Pathway)7991 
+
+15.2.1.5.2.11.3 IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 8000 stimulation (Pathway) 
+
+15.2.1.5.2.11.4 TAK1 activates NFkB by phosphorylation and activation of IKKs 8008 complex (Pathway) 
+
+15.2.1.5.2.11.6 MAP kinase activation in TLR cascade (Pathway) 8010 
+
+15.2.1.5.2.11.6.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 8010 activated human TAK1 (Pathway) 
+
+15.2.1.5.2.11.6.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8011 
+
+15.2.1.5.2.11.6.3 ERK activation (Pathway) 8013 
+
+15.2.1.5.2.11.6.3.1 ERK1 activation (Pathway) 8013 
+
+15.2.1.5.2.11.6.3.2 ERK2 activation (Pathway) 8015 
+
+15.2.1.5.2.11.6.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)
+
+15.2.1.5.2.11.6.4.1 ERK/MAPK targets (Pathway) 8017 
+
+15.2.1.5.2.11.6.4.1.7 ERKs are inactivated (Pathway) 8018 
+
+15.2.1.5.2.11.6.4.2 CREB phosphorylation (Pathway) 8019 
+
+15.2.1.5.2.11.6.4.3 Activation of the AP-1 family of transcription factors (Pathway)8020 
+
+15.2.1.5.2.12 TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling (Pathway) 8022 
+
+15.2.1.6 Toll Like Receptor 9 (TLR9) Cascade (Pathway) 8030 
+
+15.2.1.6.5 MyD88 dependent cascade initiated on endosome (Pathway) 8037 
+
+15.2.1.6.5.11 TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 8040 activation (Pathway) 
+
+15.2.1.6.5.11.2 IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation (Pathway)8041 
+
+15.2.1.6.5.11.3 IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 8042 stimulation (Pathway) 
+
+15.2.1.6.5.11.4 TAK1 activates NFkB by phosphorylation and activation of IKKs 8044 complex (Pathway) 
+
+15.2.1.6.5.11.6 MAP kinase activation in TLR cascade (Pathway) 8046 
+
+15.2.1.6.5.11.6.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 8046 activated human TAK1 (Pathway) 
+
+15.2.1.6.5.11.6.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8047 
+
+15.2.1.6.5.11.6.3 ERK activation (Pathway) 8049 
+
+15.2.1.6.5.11.6.3.1 ERK1 activation (Pathway) 8049 
+
+15.2.1.6.5.11.6.3.2 ERK2 activation (Pathway) 8051 
+
+15.2.1.6.5.11.6.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)
+
+15.2.1.6.5.11.6.4.1 ERK/MAPK targets (Pathway) 8053 
+
+15.2.1.6.5.11.6.4.1.7 ERKs are inactivated (Pathway) 8054 
+
+15.2.1.6.5.11.6.4.2 CREB phosphorylation (Pathway) 8055 
+
+15.2.1.6.5.11.6.4.3 Activation of the AP-1 family of transcription factors (Pathway)8056 
+
+15.2.1.6.5.12 TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling (Pathway) 8058 
+
+15.2.1.7 Toll Like Receptor 4 (TLR4) Cascade (Pathway) 8060 
+
+15.2.1.7.2 Transfer of LPS from LBP carrier to CD14 (Pathway) 8063 
+
+15.2.1.7.9 Activated TLR4 signalling (Pathway) 8076 
+
+15.2.1.7.9.1 MyD88:Mal cascade initiated on plasma membrane (Pathway) 8078 
+
+15.2.1.7.9.1.17 IRAK2 mediated activation of TAK1 complex (Pathway) 8104 
+
+15.2.1.7.9.1.18 IRAK1 recruits IKK complex (Pathway) 8105 
+
+15.2.1.7.9.1.20 TAK1 activates NFkB by phosphorylation and activation of IKKs 8107 complex (Pathway) 
+
+15.2.1.7.9.1.21 MAP kinase activation in TLR cascade (Pathway) 8108 
+
+15.2.1.7.9.1.21.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 8108 activated human TAK1 (Pathway) 
+
+15.2.1.7.9.1.21.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8109 
+
+15.2.1.7.9.1.21.3 ERK activation (Pathway) 8111 
+
+15.2.1.7.9.1.21.3.1 ERK1 activation (Pathway) 8111 
+
+15.2.1.7.9.1.21.3.2 ERK2 activation (Pathway) 8113 
+
+15.2.1.7.9.1.21.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)8114 
+
+15.2.1.7.9.1.21.4.1 ERK/MAPK targets (Pathway) 8115 
+
+15.2.1.7.9.1.21.4.1.7 ERKs are inactivated (Pathway) 8116 
+
+15.2.1.7.9.1.21.4.2 CREB phosphorylation (Pathway) 8117 
+
+15.2.1.7.9.1.21.4.3 Activation of the AP-1 family of transcription factors (Pathway)8118 
+
+15.2.1.7.9.2 MyD88-independent cascade (Pathway) 8120 
+
+15.2.1.7.9.2.4 TRIF-mediated TLR3/TLR4 signaling (Pathway) 8121 
+
+15.2.1.7.9.2.4.1 Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon (Pathway) 8121 
+
+15.2.1.7.9.2.4.2 IKK complex recruitment mediated by RIP1 (Pathway) 8124 
+
+15.2.1.7.9.2.4.3 TRIF-mediated programmed cell death (Pathway) 8125 
+
+15.2.1.7.9.2.4.4 TRAF6 mediated induction of TAK1 complex (Pathway) 8126 
+
+15.2.1.7.9.2.4.5 TAK1 activates NFkB by phosphorylation and activation of IKKs 8128 complex (Pathway) 
+
+15.2.1.7.9.2.4.6 MAP kinase activation in TLR cascade (Pathway) 8130 
+
+15.2.1.7.9.2.4.6.1 JNK (c-Jun kinases) phosphorylation and activation mediated by8130 activated human TAK1 (Pathway) 
+
+15.2.1.7.9.2.4.6.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8131 
+
+15.2.1.7.9.2.4.6.3 ERK activation (Pathway) 8133 
+
+15.2.1.7.9.2.4.6.3.1 ERK1 activation (Pathway) 8133 
+
+15.2.1.7.9.2.4.6.3.2 ERK2 activation (Pathway) 8135 
+
+15.2.1.7.9.2.4.6.4 MAPK targets/ Nuclear events mediated by MAP kinases 8136 (Pathway) 
+
+15.2.1.7.9.2.4.6.4.1 ERK/MAPK targets (Pathway) 8136 
+
+15.2.1.7.9.2.4.6.4.1.7 ERKs are inactivated (Pathway) 8138 
+
+15.2.1.7.9.2.4.6.4.2 CREB phosphorylation (Pathway) 8139 
+
+15.2.1.7.9.2.4.6.4.3 Activation of the AP-1 family of transcription factors (Pathway)8140 
+
+15.2.1.8 Toll Like Receptor 2 (TLR2) Cascade (Pathway) 8142 
+
+15.2.1.8.1 Toll Like Receptor TLR1:TLR2 Cascade (Pathway) 8143 
+
+15.2.1.8.1.3 MyD88:Mal cascade initiated on plasma membrane (Pathway) 8147 
+
+15.2.1.8.1.3.17 IRAK2 mediated activation of TAK1 complex (Pathway) 8152 
+
+15.2.1.8.1.3.18 IRAK1 recruits IKK complex (Pathway) 8153 
+
+15.2.1.8.1.3.20 TAK1 activates NFkB by phosphorylation and activation of IKKs 8155 complex (Pathway) 
+
+15.2.1.8.1.3.21 MAP kinase activation in TLR cascade (Pathway) 8156 
+
+15.2.1.8.1.3.21.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 8156 activated human TAK1 (Pathway) 
+
+15.2.1.8.1.3.21.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8157 
+
+15.2.1.8.1.3.21.3 ERK activation (Pathway) 8159 
+
+15.2.1.8.1.3.21.3.1 ERK1 activation (Pathway) 8159 15.2.1.8.1.3.21.3.1.1 Inactivation of MEK1 by p34cdc2 (Reaction) 8159 
+
+15.2.1.8.1.3.21.3.2 ERK2 activation (Pathway) 8161 
+
+15.2.1.8.1.3.21.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)
+
+15.2.1.8.1.3.21.4.1 ERK/MAPK targets (Pathway) 8163 
+
+15.2.1.8.1.3.21.4.1.7 ERKs are inactivated (Pathway) 8164 
+
+15.2.1.8.1.3.21.4.2 CREB phosphorylation (Pathway) 8165 
+
+15.2.1.8.1.3.21.4.3 Activation of the AP-1 family of transcription factors (Pathway)8166 
+
+15.2.1.8.2 Toll Like Receptor TLR6:TLR2 Cascade (Pathway) 8168 
+
+15.2.1.8.2.3 MyD88:Mal cascade initiated on plasma membrane (Pathway) 8172 
+
+15.2.1.8.2.3.17 IRAK2 mediated activation of TAK1 complex (Pathway) 8177 
+
+15.2.1.8.2.3.18 IRAK1 recruits IKK complex (Pathway) 8178 
+
+15.2.1.8.2.3.20 TAK1 activates NFkB by phosphorylation and activation of IKKs 8180 complex (Pathway) 
+
+15.2.1.8.2.3.21 MAP kinase activation in TLR cascade (Pathway) 8181 15.2.1.8.2.3.21.1 JNK (c-Jun kinases) phosphorylation and activation mediated by 8181 activated human TAK1 (Pathway) 
+
+15.2.1.8.2.3.21.2 activated TAK1 mediates p38 MAPK activation (Pathway) 8182 
+
+15.2.1.8.2.3.21.3 ERK activation (Pathway) 8184 
+
+15.2.1.8.2.3.21.3.1 ERK1 activation (Pathway) 8184 
+
+15.2.1.8.2.3.21.3.2 ERK2 activation (Pathway) 8186 
+
+15.2.1.8.2.3.21.4 MAPK targets/ Nuclear events mediated by MAP kinases (Pathway)8187 
+
+15.2.1.8.2.3.21.4.1 ERK/MAPK targets (Pathway) 8188 
+
+15.2.1.8.2.3.21.4.1.7 ERKs are inactivated (Pathway) 8189 
+
+15.2.1.8.2.3.21.4.2 CREB phosphorylation (Pathway) 8190 
+
+15.2.1.8.2.3.21.4.3 Activation of the AP-1 family of transcription factors (Pathway)8191 
+
+15.2.2 Complement cascade (Pathway) 8193 
+
+15.2.2.1 Initial triggering of complement (Pathway) 8201 
+
+15.2.2.1.1 Creation of C4 and C2 activators (Pathway) 8202 
+
+15.2.2.1.1.1 Lectin pathway of complement activation (Pathway) 8203 
+
+15.2.2.1.1.1.1 Ficolins bind to repetitive carbohydrate structures on the target cell 8206 surface (Pathway) 
+
+15.2.2.1.1.2 Classical antibody-mediated complement activation (Pathway) 8216 
+
+15.2.2.1.6 Alternative complement activation (Pathway) 8226 
+
+15.2.2.2 Activation of C3 and C5 (Pathway) 8239 
+
+15.2.2.3 Terminal pathway of complement (Pathway) 8246 
+
+15.2.2.4 Regulation of Complement cascade (Pathway) 8251 
+
+15.2.3 Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling8292 pathways (Pathway) 
+
+15.2.3.1 NOD1/2 Signaling Pathway (Pathway) 8294 
+
+15.2.3.2 Inflammasomes (Pathway) 8320 
+
+15.2.3.2.1 The NLRP3 inflammasome (Pathway) 8322 
+
+15.2.3.2.2 The NLRP1 inflammasome (Pathway) 8350 
+
+15.2.3.2.3 The IPAF inflammasome (Pathway) 8357 
+
+15.2.3.2.4 The AIM2 inflammasome (Pathway) 8363 
+
+15.2.4 Advanced glycosylation endproduct receptor signaling (Pathway) 8370 
+
+15.2.5 RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways (Pathway) 8380 
+
+15.2.5.5 TRAF3-dependent IRF activation pathway (Pathway) 8389 
+
+15.2.5.6 NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -108402 (Pathway) 
+
+15.2.5.7 TRAF6 mediated IRF7 activation (Pathway) 8410 
+
+15.2.5.8 TRAF6 mediated NF-kB activation (Pathway) 8422 
+
+15.2.5.9 Negative regulators of RIG-I/MDA5 signaling (Pathway) 8427 
+
+15.2.6 Defensins (Pathway) 8447 
+
+15.2.6.2 Alpha-defensins (Pathway) 8451 
+
+15.2.6.3 Beta defensins (Pathway) 8470 
+
+15.2.7 Cytosolic sensors of pathogen-associated DNA (Pathway) 8482 
+
+15.2.7.1 ZBP1(DAI) mediated induction of type I IFNs (Pathway) 8484 
+
+15.2.7.1.2 IRF3 mediated activation of type 1 IFN (Pathway) 8487 
+
+15.2.7.1.3 RIP-mediated NFkB activation via ZBP1 (Pathway) 8495 
+
+15.2.7.2 STING mediated induction of host immune responses (Pathway) 8501 
+
+15.2.7.2.8 IRF3-mediated induction of type I IFN (Pathway) 8516 
+
+15.2.7.2.9 STAT6-mediated induction of chemokines (Pathway) 8524 
+
+15.2.7.4 LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production 8535 (Pathway) 
+
+15.2.7.5 DEx/H-box helicases activate type I IFN and inflammatory cytokines production8543 (Pathway) 
+
+15.2.7.7 MRE11 binds cytosolic DNA (Reaction) 8551 15.2.7.8 Regulation of innate immune responses to cytosolic DNA (Pathway) 8552 
+
+15.2.7.8.6 Regulation by TREX1 (Pathway) 8560 
+
+15.2.8 Fcgamma receptor (FCGR) dependent phagocytosis (Pathway) 8566 
+
+15.2.8.1 FCGR activation (Pathway) 8568 
+
+15.2.8.2 Regulation of actin dynamics for phagocytic cup formation (Pathway) 8582 
+
+15.2.8.3 Role of phospholipids in phagocytosis (Pathway) 8620 
+
+15.2.9 DAP12 interactions (Pathway) 8637 
+
+15.2.9.17 DAP12 signaling (Pathway) 8663 
+
+15.2.9.17.6 PIP3 activates AKT signaling (Pathway) 8673 
+
+15.2.9.17.6.7 AKT phosphorylates targets in the cytosol (Pathway) 8674 
+
+15.2.9.17.6.9 AKT phosphorylates targets in the nucleus (Pathway) 8677 
+
+15.2.9.17.6.10 Negative regulation of the PI3K/AKT network (Pathway) 8678 
+
+15.2.9.17.12 RAF/MAP kinase cascade (Pathway) 8689 
+
+15.2.9.17.12.1 RAF activation (Pathway) 8689 
+
+15.2.9.17.12.2 MEK activation (Pathway) 8692 
+
+15.2.9.17.12.2.2 RAF phosphorylates MEK (Pathway) 8692 
+
+15.2.9.17.12.3 ERK activation (Pathway) 8693 
+
+15.2.9.17.12.3.1 ERK1 activation (Pathway) 8693 
+
+15.2.9.17.12.3.2 ERK2 activation (Pathway) 8695 
+
+15.2.9.17.18 DAG and IP3 signaling (Pathway) 8704 
+
+15.2.9.17.18.5 CaM pathway (Pathway) 8705 
+
+15.2.9.17.18.5.2 Calmodulin induced events (Pathway) 8707 
+
+15.2.9.17.18.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 8708 
+
+15.2.9.17.18.5.2.1.1 PKA activation (Pathway) 8709 
+
+15.2.9.17.18.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 8717 
+
+15.2.9.17.18.5.2.3 Cam-PDE 1 activation (Pathway) 8724 
+
+15.2.10 Fc epsilon receptor (FCERI) signaling (Pathway) 8733 
+
+15.2.10.7 FCERI mediated MAPK activation (Pathway) 8745 
+
+15.2.10.7.5 RAF/MAP kinase cascade (Pathway) 8750 
+
+15.2.10.7.5.1 RAF activation (Pathway) 8750 
+
+15.2.10.7.5.2 MEK activation (Pathway) 8751 
+
+15.2.10.7.5.2.2 RAF phosphorylates MEK (Pathway) 8752 
+
+15.2.10.7.5.3 ERK activation (Pathway) 8753 
+
+15.2.10.7.5.3.1 ERK1 activation (Pathway) 8753 
+
+15.2.10.7.5.3.2 ERK2 activation (Pathway) 8755 
+
+15.2.10.8 FCERI mediated Ca+2 mobilization (Pathway) 8772 
+
+15.2.10.9 FCERI mediated NF-kB activation (Pathway) 8788 
+
+15.2.10.10 Role of LAT2/NTAL/LAB on calcium mobilization (Pathway) 8813 
+
+15.2.10.10.8 PIP3 activates AKT signaling (Pathway) 8825 
+
+15.2.10.10.8.7 AKT phosphorylates targets in the cytosol (Pathway) 8826 
+
+15.2.10.10.8.9 AKT phosphorylates targets in the nucleus (Pathway) 8829 
+
+15.2.10.10.8.10 Negative regulation of the PI3K/AKT network (Pathway) 8830 
+
+15.3 Cytokine Signaling in Immune system (Pathway) 8832 
+
+15.3.1 Interferon Signaling (Pathway) 8833 
+
+15.3.1.1 Interferon alpha/beta signaling (Pathway) 8835 
+
+15.3.1.1.15 Regulation of IFNA signaling (Pathway) 8859 
+
+15.3.1.2 Interferon gamma signaling (Pathway) 8867 
+
+15.3.1.2.12 Regulation of IFNG signaling (Pathway) 8886 
+
+15.3.1.3 Antiviral mechanism by IFN-stimulated genes (Pathway) 8892 
+
+15.3.1.3.1 ISG15 antiviral mechanism (Pathway) 8893 
+
+15.3.2 Signaling by Interleukins (Pathway) 8917 
+
+15.3.2.1 Interleukin-1 processing (Pathway) 8918 
+
+15.3.2.2 Interleukin-1 signaling (Pathway) 8927 
+
+15.3.2.3 Interleukin-2 signaling (Pathway) 8970 
+
+15.3.2.3.11 Interleukin receptor SHC signaling (Pathway) 8988 
+
+15.3.2.3.12 RAF/MAP kinase cascade (Pathway) 9002 
+
+15.3.2.3.12.1 RAF activation (Pathway) 9002 
+
+15.3.2.3.12.2 MEK activation (Pathway) 9003 
+
+15.3.2.3.12.2.2 RAF phosphorylates MEK (Pathway) 9004 
+
+15.3.2.3.12.3 ERK activation (Pathway) 9005 
+
+15.3.2.3.12.3.1 ERK1 activation (Pathway) 9005 
+
+15.3.2.3.12.3.2 ERK2 activation (Pathway) 9007 
+
+15.3.2.4 Interleukin-3, 5 and GM-CSF signaling (Pathway) 9020 
+
+15.3.2.4.19 Interleukin receptor SHC signaling (Pathway) 9052 
+
+15.3.2.4.20 Regulation of signaling by CBL (Pathway) 9054 
+
+15.3.2.5 Interleukin-6 signaling (Pathway) 9080 
+
+15.3.2.6 Interleukin-7 signaling (Pathway) 9112 
+
+15.3.3 Growth hormone receptor signaling (Pathway) 9134 
+
+15.3.4 Prolactin receptor signaling (Pathway) 9184 
+
+15.3.4.14 Prolactin receptor is internalized (BlackBoxEvent) 9211 16 Membrane Trafficking (Pathway) 9213 
+
+16.1 ER to Golgi Transport (Pathway) 9214 
+
+16.1.1 COPII (Coat Protein 2) Mediated Vesicle Transport (Pathway) 9215 
+
+16.2 Golgi to ER Retrograde Transport (Pathway) 9224 
+
+16.2.1 COPI Mediated Transport (Pathway) 9225 
+
+16.3 trans-Golgi Network Vesicle Budding (Pathway) 9235 
+
+16.3.1 Clathrin derived vesicle budding (Pathway) 9236 
+
+16.3.1.2 Golgi Associated Vesicle Biogenesis (Pathway) 9239 
+
+16.3.1.3 Lysosome Vesicle Biogenesis (Pathway) 9248 
+
+16.3.1.6 Vamp8 associated secretory vesicle to plasma membrane transport (Reaction) 9256 16.4 Gap junction trafficking and regulation (Pathway) 9257 
+
+16.4.1 Gap junction trafficking (Pathway) 9259 
+
+16.4.1.1 Gap junction assembly (Pathway) 9261 
+
+16.4.1.1.5 Transport of connexins along the secretory pathway (Pathway) 9268 
+
+16.4.1.1.6 Oligomerization of connexins into connexons (Pathway) 9272 
+
+16.4.1.1.7 Transport of connexons to the plasma membrane (Pathway) 9278 
+
+16.4.1.1.7.2 Microtubule-dependent trafficking of connexons from Golgi to the plasma9281 membrane (Pathway) 
+
+16.4.1.2 Gap junction degradation (Pathway) 9294 
+
+16.4.1.2.1 Formation of annular gap junctions (Pathway) 9295 
+
+16.4.2 Regulation of gap junction activity (Pathway) 9301 
+
+16.4.2.1 c-src mediated regulation of Cx43 function and closure of gap junctions (Pathway)
+
+16.5 Endosomal Sorting Complex Required For Transport (ESCRT) (Pathway) 9307 
+
+16.6 Translocation of GLUT4 to the plasma membrane (Pathway) 9314 
+
+16.6.14 GLUT4 vesicle fuses with the plasma membrane (BlackBoxEvent) 9339 17 Metabolism (Pathway) 9342 
+
+17.1 Metabolism of carbohydrates (Pathway) 9342 
+
+17.1.1 Digestion of dietary carbohydrate (Pathway) 9343 
+
+17.1.2 Hexose transport (Pathway) 9348 
+
+17.1.2.4 Glucose transport (Pathway) 9350 
+
+17.1.2.4.6 Regulation of Glucokinase by Glucokinase Regulatory Protein (Pathway) 9352 
+
+17.1.3 Glucose metabolism (Pathway) 9357 
+
+17.1.3.1 Glycolysis (Pathway) 9357 
+
+17.1.3.2 Gluconeogenesis (Pathway) 9363 
+
+17.1.3.3 Glycogen synthesis (Pathway) 9373 
+
+17.1.3.4 Glycogen breakdown (glycogenolysis) (Pathway) 9382 
+
+17.1.4 Fructose catabolism (Pathway) 9389 
+
+17.1.5 Galactose catabolism (Pathway) 9390 
+
+17.1.6 Pentose phosphate pathway (hexose monophosphate shunt) (Pathway) 9392 
+
+17.1.7 5-Phosphoribose 1-diphosphate biosynthesis (Pathway) 9398 
+
+17.1.8 Glycosaminoglycan metabolism (Pathway) 9399 
+
+17.1.8.1 Hyaluronan metabolism (Pathway) 9399 
+
+17.1.8.1.1 Hyaluronan biosynthesis and export (Pathway) 9400 
+
+17.1.8.1.2 Hyaluronan uptake and degradation (Pathway) 9401 
+
+17.1.8.2 Transport and synthesis of PAPS (Pathway) 9405 
+
+17.1.8.3 Keratan sulfate/keratin metabolism (Pathway) 9408 
+
+17.1.8.3.1 Keratan sulfate biosynthesis (Pathway) 9408 
+
+17.1.8.3.2 Keratan sulfate degradation (Pathway) 9413 
+
+17.1.8.4 Heparan sulfate/heparin (HS-GAG) metabolism (Pathway) 9416 
+
+17.1.8.4.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway) 9416 
+
+17.1.8.4.2 HS-GAG biosynthesis (Pathway) 9418 
+
+17.1.8.4.3 HS-GAG degradation (Pathway) 9425 
+
+17.1.8.5 Chondroitin sulfate/dermatan sulfate metabolism (Pathway) 9433 
+
+17.1.8.5.1 A tetrasaccharide linker sequence is required for GAG synthesis (Pathway) 9433 
+
+17.1.8.5.2 Chondroitin sulfate biosynthesis (Pathway) 9434 
+
+17.1.8.5.3 Dermatan sulfate biosynthesis (Pathway) 9438 
+
+17.1.8.5.4 CS/DS degradation (Pathway) 9440 
+
+17.2 Inositol phosphate metabolism (Pathway) 9444 
+
+17.2.1 Synthesis of IP3 and IP4 in the cytosol (Pathway) 9446 
+
+17.2.2 IP3 and IP4 transport between cytosol and nucleus (Pathway) 9463 
+
+17.2.3 Synthesis of IPs in the nucleus (Pathway) 9467 
+
+17.2.4 IPs transport between nucleus and cytosol (Pathway) 9483 
+
+17.2.5 Synthesis of pyrophosphates in the cytosol (Pathway) 9489 
+
+17.2.6 IP6 and IP7 transport between cytosol and nucleus (Pathway) 9515 
+
+17.2.7 IPs transport between cytosol and ER lumen (Pathway) 9518 
+
+17.2.8 Synthesis of IPs in the ER lumen (Pathway) 9523 
+
+17.2.9 IPs transport between ER lumen and cytosol (Pathway) 9529 
+
+17.2.10 IPs transport between ER lumen and nucleus (Pathway) 9533 
+
+17.2.11 IPs transport between nucleus and ER lumen (Pathway) 9537 
+
+17.2.12 Synthesis of IP2, IP, and Ins in the cytosol (Pathway) 9539 
+
+17.3 Metabolism of lipids and lipoproteins (Pathway) 9554 
+
+17.3.1 Lipid digestion, mobilization, and transport (Pathway) 9555 
+
+17.3.1.1 Digestion of dietary lipid (Pathway) 9556 
+
+17.3.1.2 Trafficking of dietary sterols (Pathway) 9566 
+
+17.3.1.3 Lipoprotein metabolism (Pathway) 9575 
+
+17.3.1.3.1 Chylomicron-mediated lipid transport (Pathway) 9575 
+
+17.3.1.3.2 HDL-mediated lipid transport (Pathway) 9594 
+
+17.3.1.3.3 LDL-mediated lipid transport (Pathway) 9625 
+
+17.3.1.4 Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis (Pathway) 9637 
+
+17.3.2 Fatty acid, triacylglycerol, and ketone body metabolism (Pathway) 9664 
+
+17.3.2.1 Triglyceride Biosynthesis (Pathway) 9665 
+
+17.3.2.1.1 Fatty Acyl-CoA Biosynthesis (Pathway) 9665 
+
+17.3.2.1.1.6 Synthesis of very long-chain fatty acyl-CoAs (Pathway) 9671 
+
+17.3.2.2 Import of palmitoyl-CoA into the mitochondrial matrix (Pathway) 9701 
+
+17.3.2.3 Mitochondrial Fatty Acid Beta-Oxidation (Pathway) 9709 
+
+17.3.2.3.1 mitochondrial fatty acid beta-oxidation of saturated fatty acids (Pathway) 9710 
+
+17.3.2.3.1.1 Beta oxidation of palmitoyl-CoA to myristoyl-CoA (Pathway) 9711 
+
+17.3.2.3.1.2 Beta oxidation of myristoyl-CoA to lauroyl-CoA (Pathway) 9716 
+
+17.3.2.3.1.3 Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA (Pathway) 9720 
+
+17.3.2.3.1.4 Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA (Pathway) 9724 
+
+17.3.2.3.1.5 Beta oxidation of octanoyl-CoA to hexanoyl-CoA (Pathway) 9728 
+
+17.3.2.3.1.6 Beta oxidation of hexanoyl-CoA to butanoyl-CoA (Pathway) 9732 
+
+17.3.2.3.1.7 Beta oxidation of butanoyl-CoA to acetyl-CoA (Pathway) 9736 
+
+17.3.2.3.2 mitochondrial fatty acid beta-oxidation of unsaturated fatty acids (Pathway) 9739 
+
+17.3.2.3.3 Propionyl-CoA catabolism (Pathway) 9753 
+
+17.3.2.4 Ketone body metabolism (Pathway) 9756 
+
+17.3.2.4.1 Synthesis of Ketone Bodies (Pathway) 9757 
+
+17.3.2.4.2 Utilization of Ketone Bodies (Pathway) 9761 
+
+(PPARalpha) (Pathway) 
+
+17.3.2.6.4 PPARA activates gene expression (Pathway) 9773 
+
+17.3.3 Peroxisomal lipid metabolism (Pathway) 9831 
+
+17.3.3.1 Alpha-oxidation of phytanate (Pathway) 9832 
+
+17.3.3.2 Beta-oxidation of pristanoyl-CoA (Pathway) 9842 
+
+17.3.3.3 Beta-oxidation of very long chain fatty acids (Pathway) 9858 
+
+17.3.3.4 Plasmalogen biosynthesis (Pathway) 9868 
+
+17.3.3.5 NADPH regeneration (Pathway) 9877 
+
+17.3.4 Cholesterol biosynthesis (Pathway) 9883 
+
+17.3.5 Regulation of cholesterol biosynthesis by SREBP (SREBF) (Pathway) 9916 
+
+17.3.5.11 Activation of gene expression by SREBF (SREBP) (Pathway) 9934 
+
+17.3.6 Bile acid and bile salt metabolism (Pathway) 9990 
+
+17.3.6.1 Synthesis of bile acids and bile salts (Pathway) 9992 
+
+17.3.6.1.1 Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol (Pathway)
+
+17.3.6.1.2 Synthesis of bile acids and bile salts via 24-hydroxycholesterol (Pathway) 10051 
+
+17.3.6.1.3 Synthesis of bile acids and bile salts via 27-hydroxycholesterol (Pathway) 10091 
+
+17.3.6.2 Recycling of bile acids and salts (Pathway) 10112 
+
+17.3.7 Metabolism of steroid hormones and vitamin D (Pathway) 10126 
+
+17.3.7.1 Pregnenolone biosynthesis (Pathway) 10128 
+
+17.3.7.2 Glucocorticoid biosynthesis (Pathway) 10138 
+
+17.3.7.2.8 Oxidation of cortisol to yield cortisone (Reaction) 10149 17.3.7.3 Mineralocorticoid biosynthesis (Pathway) 10150 
+
+17.3.7.4 Androgen biosynthesis (Pathway) 10162 
+
+17.3.7.5 Estrogen biosynthesis (Pathway) 10173 
+
+17.3.7.6 Vitamin D (calciferol) metabolism (Pathway) 10178 
+
+17.3.8 Phospholipid metabolism (Pathway) 10194 
+
+17.3.8.1 Glycerophospholipid biosynthesis (Pathway) 10196 
+
+17.3.8.1.1 Synthesis of PA (Pathway) 10198 
+
+17.3.8.1.2 Acyl chain remodeling of DAG and TAG (Pathway) 10209 
+
+17.3.8.1.3 Synthesis of PE (Pathway) 10218 
+
+17.3.8.1.4 Acyl chain remodelling of PE (Pathway) 10229 
+
+17.3.8.1.5 Hydrolysis of LPE (Pathway) 10242 
+
+17.3.8.1.6 Synthesis of PC (Pathway) 10247 
+
+17.3.8.1.7 PI and PC transport between ER and Golgi membranes (Pathway) 10260 
+
+17.3.8.1.8 Acyl chain remodelling of PC (Pathway) 10267 
+
+17.3.8.1.9 Hydrolysis of LPC (Pathway) 10281 
+
+17.3.8.1.10 Synthesis of PS (Pathway) 10290 
+
+17.3.8.1.11 Acyl chain remodelling of PS (Pathway) 10293 
+
+17.3.8.1.12 Synthesis of PI (Pathway) 10302 
+
+17.3.8.1.13 Acyl chain remodelling of PI (Pathway) 10305 
+
+17.3.8.1.14 Synthesis of PG (Pathway) 10314 
+
+17.3.8.1.15 Acyl chain remodelling of PG (Pathway) 10324 
+
+17.3.8.1.16 Synthesis of CL (Pathway) 10337 
+
+17.3.8.1.17 Acyl chain remodeling of CL (Pathway) 10339 
+
+17.3.8.1.18 Synthesis of BMP (Pathway) 10356 
+
+17.3.8.2 PI Metabolism (Pathway) 10361 
+
+17.3.8.2.1 Synthesis of PIPs at the ER membrane (Pathway) 10363 
+
+17.3.8.2.2 PI and PC transport between ER and Golgi membranes (Pathway) 10368 
+
+17.3.8.2.3 Synthesis of PIPs at the Golgi membrane (Pathway) 10369 
+
+17.3.8.2.4 PIPs transport between Golgi and plasma membranes (Pathway) 10388 
+
+17.3.8.2.5 Synthesis of PIPs at the plasma membrane (Pathway) 10391 
+
+17.3.8.2.6 PIPs transport between plasma and early endosome membranes (Pathway)10423 
+
+17.3.8.2.7 Synthesis of PIPs at the early endosome membrane (Pathway) 10426 
+
+17.3.8.2.8 PIPs transport between early endosome and Golgi membranes (Pathway) 10439 
+
+17.3.8.2.9 PIPs transport between early and late endosome membranes (Pathway) 10442 
+
+17.3.8.2.10 Synthesis of PIPs at the late endosome membrane (Pathway) 10444 
+
+17.3.8.2.11 PIPs transport between late endosome and Golgi membranes (Pathway) 10456 
+
+17.3.9 alpha-linolenic (omega3) and linoleic (omega6) acid metabolism (Pathway) 10458 
+
+17.3.9.1 alpha-linolenic acid (ALA) metabolism (Pathway) 10459 
+
+17.3.9.2 Linoleic acid (LA) metabolism (Pathway) 1043810479 17.3.9.2.1 Activation of linoleic acid to linoleoyl-CoA (Reaction) 10481 
+
+17.3.10 Arachidonic acid metabolism (Pathway) 10494 
+
+17.3.10.3 Synthesis of Prostaglandins (PG) and Thromboxanes (TX) (Pathway) 10498 
+
+17.3.10.4 Synthesis of Leukotrienes (LT) and Eoxins (EX) (Pathway) 10539 
+
+17.3.10.5 Synthesis of 5-eicosatetraenoic acids (Pathway) 10567 
+
+17.3.10.6 Synthesis of 15-eicosatetraenoic acid derivatives (Pathway) 10572 
+
+17.3.10.7 Synthesis of 12-eicosatetraenoic acid derivatives (Pathway) 10578 
+
+17.3.10.8 Synthesis of Lipoxins (LX) (Pathway) 10586 
+
+17.3.10.9 Synthesis of Hepoxilins (HX) and Trioxilins (TrX) (Pathway) 10595 
+
+17.3.10.10 Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE) (Pathway) 10599 
+
+17.3.10.11 Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET) (Pathway)
+
+17.3.11 Sphingolipid metabolism (Pathway) 10610 
+
+17.3.11.1 Sphingolipid de novo biosynthesis (Pathway) 10612 
+
+17.3.11.2 Glycosphingolipid metabolism (Pathway) 10648 
+
+17.3.12 Ubiquinol biosynthesis (Pathway) 10685 
+
+17.4 Integration of energy metabolism (Pathway) 10702 
+
+17.4.1 Regulation of insulin secretion (Pathway) 10705 
+
+17.4.1.1 Adrenaline,noradrenaline inhibits insulin secretion (Pathway) 10708 
+
+17.4.1.2 Acetylcholine regulates insulin secretion (Pathway) 10723 
+
+17.4.1.3 Free fatty acids regulate insulin secretion (Pathway) 10736 
+
+17.4.1.3.1 Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion (Pathway)10737 
+
+17.4.1.4 Glucagon-like Peptide-1 (GLP1) regulates insulin secretion (Pathway) 10743 
+
+17.4.2 Glucagon signaling in metabolic regulation (Pathway) 10783 
+
+17.4.2.5 PKA activation in glucagon signalling (Pathway) 10789 
+
+17.4.3 PKA-mediated phosphorylation of key metabolic factors (Pathway) 10791 
+
+17.4.3.5 Phosphorylation of PF2K-Pase by PKA catalytic subunit (Reaction) 10795 17.4.4 Insulin effects increased synthesis of Xylulose-5-Phosphate (Pathway) 10795 
+
+17.4.6 AMPK inhibits chREBP transcriptional activation activity (Pathway) 10800 
+
+17.4.7 PP2A-mediated dephosphorylation of key metabolic factors (Pathway) 10805 
+
+17.4.8 ChREBP activates metabolic gene expression (Pathway) 10809 
+
+17.5 Metabolism of nitric oxide (Pathway) 10815 
+
+17.5.1 eNOS activation and regulation (Pathway) 10817 
+
+17.5.1.1 eNOS activation (Pathway) 10818 
+
+17.5.1.2 NOSIP mediated eNOS trafficking (Pathway) 10837 
+
+17.5.1.3 NOSTRIN mediated eNOS trafficking (Pathway) 10839 
+
+17.5.1.4 Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation (Pathway)
+
+17.6 The citric acid (TCA) cycle and respiratory electron transport (Pathway) 10865 
+
+17.6.1 Pyruvate metabolism and Citric Acid (TCA) cycle (Pathway) 10865 
+
+17.6.1.1 Pyruvate metabolism (Pathway) 10867 
+
+17.6.1.1.7 Regulation of pyruvate dehydrogenase (PDH) complex (Pathway) 10876 
+
+17.6.1.2 Citric acid cycle (TCA cycle) (Pathway) 
+
+17.6.1.3 Interconversion of 2-oxoglutarate and 2-hydroxyglutarate (Pathway) 10898 
+
+17.6.2 Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat10906 production by uncoupling proteins. (Pathway) 
+
+17.6.2.1 Respiratory electron transport (Pathway) 10907 
+
+17.6.2.2 Formation of ATP by chemiosmotic coupling (Pathway) 10918 
+
+17.6.2.3 Mitochondrial Uncoupling Proteins (Pathway) 10922 
+
+17.6.2.3.1 The fatty acid cycling model (Pathway) 10924 
+
+17.6.2.3.2 The proton buffering model (Pathway) 10929 
+
+17.7 Metabolism of nucleotides (Pathway) 10931 
+
+17.7.1 Purine metabolism (Pathway) 10933 
+
+17.7.1.1 Purine ribonucleoside monophosphate biosynthesis (Pathway) 10934 
+
+17.7.1.2 Purine salvage (Pathway) 10957 
+
+17.7.1.3 Purine catabolism (Pathway) 10970 
+
+17.7.2 Pyrimidine metabolism (Pathway) 10982 
+
+17.7.2.1 Pyrimidine biosynthesis (Pathway) 10983 
+
+17.7.2.2 Pyrimidine salvage reactions (Pathway) 10995 
+
+17.7.2.3 Pyrimidine catabolism (Pathway) 11004 
+
+17.7.3 Synthesis and interconversion of nucleotide di- and triphosphates (Pathway) 11024 
+
+17.7.11 Phosphate bond hydrolysis by NUDT proteins (Pathway) 11059 
+
+17.8 Metabolism of vitamins and cofactors (Pathway) 11080 
+
+17.8.1 Metabolism of water-soluble vitamins and cofactors (Pathway) 11081 
+
+17.8.1.1 Vitamin C (ascorbate) metabolism (Pathway) 11081 
+
+17.8.1.2 Vitamin B1 (thiamin) metabolism (Pathway) 11084 
+
+17.8.1.3 Vitamin B2 (riboflavin) metabolism (Pathway) 11086 
+
+17.8.1.4 Vitamin B5 (pantothenate) metabolism (Pathway) 11088 
+
+17.8.1.4.2 Coenzyme A biosynthesis (Pathway) 11088 
+
+17.8.1.5 Vitamins B6 activation to pyridoxal phosphate (Pathway) 11093 
+
+17.8.1.6 Cobalamin (Cbl, vitamin B12) transport and metabolism (Pathway) 11096 
+
+17.8.1.7 Biotin transport and metabolism (Pathway) 11106 
+
+17.8.1.8 Nicotinate metabolism (Pathway) 11111 
+
+17.8.1.8.8 Nicotinamide salvaging (Pathway) 11115 
+
+17.8.1.9 Metabolism of folate and pterines (Pathway) 11117 
+
+17.8.1.10 Molybdenum cofactor biosynthesis (Pathway) 11126 
+
+17.9 Metabolism of amino acids and derivatives (Pathway) 11128 
+
+17.9.1 Amino acid synthesis and interconversion (transamination) (Pathway) 11129 
+
+17.9.1.20 Serine biosynthesis (Pathway) 11149 
+
+17.9.2 Branched-chain amino acid catabolism (Pathway) 11154 
+
+17.9.3 Histidine catabolism (Pathway) 11176 
+
+17.9.4 Lysine catabolism (Pathway) 11182 
+
+17.9.5 Phenylalanine and tyrosine catabolism (Pathway) 11195 
+
+17.9.6 Proline catabolism (Pathway) 11206 
+
+17.9.7 Tryptophan catabolism (Pathway) 11210 
+
+17.9.8 Urea cycle (Pathway) 11229 
+
+17.9.9 Carnitine synthesis (Pathway) 11240 
+
+17.9.10 Creatine metabolism (Pathway) 11244 
+
+17.9.11 Metabolism of polyamines (Pathway) 11251 
+
+17.9.11.1 Agmatine biosynthesis (Pathway) 11253 
+
+17.9.11.6 Interconversion of polyamines (Pathway) 11261 
+
+17.9.11.7 Methionine salvage pathway (Pathway) 11271 
+
+17.9.12 Regulation of ornithine decarboxylase (ODC) (Pathway) 11282 
+
+17.9.13 Amine-derived hormones (Pathway) 11290 
+
+17.9.13.1 Catecholamine biosynthesis (Pathway) 11291 
+
+17.9.13.2 Thyroxine biosynthesis (Pathway) 11300 
+
+17.9.13.2.9 Regulation of thyroid hormone activity (Pathway) 11311 
+
+17.9.13.3 Serotonin and melatonin biosynthesis (Pathway) 11315 
+
+17.9.14 Glyoxylate metabolism (Pathway) 11321 
+
+17.9.15 Sulfur amino acid metabolism (Pathway) 11333 
+
+17.9.15.1 Methionine salvage pathway (Pathway) 11334 
+
+17.9.15.6 Cysteine formation from homocysteine (Pathway) 11340 
+
+17.9.15.9 Degradation of cysteine and homocysteine (Pathway) 11346 
+
+17.9.15.9.8 Sulfide oxidation to sulfate (Pathway) 11357 
+
+17.10 Metabolism of porphyrins (Pathway) 11367 
+
+17.10.1 Heme biosynthesis (Pathway) 11368 
+
+17.10.2 Heme degradation (Pathway) 11391 
+
+17.11 Biological oxidations (Pathway) 11397 
+
+17.11.1 Phase 1 - Functionalization of compounds (Pathway) 11399 
+
+17.11.1.1 Cytochrome P450 - arranged by substrate type (Pathway) 11401 
+
+17.11.1.1.1 Endogenous sterols (Pathway) 11404 
+
+17.11.1.1.1.4 Sterols are 12-hydroxylated by CYP8B1 (Pathway) 11407 
+
+17.11.1.1.2 Xenobiotics (Pathway) 11414 
+
+17.11.1.1.2.2 Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2 11416 (Pathway) 
+
+17.11.1.1.2.10 CYP2E1 reactions (Pathway) 11428 
+
+17.11.1.1.3 Fatty acids (Pathway) 11446 
+
+17.11.1.1.4 Eicosanoids (Pathway) 11452 
+
+17.11.1.1.5 Vitamins (Pathway) 11456 
+
+17.11.1.1.6 Miscellaneous substrates (Pathway) 11462 
+
+17.11.1.2 FMO oxidizes nucleophiles (Pathway) 11470 
+
+17.11.1.3 COX reactions (Pathway) 11476 
+
+17.11.1.4 Amine Oxidase reactions (Pathway) 11478 
+
+11480 and H2O2 (Pathway) 
+
+17.11.1.4.2 Polyamines are oxidized to amines, aldehydes and H2O2 by PAOs (Pathway)
+
+17.11.1.5 Ethanol oxidation (Pathway) 11487 
+
+17.11.2 Phase II conjugation (Pathway) 11498 
+
+17.11.2.1 Glucuronidation (Pathway) 11499 
+
+17.11.2.1.1 Formation of the active cofactor, UDP-glucuronate (Pathway) 11501 
+
+17.11.2.2 Cytosolic sulfonation of small molecules (Pathway) 11507 
+
+17.11.2.2.1 Transport and synthesis of PAPS (Pathway) 11509 
+
+17.11.2.3 Acetylation (Pathway) 11531 
+
+17.11.2.4 Methylation (Pathway) 11535 
+
+17.11.2.5 Glutathione conjugation (Pathway) 11543 
+
+17.11.2.5.1 Glutathione synthesis and recycling (Pathway) 11544 
+
+17.11.2.6 Amino Acid conjugation (Pathway) 11559 
+
+17.11.2.6.1 Conjugation of carboxylic acids (Pathway) 11560 
+
+17.11.2.6.1.1 Conjugation of benzoate with glycine (Pathway) 11561 
+
+17.11.2.6.1.2 Conjugation of phenylacetate with glutamine (Pathway) 11564 
+
+17.11.2.6.1.3 Conjugation of salicylate with glycine (Pathway) 11568 
+
+17.11.3 Aflatoxin activation and detoxification (Pathway) 11571 
+
+17.12 Mitochondrial iron-sulfur cluster biogenesis (Pathway) 11596 
+
+17.12.3 Electron transport from NADPH to Ferredoxin (Pathway) 11602 
+
+17.13 O2/CO2 exchange in erythrocytes (Pathway) 11608 
+
+17.13.1 Erythrocytes take up carbon dioxide and release oxygen (Pathway) 11610 
+
+17.13.2 Erythrocytes take up oxygen and release carbon dioxide (Pathway) 11622 
+
+17.14 Abacavir transport and metabolism (Pathway) 11633 
+
+17.14.1 Abacavir transmembrane transport (Pathway) 11635 
+
+17.14.2 Abacavir metabolism (Pathway) 11641 
+
+17.15 Reversible hydration of carbon dioxide (Pathway) 11652 
+
+17.16 Cytosolic iron-sulfur cluster assembly (Pathway) 11671 
+
+17.16.3 CIA Targeting Complex transfers 4Fe-4S cluster to apoproteins (BlackBoxEvent)11678 18 Metabolism of proteins (Pathway) 11681 
+
+18.1 Translation (Pathway) 11681 
+
+18.1.1 Eukaryotic Translation Initiation (Pathway) 11681 
+
+18.1.1.1 Cap-dependent Translation Initiation (Pathway) 11682 
+
+18.1.1.1.1 Formation of a pool of free 40S subunits (Pathway) 11682 
+
+18.1.1.1.2 Formation of the ternary complex, and subsequently, the 43S complex 11683 (Pathway) 
+
+11684 subsequent binding to 43S (Pathway) 
+
+18.1.1.1.3.5 Translation initiation complex formation (Pathway) 11686 
+
+18.1.1.1.4 Ribosomal scanning and start codon recognition (Pathway) 11687 
+
+18.1.1.1.5 GTP hydrolysis and joining of the 60S ribosomal subunit (Pathway) 11688 
+
+18.1.1.1.6 Recycling of eIF2:GDP (Pathway) 11689 
+
+18.1.1.2 L13a-mediated translational silencing of Ceruloplasmin expression (Pathway) 11690 
+
+18.1.2 SRP-dependent cotranslational protein targeting to membrane (Pathway) 11692 
+
+18.1.3 Eukaryotic Translation Elongation (Pathway) 11694 
+
+18.1.3.3 Peptide chain elongation (Pathway) 11695 
+
+18.1.4 Eukaryotic Translation Termination (Pathway) 11698 
+
+18.2 Protein folding (Pathway) 11699 
+
+18.2.1 Chaperonin-mediated protein folding (Pathway) 11700 
+
+18.2.1.1 Cooperation of Prefoldin and TriC/CCT in actin and tubulin folding (Pathway) 11702 
+
+18.2.1.1.1 Prefoldin mediated transfer of substrate to CCT/TriC (Pathway) 11703 
+
+18.2.1.1.2 Formation of tubulin folding intermediates by CCT/TriC (Pathway) 11708 
+
+18.2.1.1.3 Folding of actin by CCT/TriC (Pathway) 11714 
+
+18.2.1.2 Association of TriC/CCT with target proteins during biosynthesis (Pathway) 11719 
+
+18.2.2 Post-chaperonin tubulin folding pathway (Pathway) 11724 
+
+18.3 Post-translational protein modification (Pathway) 11752 
+
+18.3.1 PTM: gamma carboxylation, hypusine formation and arylsulfatase activation 11753 (Pathway) 
+
+18.3.1.1 Gamma-carboxylation, transport, and amino-terminal cleavage of proteins 11754 (Pathway) 
+
+18.3.1.1.2 Gamma-carboxylation of protein precursors (Pathway) 11756 
+
+18.3.1.1.3 Transport of gamma-carboxylated protein precursors from the endoplasmic11766 reticulum to the Golgi apparatus (Pathway) 
+
+18.3.1.1.4 Removal of aminoterminal propeptides from gamma-carboxylated proteins11770 (Pathway) 
+
+18.3.1.2 Hypusine synthesis from eIF5A-lysine (Pathway) 11776 
+
+18.3.1.3 The activation of arylsulfatases (Pathway) 11781 
+
+18.3.2 Post-translational modification: synthesis of GPI-anchored proteins (Pathway) 11785 
+
+18.3.2.1 Synthesis of dolichyl-phosphate mannose (Pathway) 1176111785 18.3.2.1.1 dolichyl phosphate + GDP-alpha-D-mannose -> dolichyl phosphate 11787 D-mannose (Reaction) 
+
+18.3.2.2 Synthesis of glycosylphosphatidylinositol (GPI) (Pathway) 11789 
+
+18.3.2.3 Attachment of GPI anchor to uPAR (Pathway) 11805 
+
+18.3.3 Asparagine N-linked glycosylation (Pathway) 11808 
+
+11810 and transfer to a nascent protein (Pathway) 
+
+18.3.3.1.1 Synthesis of substrates in N-glycan biosythesis (Pathway) 11812 
+
+18.3.3.1.1.1 Synthesis of Dolichyl-phosphate (Pathway) 11814 
+
+18.3.3.1.1.2 Synthesis of UDP-N-acetyl-glucosamine (Pathway) 11822 
+
+18.3.3.1.1.3 Synthesis of GDP-mannose (Pathway) 11828 
+
+18.3.3.1.1.4 Synthesis of dolichyl-phosphate mannose (Pathway) 11834 
+
+18.3.3.1.1.5 Synthesis of dolichyl-phosphate-glucose (Pathway) 11835 
+
+18.3.3.1.1.6 Sialic acid metabolism (Pathway) 11838 
+
+18.3.3.3 N-glycan trimming in the ER and Calnexin/Calreticulin cycle (Pathway) 11895 
+
+18.3.3.3.4 Calnexin/calreticulin cycle (Pathway) 11901 
+
+18.3.3.3.4.5 ER Quality Control Compartment (ERQC) (Pathway) 11907 
+
+18.3.3.4 Transport to the Golgi and subsequent modification (Pathway) 11919 
+
+18.3.3.4.3 ER to Golgi Transport (Pathway) 
+
+18.3.3.4.3.1 COPII (Coat Protein 2) Mediated Vesicle Transport (Pathway) 11923 
+
+18.3.3.4.4 N-glycan trimming and elongation in the cis-Golgi (Pathway) 11925 
+
+18.3.3.4.4.2 Progressive trimming of alpha-1,2-linked mannose residues from 11929 Man9/8/7GlcNAc2 to produce Man5GlcNAc2 (Pathway) 
+
+18.3.3.4.5 N-glycan antennae elongation in the medial/trans-Golgi (Pathway) 11936 
+
+18.3.3.4.5.1 Reactions specific to the hybrid N-glycan synthesis pathway (Pathway) 11937 
+
+18.3.3.4.5.2 Reactions specific to the complex N-glycan synthesis pathway (Pathway)
+
+18.3.3.4.5.3 N-Glycan antennae elongation (Pathway) 11945 
+
+18.3.4 O-linked glycosylation (Pathway) 11958 
+
+18.3.4.1 O-glycosylation of TSR domain-containing proteins (Pathway) 11959 
+
+18.3.4.2 O-linked glycosylation of mucins (Pathway) 11963 
+
+18.3.4.2.11 Termination of O-glycan biosynthesis (Pathway) 11977 
+
+18.3.5 SUMOylation (Pathway) 11986 
+
+18.3.5.1 Processing and activation of SUMO (Pathway) 11987 
+
+18.3.5.1.1 SUMO is proteolytically processed (Pathway) 11989 
+
+18.3.5.1.2 SUMO is conjugated to E1 (UBA2:SAE1) (Pathway) 11997 
+
+18.3.5.1.3 SUMO is transferred from E1 to E2 (UBE2I, UBC9) (Pathway) 12003 
+
+18.4 Mitochondrial protein import (Pathway) 12010 
+
+18.5 Peptide hormone metabolism (Pathway) 12051 
+
+18.5.1 Insulin processing (Pathway) 12052 
+
+18.5.2 Synthesis, secretion, and deacylation of Ghrelin (Pathway) 12075 
+
+18.5.3 Metabolism of Angiotensinogen to Angiotensins (Pathway) 12090 
+
+18.5.4 Incretin synthesis, secretion, and inactivation (Pathway) 12119 
+
+18.5.4.1 Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1) 12121 (Pathway) 
+
+18.5.4.2 Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic 12134 Polypeptide (GIP) (Pathway) 
+
+18.5.5 Peptide hormone biosynthesis (Pathway) 12145 
+
+18.5.5.2 Glycoprotein hormones (Pathway) 12147 
+
+18.6 Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like 12153 Growth Factor Binding Proteins (IGFBPs) (Pathway) 
+
+18.7 Unfolded Protein Response (UPR) (Pathway) 12180 
+
+18.7.1 ATF6-alpha activates chaperones (Pathway) 12182 
+
+18.7.1.6 ATF6-alpha activates chaperone genes (Pathway) 12190 
+
+18.7.2 IRE1alpha activates chaperones (Pathway) 12199 
+
+18.7.2.7 XBP1(S) activates chaperone genes (Pathway) 12212 
+
+18.7.3 PERK regulates gene expression (Pathway) 12281 
+
+18.7.3.5 ATF4 activates genes (Pathway) 12289 
+
+18.7.3.5.7 Expression of IL-8 (BlackBoxEvent) 12298 19 Muscle contraction (Pathway) 12300 
+
+19.1 Striated Muscle Contraction (Pathway) 12300 
+
+19.2 Smooth Muscle Contraction (Pathway) 12307 
+
+19.2.7 ATP Hydrolysis By Myosin (Reaction) 12316 20 Mycobacterium tuberculosis biological processes (Pathway) 12318 
+
+20.1 Mycothiol metabolism (Pathway) 12319 
+
+20.1.1 Mycothiol biosynthesis (Pathway) 12320 
+
+20.1.2 Mycothiol catabolism (Pathway) 12329 
+
+20.1.3 Mycothiol-dependent detoxification (Pathway) 12332 
+
+20.2 Trehalose biosynthesis (Pathway) 12341 
+
+20.3 Sulfur compound metabolism (Pathway) 12349 
+
+20.3.1 Sulfate assimilation (Pathway) 12350 
+
+20.3.2 Sulfur amino acid metabolism (Pathway) 12358 
+
+20.3.2.1 Cysteine synthesis from O-acetylserine (Pathway) 12359 
+
+20.3.2.2 Cysteine synthesis from O-phosphoserine (Pathway) 12367 
+
+20.4 Chorismate via Shikimate Pathway (Pathway) 12373 
+
+20.4.7 Dephosphorylation of EPSP yields chorismate (Reaction) 12382 21 Neuronal System (Pathway) 12384 
+
+21.1 Transmission across Electrical Synapses (Pathway) 12385 
+
+21.1.1 Electric Transmission Across Gap Junctions (Pathway) 12386 
+
+21.2 Transmission across Chemical Synapses (Pathway) 12392 
+
+21.2.1 Depolarization of the Presynaptic Terminal Triggers the Opening of Calcium 12393 Channels (Pathway) 
+
+21.2.2 Neurotransmitter Release Cycle (Pathway) 12396 
+
+21.2.2.1 Norepinephrine Neurotransmitter Release Cycle (Pathway) 12397 
+
+21.2.2.2 Serotonin Neurotransmitter Release Cycle (Pathway) 12406 
+
+21.2.2.3 Glutamate Neurotransmitter Release Cycle (Pathway) 12411 
+
+21.2.2.4 Dopamine Neurotransmitter Release Cycle (Pathway) 12424 
+
+21.2.2.5 Acetylcholine Neurotransmitter Release Cycle (Pathway) 12430 
+
+21.2.2.6 GABA synthesis, release, reuptake and degradation (Pathway) 12437 
+
+21.2.2.6.1 GABA synthesis (Pathway) 12439 
+
+21.2.2.6.5 Reuptake of GABA (Pathway) 12446 
+
+21.2.2.6.6 Degradation of GABA (Pathway) 12451 
+
+21.2.3 Neurotransmitter Clearance In The Synaptic Cleft (Pathway) 12454 
+
+21.2.3.3 Dopamine clearance from the synaptic cleft (Pathway) 12457 
+
+21.2.3.3.2 Enzymatic degradation of dopamine by COMT (Pathway) 12459 
+
+21.2.3.3.3 Enzymatic degradation of Dopamine by monoamine oxidase (Pathway) 12462 
+
+21.2.3.4 Serotonin clearance from the synaptic cleft (Pathway) 12465 
+
+21.2.3.4.2 Metabolism of serotonin (Pathway) 12467 
+
+21.2.4 Neurotransmitter uptake and Metabolism In Glial Cells (Pathway) 12470 
+
+21.2.4.1 Astrocytic Glutamate-Glutamine Uptake And Metabolism (Pathway) 12470 
+
+21.2.5 Neurotransmitter Receptor Binding And Downstream Transmission In The 12475 Postsynaptic Cell (Pathway) 
+
+21.2.5.1 Acetylcholine Binding And Downstream Events (Pathway) 12475 
+
+21.2.5.1.1 Activation of Nicotinic Acetylcholine Receptors (Pathway) 12476 
+
+21.2.5.1.1.1 Presynaptic nicotinic acetylcholine receptors (Pathway) 12477 
+
+21.2.5.1.1.1.1 Highly calcium permeable nicotinic acetylcholine receptors (Pathway)12478 
+
+21.2.5.1.1.1.2 Highly sodium permeable acetylcholine nicotinic receptors (Pathway)12482 
+
+21.2.5.1.1.2 Postsynaptic nicotinic acetylcholine receptors (Pathway) 12486 
+
+12487 (Pathway) 
+
+21.2.5.1.1.2.2 Highly sodium permeable acetylcholine nicotinic receptors (Pathway)12490 
+
+21.2.5.2 Glutamate Binding, Activation of AMPA Receptors and Synaptic Plasticity 12491 (Pathway) 
+
+21.2.5.2.1 Trafficking of AMPA receptors (Pathway) 12493 
+
+21.2.5.2.1.2 Trafficking of GluR2-containing AMPA receptors (Pathway) 12496 
+
+21.2.5.2.2 Activation of AMPA receptors (Pathway) 12502 
+
+21.2.5.3 Activation of NMDA receptor upon glutamate binding and postsynaptic events12511 (Pathway) 
+
+21.2.5.3.1 Unblocking of NMDA receptor, glutamate binding and activation (Pathway)12512 
+
+21.2.5.3.2 Post NMDA receptor activation events (Pathway) 12519 
+
+21.2.5.3.2.1 CREB phosphorylation through the activation of Ras (Pathway) 12520 
+
+21.2.5.3.2.1.1 Ras activation uopn Ca2+ infux through NMDA receptor (Pathway) 12522 
+
+21.2.5.3.2.1.4 RSK activation (Pathway) 12528 
+
+21.2.5.3.2.2 CREB phosphorylation through the activation of Adenylate Cyclase 12533 (Pathway) 
+
+21.2.5.3.2.3 CREB phosphorylation through the activation of CaMKII (Pathway) 12537 
+
+21.2.5.3.2.4 CREB phosphorylation through the activation of CaMKK (Pathway) 12543 
+
+21.2.5.3.2.4.1 Activation of CaMKK (Reaction) 12544 21.2.5.3.2.4.2 Activation of CaMK IV (Pathway) 12545 
+
+21.2.5.4 Activation of Kainate Receptors upon glutamate binding (Pathway) 12548 
+
+21.2.5.4.1 Ionotropic activity of Kainate Receptors (Pathway) 12550 
+
+21.2.5.4.1.1 Activation of Na-permeable Kainate Receptors (Pathway) 12551 
+
+21.2.5.4.1.2 Activation of Ca-permeable Kainate Receptor (Pathway) 12554 
+
+21.2.5.4.2 Presynaptic function of Kainate receptors (Pathway) 12558 
+
+21.2.5.5 GABA receptor activation (Pathway) 12561 
+
+21.2.5.5.1 GABA A receptor activation (Pathway) 12563 
+
+21.2.5.5.2 GABA B receptor activation (Pathway) 12566 
+
+21.2.5.5.2.2 Activation of GABAB receptors (Pathway) 12569 
+
+21.2.5.5.2.2.1 Inhibition of adenylate cyclase pathway (Pathway) 12570 
+
+21.2.5.5.2.2.1.1 Adenylate cyclase inhibitory pathway (Pathway) 12571 
+
+21.2.5.5.2.2.2 Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits12578 (Pathway) 
+
+21.2.5.5.3 GABA A (rho) receptor activation (Pathway) 12581 
+
+21.3 Potassium Channels (Pathway) 12584 
+
+21.3.1 Ca2+ activated K+ channels (Pathway) 12585 
+
+21.3.2 HCN channels (Pathway) 12591 
+
+21.3.3 Inwardly rectifying K+ channels (Pathway) 12595 
+
+21.3.3.1 G protein gated Potassium channels (Pathway) 12596 
+
+21.3.3.1.1 Activation of G protein gated Potassium channels (Pathway) 12597 
+
+21.3.3.2 Potassium transport channels (Pathway) 12598 
+
+21.3.3.3 ATP sensitive Potassium channels (Pathway) 12600 
+
+21.3.3.4 Classical Kir channels (Pathway) 12604 
+
+21.3.4 Voltage gated Potassium channels (Pathway) 12606 
+
+21.3.5 Tandem pore domain potassium channels (Pathway) 12609 
+
+21.3.5.1 Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK) 12610 (Pathway) 
+
+21.3.5.2 TWIK related potassium channel (TREK) (Pathway) 12612 
+
+21.3.5.3 TWIK-releated acid-sensitive K+ channel (TASK) (Pathway) 12615 
+
+21.3.5.4 TWIK-related alkaline pH activated K+ channel (TALK) (Pathway) 12617 
+
+21.3.5.5 TWIK-related spinal cord K+ channel (TRESK) (Pathway) 12619 
+
+21.3.5.6 Tandem pore domain halothane-inhibited K+ channel (THIK) (Pathway) 12622 
+
+21.3.5.6.1 Activation of THIK (Reaction) 12623 22 Organelle biogenesis and maintenance (Pathway) 12625 
+
+22.1 Mitochondrial biogenesis (Pathway) 12626 
+
+22.1.1 Activation of PPARGC1A (PGC-1alpha) by phosphorylation (Pathway) 12628 
+
+22.1.2 Transcriptional activation of mitochondrial biogenesis (Pathway) 12634 
+
+22.1.2.28 Expression of SIRT3 (BlackBoxEvent) 12672 23 Reproduction (Pathway) 12674 
+
+23.1 Fertilization (Pathway) 12675 
+
+23.1.1 Sperm Motility And Taxes (Pathway) 12676 
+
+23.1.2 Interaction With Cumulus Cells (Pathway) 12683 
+
+23.1.3 Interaction With The Zona Pellucida (Pathway) 12685 
+
+23.1.4 Acrosome Reaction (Pathway) 12688 
+
+23.1.5 Sperm:Oocyte Membrane Binding (Pathway) 12691 
+
+23.1.5.1 CD9:Izumo Binding (Reaction) 12692 24 Signal Transduction (Pathway) 12694 
+
+24.1 Signaling by EGFR (Pathway) 12697 
+
+24.1.5 Phosphorylation of EGFR by SRC kinase (Reaction) 12706 24.1.6 EGFR interacts with phospholipase C-gamma (Pathway) 12707 
+
+24.1.6.4 DAG and IP3 signaling (Pathway) 12711 
+
+24.1.6.4.5 CaM pathway (Pathway) 12714 
+
+24.1.6.4.5.2 Calmodulin induced events (Pathway) 12715 
+
+24.1.6.4.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 12715 
+
+24.1.6.4.5.2.1.1 PKA activation (Pathway) 12715 
+
+24.1.6.4.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 12717 
+
+24.1.6.4.5.2.3 Cam-PDE 1 activation (Pathway) 12719 
+
+24.1.7 GRB2 events in EGFR signaling (Pathway) 12722 
+
+24.1.7.4 RAF/MAP kinase cascade (Pathway) 12728 
+
+24.1.7.4.1 RAF activation (Pathway) 12728 
+
+24.1.7.4.2 MEK activation (Pathway) 12730 
+
+24.1.7.4.2.2 RAF phosphorylates MEK (Pathway) 12731 
+
+24.1.7.4.3 ERK activation (Pathway) 12732 
+
+24.1.7.4.3.1 ERK1 activation (Pathway) 12732 
+
+24.1.7.4.3.2 ERK2 activation (Pathway) 12734 
+
+24.1.8 SHC1 events in EGFR signaling (Pathway) 12736 
+
+24.1.8.5 RAF/MAP kinase cascade (Pathway) 12744 
+
+24.1.8.5.1 RAF activation (Pathway) 12744 
+
+24.1.8.5.2 MEK activation (Pathway) 12746 
+
+24.1.8.5.2.2 RAF phosphorylates MEK (Pathway) 12746 
+
+24.1.8.5.3 ERK activation (Pathway) 12747 
+
+24.1.8.5.3.1 ERK1 activation (Pathway) 12747 
+
+24.1.8.5.3.2 ERK2 activation (Pathway) 12749 24.1.8.5.3.2.1 MEK2 binds ERK-2 (Reaction) 12749 
+
+24.1.9 GAB1 signalosome (Pathway) 12751 
+
+24.1.9.6 PIP3 activates AKT signaling (Pathway) 12760 
+
+24.1.9.6.7 AKT phosphorylates targets in the cytosol (Pathway) 12763 
+
+24.1.9.6.9 AKT phosphorylates targets in the nucleus (Pathway) 12768 
+
+24.1.9.6.10 Negative regulation of the PI3K/AKT network (Pathway) 12769 
+
+24.1.10 EGFR downregulation (Pathway) 12782 
+
+24.2 Signaling by FGFR (Pathway) 12807 
+
+24.2.1 FGFR ligand binding and activation (Pathway) 12809 
+
+24.2.1.1 FGFR1 ligand binding and activation (Pathway) 12811 
+
+24.2.1.1.1 FGFR1b ligand binding and activation (Pathway) 12812 
+
+24.2.1.1.2 FGFR1c ligand binding and activation (Pathway) 12816 
+
+24.2.1.2 FGFR2 ligand binding and activation (Pathway) 12819 
+
+24.2.1.2.1 FGFR2b ligand binding and activation (Pathway) 12820 
+
+24.2.1.2.2 FGFR2c ligand binding and activation (Pathway) 12824 
+
+24.2.1.3 FGFR3 ligand binding and activation (Pathway) 12827 
+
+24.2.1.3.1 FGFR3b ligand binding and activation (Pathway) 12828 
+
+24.2.1.3.2 FGFR3c ligand binding and activation (Pathway) 12832 
+
+24.2.1.4 FGFR4 ligand binding and activation (Pathway) 12835 
+
+24.2.1.5 Klotho-mediated ligand binding (Pathway) 12839 
+
+24.2.1.5.1 betaKlotho-mediated ligand binding (Pathway) 12840 
+
+24.2.1.5.2 FGFR1c and Klotho ligand binding and activation (Pathway) 12844 
+
+24.2.2 Downstream signaling of activated FGFR (Pathway) 12848 
+
+24.2.2.1 FRS2-mediated cascade (Pathway) 12849 
+
+24.2.2.1.9 RAF/MAP kinase cascade (Pathway) 12861 
+
+24.2.2.1.9.1 RAF activation (Pathway) 12862 
+
+24.2.2.1.9.2 MEK activation (Pathway) 12863 
+
+24.2.2.1.9.2.2 RAF phosphorylates MEK (Pathway) 12864 
+
+24.2.2.1.9.3 ERK activation (Pathway) 12864 
+
+24.2.2.1.9.3.1 ERK1 activation (Pathway) 12865 
+
+24.2.2.1.9.3.2 ERK2 activation (Pathway) 12866 24.2.2.1.9.3.2.1 MEK2 binds ERK-2 (Reaction) 12867 
+
+24.2.2.2 Phospholipase C-mediated cascade (Pathway) 12868 
+
+24.2.2.2.4 DAG and IP3 signaling (Pathway) 12873 
+
+24.2.2.2.4.5 CaM pathway (Pathway) 12874 
+
+24.2.2.2.4.5.2 Calmodulin induced events (Pathway) 12875 
+
+24.2.2.2.4.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 12875 
+
+24.2.2.2.4.5.2.1.1 PKA activation (Pathway) 12875 
+
+24.2.2.2.4.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 12877 
+
+24.2.2.2.4.5.2.3 Cam-PDE 1 activation (Pathway) 12878 
+
+24.2.2.3 SHC-mediated cascade (Pathway) 12879 
+
+24.2.2.4 PI-3K cascade (Pathway) 12886 
+
+24.2.2.4.8 PIP3 activates AKT signaling (Pathway) 12894 
+
+24.2.2.4.8.7 AKT phosphorylates targets in the cytosol (Pathway) 12896 
+
+24.2.2.4.8.9 AKT phosphorylates targets in the nucleus (Pathway) 12899 
+
+24.2.2.4.8.10 Negative regulation of the PI3K/AKT network (Pathway) 12900 
+
+24.2.3 Negative regulation of FGFR signaling (Pathway) 12902 
+
+24.2.3.4 Spry regulation of FGF signaling (Pathway) 12907 
+
+24.3 Signaling by Insulin receptor (Pathway) 12925 
+
+24.3.3 Insulin receptor signalling cascade (Pathway) 12931 
+
+24.3.3.1 SHC-related events (Pathway) 12932 
+
+24.3.3.1.1 SHC activation (Pathway) 12932 
+
+24.3.3.1.2 SHC-mediated signalling (Pathway) 12934 
+
+24.3.3.1.2.3 RAF/MAP kinase cascade (Pathway) 12939 
+
+24.3.3.1.2.3.1 RAF activation (Pathway) 12939 
+
+24.3.3.1.2.3.2 MEK activation (Pathway) 12940 
+
+24.3.3.1.2.3.2.2 RAF phosphorylates MEK (Pathway) 12941 
+
+24.3.3.1.2.3.3 ERK activation (Pathway) 12942 
+
+24.3.3.1.2.3.3.1 ERK1 activation (Pathway) 12942 
+
+24.3.3.1.2.3.3.2 ERK2 activation (Pathway) 12944 
+
+24.3.3.2 IRS-related events (Pathway) 12945 
+
+24.3.3.2.1 IRS activation (Pathway) 12946 
+
+24.3.3.2.2 IRS-mediated signalling (Pathway) 12948 
+
+24.3.3.2.2.1 PI3K Cascade (Pathway) 12949 
+
+24.3.3.2.2.1.3 PKB-mediated events (Pathway) 12951 
+
+24.3.3.2.2.1.3.1 PDE3B signalling (Pathway) 12951 
+
+24.3.3.2.2.1.3.2 mTOR signalling (Pathway) 12953 
+
+24.3.3.2.2.1.3.2.1 Inhibition of TSC complex formation by PKB (Pathway) 12953 
+
+24.3.3.2.2.1.3.2.4 mTORC1-mediated signalling (Pathway) 12956 
+
+24.3.3.2.2.1.3.2.4.1 S6K1-mediated signalling (Pathway) 12957 
+
+24.3.3.2.2.1.3.2.4.1.2 S6K1 signalling (Pathway) 12958 
+
+24.3.3.2.2.1.3.2.4.2 Release of eIF4E (Pathway) 12961 
+
+24.3.3.2.2.1.3.2.5 Energy dependent regulation of mTOR by LKB1-AMPK (Pathway)12963 
+
+24.3.3.2.2.1.3.2.5.1 Regulation of AMPK activity via LKB1 (Pathway) 12964 
+
+24.3.3.2.2.1.3.2.5.2 Regulation of Rheb GTPase activity by AMPK (Pathway) 12972 
+
+24.3.3.2.2.1.4 Activation of PKB (Pathway) 12976 
+
+24.3.3.2.2.2 SOS-mediated signalling (Pathway) 12979 
+
+24.3.3.2.2.2.3 RAF/MAP kinase cascade (Pathway) 12983 
+
+24.3.3.2.2.2.3.1 RAF activation (Pathway) 12984 
+
+24.3.3.2.2.2.3.2 MEK activation (Pathway) 12985 
+
+24.3.3.2.2.2.3.2.2 RAF phosphorylates MEK (Pathway) 12986 
+
+24.3.3.2.2.2.3.3 ERK activation (Pathway) 12986 
+
+24.3.3.2.2.2.3.3.1 ERK1 activation (Pathway) 12987 
+
+24.3.3.2.2.2.3.3.2 ERK2 activation (Pathway) 12988 
+
+24.3.3.3 Signal attenuation (Pathway) 12990 
+
+24.3.5 Insulin receptor recycling (Pathway) 12997 
+
+24.4 Signalling by NGF (Pathway) 13005 
+
+24.4.1 NGF processing (Pathway) 13007 
+
+24.4.2 p75 NTR receptor-mediated signalling (Pathway) 13016 
+
+24.4.2.1 NFG and proNGF binds to p75NTR (Pathway) 13017 
+
+24.4.2.2 Cell death signalling via NRAGE, NRIF and NADE (Pathway) 13022 
+
+24.4.2.2.1 NRAGE signals death through JNK (Pathway) 13023 
+
+24.4.2.2.2 NRIF signals cell death from the nucleus (Pathway) 13033 
+
+24.4.2.2.3 NADE modulates death signalling (Pathway) 13044 
+
+24.4.2.3 p75NTR negatively regulates cell cycle via SC1 (Pathway) 13049 24.4.2.3.1 PRDM4 (SC1) binds to p75NTR (Reaction) 13050 
+
+24.4.2.4 p75NTR signals via NF-kB (Pathway) 13054 
+
+24.4.2.4.1 p75NTR recruits signalling complexes (Pathway) 13055 
+
+24.4.2.4.2 NF-kB is activated and signals survival (Pathway) 13067 
+
+24.4.2.5 Ceramide signalling (Pathway) 13072 
+
+24.4.2.6 p75NTR regulates axonogenesis (Pathway) 13077 
+
+24.4.2.6.1 Axonal growth stimulation (Pathway) 13078 
+
+24.4.2.6.2 Axonal growth inhibition (RHOA activation) (Pathway) 13081 
+
+24.4.2.7 Regulated proteolysis of p75NTR (Pathway) 13088 
+
+24.4.3 NGF signalling via TRKA from the plasma membrane (Pathway) 13096 
+
+24.4.3.1 Activation of TRKA receptors (Pathway) 13097 
+
+24.4.3.1.1 TRKA activation by NGF (Pathway) 13098 
+
+24.4.3.1.2 NGF-independant TRKA activation (Pathway) 13104 
+
+24.4.3.2 Signalling to ERKs (Pathway) 13108 
+
+24.4.3.2.1 Signalling to RAS (Pathway) 13109 
+
+24.4.3.2.1.6 RAF/MAP kinase cascade (Pathway) 13114 
+
+24.4.3.2.1.6.1 RAF activation (Pathway) 13114 
+
+24.4.3.2.1.6.2 MEK activation (Pathway) 13116 
+
+24.4.3.2.1.6.2.2 RAF phosphorylates MEK (Pathway) 13116 
+
+24.4.3.2.1.6.3 ERK activation (Pathway) 13117 
+
+24.4.3.2.1.6.3.1 ERK1 activation (Pathway) 13117 
+
+24.4.3.2.1.6.3.2 ERK2 activation (Pathway) 13119 
+
+24.4.3.2.1.7 Feedback control in the MAPK signaling module (Pathway) 13121 
+
+24.4.3.2.1.8 p38MAPK events (Pathway) 13121 
+
+24.4.3.2.2 Signalling to p38 via RIT and RIN (Pathway) 13130 
+
+24.4.3.2.2.4 RAF/MAP kinase cascade (Pathway) 13135 
+
+24.4.3.2.2.4.1 RAF activation (Pathway) 13135 
+
+24.4.3.2.2.4.2 MEK activation (Pathway) 13137 
+
+24.4.3.2.2.4.2.2 RAF phosphorylates MEK (Pathway) 13137 
+
+24.4.3.2.2.4.3 ERK activation (Pathway) 13138 
+
+24.4.3.2.2.4.3.1 ERK1 activation (Pathway) 13138 
+
+24.4.3.2.2.4.3.2 ERK2 activation (Pathway) 13140 
+
+24.4.3.2.3 Prolonged ERK activation events (Pathway) 13141 
+
+24.4.3.2.3.1 Frs2-mediated activation (Pathway) 13143 
+
+24.4.3.2.3.1.7 RAF/MAP kinase cascade (Pathway) 13152 
+
+24.4.3.2.3.1.7.1 RAF activation (Pathway) 13153 
+
+24.4.3.2.3.1.7.2 MEK activation (Pathway) 13154 
+
+24.4.3.2.3.1.7.2.2 RAF phosphorylates MEK (Pathway) 13155 
+
+24.4.3.2.3.1.7.3 ERK activation (Pathway) 13155 
+
+24.4.3.2.3.1.7.3.1 ERK1 activation (Pathway) 13156 
+
+24.4.3.2.3.1.7.3.2 ERK2 activation (Pathway) 13157 
+
+24.4.3.2.3.2 ARMS-mediated activation (Pathway) 13159 
+
+24.4.3.2.3.2.6 RAF/MAP kinase cascade (Pathway) 13166 
+
+24.4.3.2.3.2.6.1 RAF activation (Pathway) 13167 
+
+24.4.3.2.3.2.6.2 MEK activation (Pathway) 13168 
+
+24.4.3.2.3.2.6.2.2 RAF phosphorylates MEK (Pathway) 13169 
+
+24.4.3.2.3.2.6.3 ERK activation (Pathway) 13169 
+
+24.4.3.2.3.2.6.3.1 ERK1 activation (Pathway) 13170 
+
+24.4.3.2.3.2.6.3.2 ERK2 activation (Pathway) 13171 
+
+24.4.3.3 PLC-gamma1 signalling (Pathway) 13173 
+
+24.4.3.3.3 DAG and IP3 signaling (Pathway) 13177 
+
+24.4.3.3.3.5 CaM pathway (Pathway) 13178 
+
+24.4.3.3.3.5.2 Calmodulin induced events (Pathway) 13178 
+
+24.4.3.3.3.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 13179 
+
+24.4.3.3.3.5.2.1.1 PKA activation (Pathway) 13179 
+
+24.4.3.3.3.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 13180 
+
+24.4.3.3.3.5.2.3 Cam-PDE 1 activation (Pathway) 13182 
+
+24.4.3.4 PI3K/AKT activation (Pathway) 13183 
+
+24.4.3.4.6 PIP3 activates AKT signaling (Pathway) 13189 
+
+24.4.3.4.6.7 AKT phosphorylates targets in the cytosol (Pathway) 13191 
+
+24.4.3.4.6.9 AKT phosphorylates targets in the nucleus (Pathway) 13193 
+
+24.4.3.4.6.10 Negative regulation of the PI3K/AKT network (Pathway) 13195 
+
+24.4.3.5 Signalling to STAT3 (Pathway) 13196 
+
+24.4.3.6 Signalling to ERK5 (Pathway) 13199 
+
+24.4.3.7 Retrograde neurotrophin signalling (Pathway) 13202 
+
+24.4.3.8 Nuclear Events (kinase and transcription factor activation) (Pathway) 13208 
+
+24.4.3.8.1 ERK/MAPK targets (Pathway) 13209 
+
+24.4.3.8.1.7 ERKs are inactivated (Pathway) 13211 
+
+24.4.3.8.2 CREB phosphorylation (Pathway) 13212 
+
+24.5 Signaling by PDGF (Pathway) 13214 
+
+24.5.10 Downstream signal transduction (Pathway) 13229 
+
+24.5.10.3 PIP3 activates AKT signaling (Pathway) 13233 
+
+24.5.10.3.7 AKT phosphorylates targets in the cytosol (Pathway) 13235 
+
+24.5.10.3.9 AKT phosphorylates targets in the nucleus (Pathway) 13238 
+
+24.5.10.3.10 Negative regulation of the PI3K/AKT network (Pathway) 13239 
+
+24.5.10.7 DAG and IP3 signaling (Pathway) 13244 
+
+24.5.10.7.5 CaM pathway (Pathway) 13246 
+
+24.5.10.7.5.2 Calmodulin induced events (Pathway) 13246 
+
+24.5.10.7.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 13246 
+
+24.5.10.7.5.2.1.1 PKA activation (Pathway) 13246 
+
+24.5.10.7.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 13248 
+
+24.5.10.7.5.2.3 Cam-PDE 1 activation (Pathway) 13249 
+
+24.5.10.14 RAF/MAP kinase cascade (Pathway) 13259 
+
+24.5.10.14.1 RAF activation (Pathway) 13259 
+
+24.5.10.14.2 MEK activation (Pathway) 13261 
+
+24.5.10.14.2.2 RAF phosphorylates MEK (Pathway) 13261 
+
+24.5.10.14.3 ERK activation (Pathway) 13262 
+
+24.5.10.14.3.1 ERK1 activation (Pathway) 13262 
+
+24.5.10.14.3.2 ERK2 activation (Pathway) 13264 
+
+24.6 Signaling by VEGF (Pathway) 13272 
+
+24.6.1 VEGF ligand-receptor interactions (Pathway) 13275 
+
+24.6.1.2 VEGF binds to VEGFR leading to receptor dimerization (Pathway) 13279 
+
+24.6.2 VEGFA-VEGFR2 Pathway (Pathway) 13287 
+
+24.6.2.36 VEGFR2 mediated vascular permeability (Pathway) 13336 
+
+24.6.2.51 VEGFR2 mediated cell proliferation (Pathway) 13365 
+
+24.6.2.51.13 RAF/MAP kinase cascade (Pathway) 13379 
+
+24.6.2.51.13.1 RAF activation (Pathway) 13379 
+
+24.6.2.51.13.2 MEK activation (Pathway) 13380 
+
+24.6.2.51.13.2.2 RAF phosphorylates MEK (Pathway) 13381 
+
+24.6.2.51.13.3 ERK activation (Pathway) 13382 
+
+24.6.2.51.13.3.1 ERK1 activation (Pathway) 13382 
+
+24.6.2.51.13.3.2 ERK2 activation (Pathway) 13384 
+
+24.6.3 Neurophilin interactions with VEGF and VEGFR (Pathway) 13385 
+
+24.7 Signaling by SCF-KIT (Pathway) 13389 
+
+24.7.8 PIP3 activates AKT signaling (Pathway) 13403 
+
+24.7.8.7 AKT phosphorylates targets in the cytosol (Pathway) 13405 
+
+24.7.8.9 AKT phosphorylates targets in the nucleus (Pathway) 13407 
+
+24.7.8.10 Negative regulation of the PI3K/AKT network (Pathway) 13409 
+
+24.7.20 RAF/MAP kinase cascade (Pathway) 13427 
+
+24.7.20.1 RAF activation (Pathway) 13427 
+
+24.7.20.2 MEK activation (Pathway) 13429 
+
+24.7.20.2.2 RAF phosphorylates MEK (Pathway) 13429 
+
+24.7.20.3 ERK activation (Pathway) 13430 
+
+24.7.20.3.1 ERK1 activation (Pathway) 13430 
+
+24.7.20.3.2 ERK2 activation (Pathway) 13432 
+
+24.7.30 Regulation of KIT signaling (Pathway) 13446 
+
+24.8 Signaling by ERBB2 (Pathway) 13460 
+
+24.8.6 SHC1 events in ERBB2 signaling (Pathway) 13472 
+
+24.8.6.5 RAF/MAP kinase cascade (Pathway) 13479 
+
+24.8.6.5.1 RAF activation (Pathway) 13479 
+
+24.8.6.5.2 MEK activation (Pathway) 13480 
+
+24.8.6.5.2.2 RAF phosphorylates MEK (Pathway) 13481 
+
+24.8.6.5.3 ERK activation (Pathway) 13482 
+
+24.8.6.5.3.1 ERK1 activation (Pathway) 13482 
+
+24.8.6.5.3.2 ERK2 activation (Pathway) 13484 
+
+24.8.7 GRB2 events in ERBB2 signaling (Pathway) 13485 
+
+24.8.7.5 RAF/MAP kinase cascade (Pathway) 13492 
+
+24.8.7.5.1 RAF activation (Pathway) 13492 
+
+24.8.7.5.2 MEK activation (Pathway) 13494 
+
+24.8.7.5.2.2 RAF phosphorylates MEK (Pathway) 13494 
+
+24.8.7.5.3 ERK activation (Pathway) 13495 
+
+24.8.7.5.3.1 ERK1 activation (Pathway) 13495 
+
+24.8.7.5.3.2 ERK2 activation (Pathway) 13497 
+
+24.8.8 PI3K events in ERBB2 signaling (Pathway) 13498 
+
+24.8.8.11 PIP3 activates AKT signaling (Pathway) 13511 
+
+24.8.8.11.7 AKT phosphorylates targets in the cytosol (Pathway) 13513 
+
+24.8.8.11.9 AKT phosphorylates targets in the nucleus (Pathway) 13516 
+
+24.8.8.11.10 Negative regulation of the PI3K/AKT network (Pathway) 13517 
+
+24.8.9 PLCG1 events in ERBB2 signaling (Pathway) 13519 
+
+24.8.9.3 DAG and IP3 signaling (Pathway) 13523 
+
+24.8.9.3.5 CaM pathway (Pathway) 13524 
+
+24.8.9.3.5.2 Calmodulin induced events (Pathway) 13524 
+
+24.8.9.3.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 13525 
+
+24.8.9.3.5.2.1.1 PKA activation (Pathway) 13525 
+
+24.8.9.3.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 13526 
+
+24.8.9.3.5.2.3 Cam-PDE 1 activation (Pathway) 13528 24.8.9.3.5.2.3.1 Calmodulin activates Cam-PDE 1 (Reaction) 13528 
+
+24.8.10 GRB7 events in ERBB2 signaling (Pathway) 13529 
+
+24.8.11 Downregulation of ERBB2:ERBB3 signaling (Pathway) 13531 
+
+24.9 Signaling by ERBB4 (Pathway) 13546 
+
+24.9.6 SHC1 events in ERBB4 signaling (Pathway) 13559 
+
+24.9.6.5 RAF/MAP kinase cascade (Pathway) 13565 
+
+24.9.6.5.1 RAF activation (Pathway) 13565 
+
+24.9.6.5.2 MEK activation (Pathway) 13567 
+
+24.9.6.5.2.2 RAF phosphorylates MEK (Pathway) 13567 
+
+24.9.6.5.3 ERK activation (Pathway) 13568 
+
+24.9.6.5.3.1 ERK1 activation (Pathway) 13568 24.9.6.5.3.1.1 Inactivation of MEK1 by p34cdc2 (Reaction) 13568 
+
+24.9.6.5.3.2 ERK2 activation (Pathway) 13570 
+
+24.9.7 PI3K events in ERBB4 signaling (Pathway) 13571 
+
+24.9.7.4 PIP3 activates AKT signaling (Pathway) 13576 
+
+24.9.7.4.7 AKT phosphorylates targets in the cytosol (Pathway) 13578 
+
+24.9.7.4.9 AKT phosphorylates targets in the nucleus (Pathway) 13580 
+
+24.9.7.4.10 Negative regulation of the PI3K/AKT network (Pathway) 13582 
+
+24.9.8 Nuclear signaling by ERBB4 (Pathway) 13583 
+
+24.9.8.16 Prolactin receptor signaling (Pathway) 13606 
+
+24.9.9 Downregulation of ERBB4 signaling (Pathway) 13611 
+
+24.10 DAG and IP3 signaling (Pathway) 13617 
+
+24.10.5 CaM pathway (Pathway) 13618 
+
+24.10.5.2 Calmodulin induced events (Pathway) 13618 
+
+24.10.5.2.1 PKA-mediated phosphorylation of CREB (Pathway) 13619 
+
+24.10.5.2.1.1 PKA activation (Pathway) 13619 
+
+24.10.5.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 13620 
+
+24.10.5.2.3 Cam-PDE 1 activation (Pathway) 13622 
+
+24.11 PIP3 activates AKT signaling (Pathway) 13623 
+
+24.11.7 AKT phosphorylates targets in the cytosol (Pathway) 13625 
+
+24.11.9 AKT phosphorylates targets in the nucleus (Pathway) 13627 
+
+24.11.10 Negative regulation of the PI3K/AKT network (Pathway) 13629 
+
+24.12 RAF/MAP kinase cascade (Pathway) 13631 
+
+24.12.1 RAF activation (Pathway) 13631 
+
+24.12.2 MEK activation (Pathway) 13632 
+
+24.12.2.2 RAF phosphorylates MEK (Pathway) 13633 
+
+24.12.3 ERK activation (Pathway) 13634 
+
+24.12.3.1 ERK1 activation (Pathway) 13634 
+
+24.12.3.2 ERK2 activation (Pathway) 13636 
+
+24.13 Signaling by Rho GTPases (Pathway) 13637 
+
+24.13.1 Rho GTPase cycle (Pathway) 13640 
+
+24.14 Signaling by BMP (Pathway) 13651 
+
+24.15 Signaling by TGF-beta Receptor Complex (Pathway) 13673 
+
+24.15.1 TGF-beta receptor signaling activates SMADs (Pathway) 13673 
+
+24.15.1.10 Downregulation of TGF-beta receptor signaling (Pathway) 13677 
+
+24.15.2 TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition) 13688 (Pathway) 
+
+24.15.3 Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer (Pathway) 13690 
+
+24.15.3.1 SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription (Pathway) 13690 
+
+24.15.3.2 Downregulation of SMAD2/3:SMAD4 transcriptional activity (Pathway) 13697 
+
+24.16 Signaling by NOTCH (Pathway) 13704 
+
+24.16.1 Pre-NOTCH Expression and Processing (Pathway) 13707 
+
+24.16.1.1 Pre-NOTCH Transcription and Translation (Pathway) 13712 
+
+24.16.1.2 Pre-NOTCH Processing in the Endoplasmic Reticulum (Pathway) 13747 
+
+24.16.1.3 Pre-NOTCH Processing in Golgi (Pathway) 13754 
+
+24.16.2 Signaling by NOTCH1 (Pathway) 13773 
+
+24.16.2.1 Activated NOTCH1 Transmits Signal to the Nucleus (Pathway) 13780 
+
+24.16.2.2 NOTCH1 Intracellular Domain Regulates Transcription (Pathway) 13825 
+
+24.16.3 Signaling by NOTCH2 (Pathway) 13856 
+
+24.16.3.1 NOTCH2 Activation and Transmission of Signal to the Nucleus (Pathway) 13861 
+
+24.16.3.2 NOTCH2 intracellular domain regulates transcription (Pathway) 13885 
+
+24.16.4 Signaling by NOTCH3 (Pathway) 13903 
+
+24.16.5 Signaling by NOTCH4 (Pathway) 13909 
+
+24.17 Signaling by GPCR (Pathway) 13915 
+
+24.17.1 GPCR ligand binding (Pathway) 13917 
+
+24.17.1.1 Class A/1 (Rhodopsin-like receptors) (Pathway) 13918 
+
+24.17.1.1.1 Peptide ligand-binding receptors (Pathway) 13919 
+
+24.17.1.1.1.13 Chemokine receptors bind chemokines (Pathway) 13939 
+
+24.17.1.1.1.15 Tachykinin receptors bind tachykinins (Pathway) 13965 
+
+24.17.1.1.1.16 Vasopressin-like receptors (Pathway) 13971 
+
+24.17.1.1.1.27 Orexin and neuropeptides FF and QRFP bind to their respective 13991 receptors (Pathway) 
+
+24.17.1.1.1.29 Formyl peptide receptors bind formyl peptides and many other ligands14000 (Pathway) 
+
+24.17.1.1.1.33 Relaxin receptors (Pathway) 14009 
+
+24.17.1.1.2 Amine ligand-binding receptors (Pathway) 14026 
+
+24.17.1.1.2.1 Muscarinic acetylcholine receptors (Pathway) 14028 
+
+24.17.1.1.2.2 Adrenoceptors (Pathway) 14032 24.17.1.1.2.2.1 Alpha-1 adrenoceptors bind catecholamines (Reaction) 14033 
+
+24.17.1.1.2.3 Dopamine receptors (Pathway) 14036 
+
+24.17.1.1.2.4 Histamine receptors (Pathway) 14040 
+
+24.17.1.1.2.5 Serotonin receptors (Pathway) 14045 
+
+24.17.1.1.3 Hormone ligand-binding receptors (Pathway) 14053 
+
+24.17.1.1.4 Eicosanoid ligand-binding receptors (Pathway) 14059 
+
+24.17.1.1.4.1 Prostanoid ligand receptors (Pathway) 14061 
+
+24.17.1.1.4.2 Leukotriene receptors (Pathway) 14072 
+
+24.17.1.1.5 Nucleotide-like (purinergic) receptors (Pathway) 14078 
+
+24.17.1.1.5.1 P2Y receptors (Pathway) 14080 
+
+24.17.1.1.5.2 Adenosine P1 receptors (Pathway) 14096 
+
+24.17.1.1.6 Hydroxycarboxylic acid-binding receptors (Pathway) 14100 
+
+24.17.1.1.10 Lysosphingolipid and LPA receptors (Pathway) 14109 
+
+24.17.1.1.11 Opsins (Pathway) 14115 
+
+24.17.1.1.12 Free fatty acid receptors (Pathway) 14120 
+
+24.17.1.2 Class B/2 (Secretin family receptors) (Pathway) 14136 
+
+24.17.1.2.1 Calcitonin-like ligand receptors (Pathway) 14137 
+
+24.17.1.2.3 Glucagon-type ligand receptors (Pathway) 14146 
+
+24.17.1.3 Class C/3 (Metabotropic glutamate/pheromone receptors) (Pathway) 14167 
+
+24.17.2 GPCR downstream signaling (Pathway) 14177 
+
+24.17.2.1 G alpha (s) signalling events (Pathway) 14178 
+
+24.17.2.2 G alpha (i) signalling events (Pathway) 14191 
+
+24.17.2.3 G alpha (z) signalling events (Pathway) 14203 
+
+24.17.2.4 G alpha (q) signalling events (Pathway) 14216 
+
+24.17.2.4.10 Effects of PIP2 hydrolysis (Pathway) 14233 
+
+24.17.2.4.10.6 Arachidonate production from DAG (Pathway) 14235 
+
+24.17.2.5 G alpha (12/13) signalling events (Pathway) 14240 
+
+24.17.2.6 G-protein beta:gamma signalling (Pathway) 14256 
+
+24.17.2.6.1 G beta:gamma signalling through PI3Kgamma (Pathway) 14257 
+
+24.17.2.6.2 G beta:gamma signalling through PLC beta (Pathway) 14262 
+
+24.17.2.7 Olfactory Signaling Pathway (Pathway) 14267 
+
+24.17.3 Opioid Signalling (Pathway) 14272 
+
+24.17.3.2 G-protein activation (Pathway) 14275 
+
+24.17.3.4 G-protein mediated events (Pathway) 14285 
+
+24.17.3.4.1 PLC beta mediated events (Pathway) 14286 
+
+24.17.3.4.1.6 Ca-dependent events (Pathway) 14293 
+
+24.17.3.4.1.6.1 phospho-PLA2 pathway (Pathway) 14294 
+
+24.17.3.4.1.6.2 CaM pathway (Pathway) 14299 
+
+24.17.3.4.1.6.2.2 Calmodulin induced events (Pathway) 14299 
+
+24.17.3.4.1.6.2.2.1 PKA-mediated phosphorylation of CREB (Pathway) 14299 
+
+24.17.3.4.1.6.2.2.1.1 PKA activation (Pathway) 14299 24.17.3.4.1.6.2.2.1.1.1 Adenylate cyclase produces cAMP (Reaction) 14300 
+
+24.17.3.4.1.6.2.2.2 CaMK IV-mediated phosphorylation of CREB (Pathway) 14301 
+
+24.17.3.4.1.6.2.2.3 Cam-PDE 1 activation (Pathway) 14303 
+
+24.17.3.4.2 Adenylate cyclase activating pathway (Pathway) 14304 
+
+24.17.3.4.3 Adenylate cyclase inhibitory pathway (Pathway) 14310 
+
+24.17.3.5 DARPP-32 events (Pathway) 14312 
+
+24.17.4 Gastrin-CREB signalling pathway via PKC and MAPK (Pathway) 14326 
+
+24.17.4.2 G alpha (q) signalling events (Pathway) 14329 24.17.4.2.1 Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq (Reaction)14329 
+
+24.17.4.2.10 Effects of PIP2 hydrolysis (Pathway) 14331 
+
+24.17.4.2.10.6 Arachidonate production from DAG (Pathway) 14333 
+
+24.17.4.3 EGFR Transactivation by Gastrin (Pathway) 14334 
+
+24.17.4.4 RAF/MAP kinase cascade (Pathway) 14343 
+
+24.17.4.4.1 RAF activation (Pathway) 14343 
+
+24.17.4.4.2 MEK activation (Pathway) 14344 
+
+24.17.4.4.2.2 RAF phosphorylates MEK (Pathway) 14345 
+
+24.17.4.4.3 ERK activation (Pathway) 14346 
+
+24.17.4.4.3.1 ERK1 activation (Pathway) 14346 
+
+24.17.4.4.3.2 ERK2 activation (Pathway) 14348 
+
+24.18 Signaling by Wnt (Pathway) 14350 
+
+24.18.1 WNT ligand biogenesis and trafficking (Pathway) 14352 
+
+24.18.2 Degradation of beta-catenin by the destruction complex (Pathway) 14356 
+
+24.18.2.7 Beta-catenin phosphorylation cascade (Pathway) 14358 
+
+24.18.2.13 repression of WNT target genes (Pathway) 14362 
+
+24.18.3 TCF dependent signaling in response to WNT (Pathway) 14364 
+
+24.18.3.2 WNT mediated activation of DVL (Pathway) 14365 
+
+24.18.3.4 disassembly of the destruction complex and recruitment of AXIN to the 14367 membrane (Pathway) 
+
+24.18.3.6 formation of the beta-catenin:TCF transactivating complex (Pathway) 14370 
+
+24.18.3.6.1 binding of TCF/LEF:CTNNB1 to target gene promoters (Pathway) 14371 
+
+24.18.3.7 deactivation of the beta-catenin transactivating complex (Pathway) 14376 
+
+24.18.3.8 degradation of DVL (Pathway) 14380 
+
+24.18.3.9 degradation of AXIN (Pathway) 14384 
+
+24.18.3.11 regulation of FZD by ubiquitination (Pathway) 14388 
+
+24.18.3.12 negative regulation of TCF-dependent signaling by WNT ligand antagonists (Pathway) 
+
+24.18.3.13 negative regulation of TCF-dependent signaling by DVL-interacting proteins14393 (Pathway) 
+
+24.18.4 beta-catenin independent WNT signaling (Pathway) 14394 
+
+24.18.4.1 PCP/CE pathway (Pathway) 14396 
+
+24.18.4.1.11 Asymmetric localization of PCP proteins (Pathway) 14416 
+
+24.18.4.1.12 WNT5A-dependent internalization of FZD4 (Pathway) 14429 
+
+24.18.4.1.13 WNT5A-dependent internalization of FZD2, FZD5 and ROR2 (Pathway) 14435 
+
+24.18.4.2 Ca2+ pathway (Pathway) 
+
+24.19 Signaling by Hippo (Pathway) 14476 
+
+24.20 Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) (Pathway) 14521 
+
+24.20.3 IGF1R signaling cascade (Pathway) 14526 
+
+24.20.3.1 SHC-related events triggered by IGF1R (Pathway) 14527 
+
+24.20.3.1.3 SHC-mediated signalling (Pathway) 14531 
+
+24.20.3.1.3.3 RAF/MAP kinase cascade (Pathway) 14531 
+
+24.20.3.1.3.3.1 RAF activation (Pathway) 14532 
+
+24.20.3.1.3.3.2 MEK activation (Pathway) 14533 
+
+24.20.3.1.3.3.2.2 RAF phosphorylates MEK (Pathway) 14534 
+
+24.20.3.1.3.3.3 ERK activation (Pathway) 14534 
+
+24.20.3.1.3.3.3.1 ERK1 activation (Pathway) 14535 
+
+24.20.3.1.3.3.3.2 ERK2 activation (Pathway) 14536 
+
+24.20.3.2 IRS-related events triggered by IGF1R (Pathway) 14538 
+
+24.20.3.2.4 IRS-mediated signalling (Pathway) 14544 
+
+24.20.3.2.4.1 PI3K Cascade (Pathway) 14544 
+
+24.20.3.2.4.1.3 PKB-mediated events (Pathway) 14545 
+
+24.20.3.2.4.1.3.1 PDE3B signalling (Pathway) 14545 
+
+24.20.3.2.4.1.3.2 mTOR signalling (Pathway) 14546 
+
+24.20.3.2.4.1.3.2.1 Inhibition of TSC complex formation by PKB (Pathway) 14546 
+
+24.20.3.2.4.1.3.2.4 mTORC1-mediated signalling (Pathway) 14547 
+
+24.20.3.2.4.1.3.2.4.1 S6K1-mediated signalling (Pathway) 14548 
+
+24.20.3.2.4.1.3.2.4.1.2 S6K1 signalling (Pathway) 14548 
+
+24.20.3.2.4.1.3.2.4.2 Release of eIF4E (Pathway) 14550 
+
+24.20.3.2.4.1.3.2.5 Energy dependent regulation of mTOR by LKB1-AMPK 14550 (Pathway) 
+
+24.20.3.2.4.1.3.2.5.1 Regulation of AMPK activity via LKB1 (Pathway) 14551 
+
+24.20.3.2.4.1.3.2.5.2 Regulation of Rheb GTPase activity by AMPK (Pathway) 14552 
+
+24.20.3.2.4.1.4 Activation of PKB (Pathway) 14553 
+
+24.20.3.2.4.2 SOS-mediated signalling (Pathway) 14554 
+
+24.20.3.2.4.2.3 RAF/MAP kinase cascade (Pathway) 14555 
+
+24.20.3.2.4.2.3.1 RAF activation (Pathway) 14555 
+
+24.20.3.2.4.2.3.2 MEK activation (Pathway) 14556 
+
+24.20.3.2.4.2.3.2.2 RAF phosphorylates MEK (Pathway) 14557 
+
+24.20.3.2.4.2.3.3 ERK activation (Pathway) 14558 
+
+24.20.3.2.4.2.3.3.1 ERK1 activation (Pathway) 14558 
+
+24.20.3.2.4.2.3.3.2 ERK2 activation (Pathway) 14560 
+
+24.21 Signaling by Activin (Pathway) 14561 
+
+24.21.9 Antagonism of Activin by Follistatin (Pathway) 14571 
+
+24.22 Visual phototransduction (Pathway) 14576 
+
+24.22.1 Retinoid metabolism and transport (Pathway) 14578 
+
+24.22.2 The canonical retinoid cycle in rods (twilight vision) (Pathway) 14615 
+
+24.22.2.14 Biosynthesis of A2E, implicated in retinal degradation (Pathway) 14636 
+
+24.22.3 The retinoid cycle in cones (daylight vision) (Pathway) 14644 
+
+24.22.4 The phototransduction cascade (Pathway) 14663 
+
+24.22.4.1 Activation of the phototransduction cascade (Pathway) 14665 
+
+24.22.4.2 Inactivation, recovery and regulation of the phototransduction cascade 14681 (Pathway) 
+
+24.23 Signaling by Leptin (Pathway) 14713 
+
+24.23.20 RAF/MAP kinase cascade (Pathway) 14746 
+
+24.23.20.1 RAF activation (Pathway) 14747 
+
+24.23.20.2 MEK activation (Pathway) 14748 
+
+24.23.20.2.2 RAF phosphorylates MEK (Pathway) 14749 
+
+24.23.20.3 ERK activation (Pathway) 14749 
+
+24.23.20.3.1 ERK1 activation (Pathway) 14750 
+
+24.23.20.3.2 ERK2 activation (Pathway) 14751 
+
+24.24 Integrin alphaIIb beta3 signaling (Pathway) 14753 
+
+24.24.14 GRB2:SOS provides linkage to MAPK signaling for Integrins (Pathway) 14758 
+
+24.24.15 p130Cas linkage to MAPK signaling for integrins (Pathway) 14759 
+
+24.25 Signaling by Hedgehog (Pathway) 14763 
+
+24.25.1 Hedgehog ligand biogenesis (Pathway) 14765 
+
+24.25.1.6 Release of Hh-Np from the secreting cell (Pathway) 14776 
+
+24.25.1.11 Hh C-terminal fragments are degraded by the proteasome (BlackBoxEvent)14793 25 Transmembrane transport of small molecules (Pathway) 14795 
+
+25.1 ABC-family proteins mediated transport (Pathway) 14795 
+
+25.1.2 ABCA transporters in lipid homeostasis (Pathway) 14798 
+
+25.1.3 Mitochondrial ABC transporters (Pathway) 14810 
+
+25.2 SLC-mediated transmembrane transport (Pathway) 14818 
+
+25.2.1 Transport of inorganic cations/anions and amino acids/oligopeptides (Pathway) 14819 
+
+25.2.1.1 Bicarbonate transporters (Pathway) 14821 
+
+25.2.1.2 Sodium/Calcium exchangers (Pathway) 14828 
+
+25.2.1.3 Sodium/Proton exchangers (Pathway) 14833 
+
+25.2.1.4 Cation-coupled Chloride cotransporters (Pathway) 14839 
+
+25.2.1.5 Multifunctional anion exchangers (Pathway) 14845 
+
+25.2.1.6 Sodium-coupled phosphate cotransporters (Pathway) 14851 
+
+25.2.1.6.1 Type II Na+/Pi cotransporters (Pathway) 14852 
+
+25.2.1.7 Amino acid transport across the plasma membrane (Pathway) 14857 
+
+25.2.1.9 Organic anion transporters (Pathway) 14907 
+
+25.2.1.10 Proton-coupled neutral amino acid transporters (Pathway) 14917 
+
+25.2.1.11 Proton/oligonucleotide cotransporters (Pathway) 14918 
+
+25.2.2 Hexose transport (Pathway) 14923 
+
+25.2.2.4 Glucose transport (Pathway) 14925 
+
+25.2.2.4.6 Regulation of Glucokinase by Glucokinase Regulatory Protein (Pathway) 14928 
+
+14933 amine compounds (Pathway) 
+
+25.2.3.1 Facilitative Na+-independent glucose transporters (Pathway) 14934 
+
+25.2.3.1.3 Class II GLUTs (Pathway) 14938 
+
+25.2.3.2 Na+-dependent glucose transporters (Pathway) 14945 
+
+25.2.3.3 Inositol transporters (Pathway) 14949 
+
+25.2.3.5 Sodium-coupled sulphate, di- and tri-carboxylate transporters (Pathway) 14955 
+
+25.2.3.7 Proton-coupled monocarboxylate transport (Pathway) 14964 
+
+25.2.3.8 Metal ion SLC transporters (Pathway) 14968 
+
+25.2.3.8.5 Zinc transporters (Pathway) 14975 
+
+25.2.3.8.5.1 Zinc efflux and compartmentalization by the SLC30 family (Pathway) 14976 
+
+25.2.3.8.5.2 Zinc influx into cells by the SLC39 gene family (Pathway) 14983 
+
+25.2.3.9 Na+/Cl- dependent neurotransmitter transporters (Pathway) 14997 
+
+25.2.3.12 Rhesus glycoproteins mediate ammonium transport. (Pathway) 15010 
+
+25.2.3.14 Organic cation/anion/zwitterion transport (Pathway) 15019 
+
+25.2.3.14.1 Organic cation transport (Pathway) 15021 
+
+25.2.3.14.2 Organic anion transport (Pathway)  15035  
+
+25.2.4 Transport of vitamins, nucleosides, and related molecules (Pathway) 15042 
+
+15044 membrane (Pathway) 
+
+25.2.4.4 Transport of nucleotide sugars (Pathway) 15064 
+
+25.2.4.5 Transport of fatty acids (Pathway) 15076 
+
+25.2.4.6 Transport of organic anions (Pathway) 15079 
+
+25.3 Aquaporin-mediated transport (Pathway) 15088 
+
+25.3.1 Passive transport by Aquaporins (Pathway) 15091 
+
+25.3.2 Vasopressin regulates renal water homeostasis via Aquaporins (Pathway) 15115 
+
+25.3.3 Transport of glycerol from adipocytes to the liver by Aquaporins (Pathway) 15134 
+
+25.4 Iron uptake and transport (Pathway) 15139 
+
+25.4.12 Transferrin endocytosis and recycling (Pathway) 15151 
+
+25.5 Ion channel transport (Pathway) 15163 
+
+25.5.1 Ion transport by P-type ATPases (Pathway) 15164 
+
+25.5.2 Ligand-gated ion channel transport (Pathway) 15179 
+
+25.5.3 Stimuli-sensing channels (Pathway) 15184 
+
+25.5.3.21 TRP channels (Pathway) 15223 
+
+25.5.3.21.2 TRPM4,5 transport extracellular Na+ to cytosol (Reaction) 15226 26 DNA replication and repair (Pathway) 15228 
+
+26.1 DNA repair (Pathway) 15228 
+
+26.1.1 Base Excision Repair (Pathway) 15229 
+
+26.1.1.1 Base Excision Repair, AP site formation (Pathway) 15230 
+
+26.1.1.1.1 Depyrimidination (Pathway) 15231 
+
+26.1.1.2 Resolution of Abasic Sites (AP sites) (Pathway) 15240 
+
+26.1.2 DNA damage bypass (Pathway) 15243 
+
+15244 (Pathway) 
+
+26.1.2.2 Translesion synthesis by DNA polymerases bypassing lesion on DNA template15248 (Pathway) 
+
+26.1.2.2.1 Translesion synthesis by Pol zeta (Pathway) 15249 
+
+26.1.2.2.2 Translesion synthesis by Pol eta (Pathway) 15254 
+
+26.1.2.2.3 Translesion synthesis by Pol kappa (Pathway) 15258 
+
+26.1.3 DNA Damage Reversal (Pathway) 15265 
+
+26.1.4 Nucleotide Excision Repair (Pathway) 15268 
+
+26.1.4.1 DNA damage recognition in global genomic repair (Pathway) 15269 
+
+26.1.5 Chk1-controlled and DNA-damage induced centrosome duplication (Pathway) 15279 
+
+26.1.6 Double strand break repair (Pathway) 15288 
+
+26.1.6.1 Homologous recombination repair (Pathway) 15289 
+
+26.1.6.1.1 Homologous recombination repair of replication-dependent double-strand 15290 breaks (Pathway) 
+
+26.1.6.1.2 Homologous recombination repair (HRR) of replication-independent 15298 double-strand breaks (Pathway) 
+
+26.1.6.1.2.1 ATM mediated response to DNA double-strand break (Pathway) 15299 
+
+26.1.6.1.2.1.3 ATM mediated phosphorylation of repair proteins (Pathway) 15300 
+
+26.1.6.1.2.2 Recruitment of repair and signaling proteins to double-strand breaks 15312 (Pathway) 
+
+26.1.6.1.2.3 Processing of DNA double-strand break ends (Pathway) 15318 
+
+26.1.6.1.2.4 Homologous DNA pairing and strand exchange (Pathway) 15321 
+
+26.1.6.2 Non-homologous end joining (NHEJ) (Pathway) 15328 
+
+26.1.7 Fanconi Anemia Pathway in DNA repair (Pathway) 15339 
+
+26.2 Telomere maintenance (Pathway) 15346 
+
+26.2.1 Assembly of telomerase and telomere extension (Pathway) 15352 
+
+26.2.2 Packaging of telomere ends (Reaction) 15366 27 Innate Immune System (Pathway) 15368 
+
+27.1 Complement Cascade (Pathway) 15369 
+
+27.1.1 Creation of classical C3 convertase (Pathway) 15371 
+
+27.1.1.1 Lectin-mediated initiation of complement cascade (Pathway) 15373 
+
+27.1.1.2 Classical antibody-mediated complement activation (Pathway) 15379 
+
+27.1.2 Creation of alternative pathway C3 convertase (Pathway) 15393 
+
+27.1.2.1 Formation of fluid-phase convertase C3 (Pathway) 15395 
+
+27.1.2.2 Formation of membrane-bound convertase C3 (Pathway) 15402 
+
+27.1.8 Formation of membrane attack complex (MAC) (Pathway) 15419 
+
+27.1.10 Anaphylatoxins initiate inflammatory responses (Pathway) 15433 
+
+27.1.11 Regulation of complement cascades (Pathway) 15440 
+
+27.2 Toll-like receptors (TLR) cascades (Pathway) 15467 
+
+27.2.1 TLR2 subfamily cascade (Pathway) 15470 
+
+27.2.1.3 MyD88:TIRAP-dependent cascade initiated on plasma membrane (Pathway) 15474 
+
+27.2.1.3.6 NFkB and MAPK activation mediated by TRAF6 (Pathway) 15488 
+
+27.2.1.3.6.8 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15505 (Pathway) 
+
+27.2.1.3.6.9 MAPK activation in TLR cascade (Pathway) 15515 
+
+27.2.1.3.6.9.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15518 activation (Pathway) 
+
+27.2.1.3.6.9.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.1.3.6.9.3 ERK activation (Pathway) 15544 
+
+27.2.1.3.6.9.3.1 ERK2 activation (Pathway) 15546 
+
+27.2.2 TLR3 cascade (Pathway) 15555 
+
+27.2.2.3 IKK related kinases bound to dsRNA:TLR3:TICAM1 activate IRF3 (Pathway) 15560 
+
+27.2.2.3.1 Viral dsRNA:TLR3:TICAM1 Complex Activates TBK1 (Pathway) 15563 
+
+27.2.2.3.2 Viral dsRNA:TLR3:TICAM1 Complex Activates IKBKE_CHICK (Pathway) 15576 
+
+27.2.2.4 NFkB activation mediated by RIP1 complexed with activated TLR3 (Pathway) 15585 
+
+27.2.2.5 TRAF6 mediated induction of the anti inflammatory cytokines (Pathway) 15594 
+
+27.2.2.5.7 TAK1 activates NFkB by phosphorylation and activation of IKKs complex 15610 (Pathway) 
+
+27.2.2.5.8 MAPK activation in TLR cascade (Pathway) 15611 
+
+15611 (Pathway) 
+
+27.2.2.5.8.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway) 15612 
+
+27.2.2.5.8.3 ERK activation (Pathway) 15614 
+
+27.2.2.5.8.3.1 ERK2 activation (Pathway) 15614 
+
+27.2.3 TLR4 cascade (Pathway) 15616 
+
+27.2.3.4 MyD88:TIRAP-dependent cascade initiated on plasma membrane (Pathway) 15622 
+
+27.2.3.4.6 NFkB and MAPK activation mediated by TRAF6 (Pathway) 15623 
+
+27.2.3.4.6.8 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15626 (Pathway) 
+
+27.2.3.4.6.9 MAPK activation in TLR cascade (Pathway) 15627 
+
+27.2.3.4.6.9.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15627 activation (Pathway) 
+
+27.2.3.4.6.9.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.3.4.6.9.3 ERK activation (Pathway) 15630 
+
+27.2.3.4.6.9.3.1 ERK2 activation (Pathway) 15630 
+
+27.2.4 TLR5 cascade (Pathway) 15632 
+
+27.2.4.2 MyD88 cascade initiated on plasma membrane (Pathway) 15635 
+
+27.2.4.2.6 NFkB and MAPK activation mediated by TRAF6 (Pathway) 15647 
+
+27.2.4.2.6.8 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15650 (Pathway) 
+
+27.2.4.2.6.9 MAPK activation in TLR cascade (Pathway) 15651 
+
+27.2.4.2.6.9.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15651 activation (Pathway) 
+
+27.2.4.2.6.9.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.4.2.6.9.3 ERK activation (Pathway) 15654 
+
+27.2.4.2.6.9.3.1 ERK2 activation (Pathway) 15654 
+
+27.2.5 TLR7 cascade (Pathway) 15656 
+
+27.2.5.2 MyD88-dependent cascade initiated on endosome membrane (Pathway) 15659 
+
+27.2.5.2.6 NFkB and MAPK activation mediated by TRAF6 upon TLR7 or TLR21 15671 stimulation (Pathway) 
+
+27.2.5.2.6.9 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15689 (Pathway) 
+
+27.2.5.2.6.10 MAPK activation in TLR cascade (Pathway) 15690 
+
+27.2.5.2.6.10.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15690 activation (Pathway) 
+
+27.2.5.2.6.10.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.5.2.6.10.3 ERK activation (Pathway) 15693 
+
+27.2.5.2.6.10.3.1 ERK2 activation (Pathway) 15693 
+
+27.2.5.2.6.10.3.1.5 Nuclear translocation of phospho ERK2 dimer (Reaction) 1566915695 27.2.6 TLR15 cascade (Pathway) 15695 
+
+27.2.6.2 MyD88 cascade initiated on plasma membrane (Pathway) 15698 
+
+27.2.6.2.6 NFkB and MAPK activation mediated by TRAF6 (Pathway) 15700 
+
+27.2.6.2.6.8 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15703 (Pathway) 
+
+27.2.6.2.6.9 MAPK activation in TLR cascade (Pathway) 15704 
+
+27.2.6.2.6.9.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15704 activation (Pathway) 
+
+27.2.6.2.6.9.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.6.2.6.9.3 ERK activation (Pathway) 15707 
+
+27.2.6.2.6.9.3.1 ERK2 activation (Pathway) 15707 
+
+27.2.7 TLR21 cascade (Pathway) 15709 
+
+27.2.7.2 MyD88-dependent cascade initiated on endosome membrane (Pathway) 15711 
+
+27.2.7.2.6 NFkB and MAPK activation mediated by TRAF6 upon TLR7 or TLR21 15713 stimulation (Pathway) 
+
+27.2.7.2.6.9 TAK1 activates NFkB by phosphorylation and activation of IKKs complex15716 (Pathway) 
+
+27.2.7.2.6.10 MAPK activation in TLR cascade (Pathway) 15717 
+
+27.2.7.2.6.10.1 Activated TAK1 mediates Jun kinases (JNK) phosphorylation and 15717 activation (Pathway) 
+
+27.2.7.2.6.10.2 Activated TAK1 mediates p38 MAP kinase phosphorylation (Pathway)
+
+27.2.7.2.6.10.3 ERK activation (Pathway) 15720 
+
+27.2.7.2.6.10.3.1 ERK2 activation (Pathway) 15720 
+
+27.3 RLR (RIG-like receptor) mediated induction of IFN alpha/beta (Pathway) 15722 
+
+27.3.3 TRAF mediated activation of IRF (Pathway) 15729 
+
+27.3.4 Caspase-8 and -10 mediated induction of NF-kB (Pathway) 15746 
+
+27.3.5 TRAF6 mediated NF-kB activation (Pathway) 15756 
+
+27.3.6 Negative Regulation of MDA5 signaling (Pathway) 15768 
+
+27.3.6.4 NLRX1 inhibits IPS1 signaling (Reaction) 15775 28 Metabolism (Pathway) 15777 
+
+28.1 Carbohydrate metabolism (Pathway) 15778 
+
+28.1.1 Glucose transport (Pathway) 15778 
+
+28.1.2 Glycolysis (Pathway) 15788 
+
+28.1.3 Gluconeogenesis (Pathway) 15803 
+
+28.2 Pyruvate metabolism (Pathway) 15835 
+
+28.3 Lipid metabolism (Pathway) 15845 
+
+28.3.1 Sphingolipid metabolism (Pathway) 15845 
+
+28.4 The tricarboxylic acid cycle (Pathway) 15856 
+
+28.5 Amino acid metabolism (Pathway) 15874 
+
+28.5.1 Arginine metabolism (Pathway) 15874 
+
+28.6 Nucleotide metabolism (Pathway) 15889 
+
+28.6.1 Pyrimidine metabolism (Pathway) 15890 
+
+28.6.1.1 De novo synthesis of UMP (Pathway) 15890 
+
+28.6.2 Purine metabolism (Pathway) 15902 
+
+28.6.2.1 De novo synthesis of IMP (Pathway) 15903 
+
+28.6.2.2 De novo synthesis of AMP (Pathway) 15920 
+
+28.6.2.3 De novo synthesis of GMP (Pathway) 15925 
+
+28.6.2.4 Urate synthesis (Pathway) 15928 
+
+28.7 Heme metabolism (Pathway) 15935 
+
+28.7.1 Heme synthesis (Pathway) 15936 
+
+28.7.1.17 protoporphyrin IX + Fe++ => heme + 2 H+ (Reaction) 15957 29 Mus musculus biological processes (Pathway) 15959 
+
+29.1 Circadian Clock (Pathway) 15960 
+
+29.1.4 Bmal1:Clock,Npas2 activates circadian gene expression (Pathway) 15968 
+
+29.1.20 Rora activates circadian gene expression (Pathway) 16010 
+
+29.2 Meiotic Recombination (Pathway) 16016 
+
+29.3 Meiotic Synapsis (Pathway) 16034 
+
+29.4 NoRC negatively regulates rRNA expression (Pathway) 16047 
+
+29.5 Signaling by Leptin (Pathway) 16058 
+
+29.6 Transcriptional Regulation of Adipocyte Differentiation in 3T3-L1 Pre-adipocytes 16085 (Pathway) 
+
