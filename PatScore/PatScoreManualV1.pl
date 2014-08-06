@@ -95,8 +95,8 @@ until ($pathref) {
 	print "1:default, 2:manual entry: \t ";
 	chomp ($decision = <STDIN>);
 	if ($decision == 1) {
-		print "Default file used - ReactomePathwaysTopLevelsRemoved.csv\n";
-		$pathref = "ReactomePathwaysTopLevelsRemoved.csv";
+		print "Default file used - Pathways06082014.csv\n";
+		$pathref = "Pathways06082014.csv";
 	} elsif ($decision == 2) {
 		print "Manual entry selected - please type file name:\t ";
 		chomp ($pathref = <STDIN>);

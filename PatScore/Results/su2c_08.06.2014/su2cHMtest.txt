@@ -1,0 +1,156 @@
+Circadian Clock	6	2	2	1	0	2	0	1	2	0	1	0	1	3	0	2	2	3	2	1	0	0	0	2
+Adaptive Immune System	75	16	12	6	13	4	3	3	8	9	9	5	14	12	0	7	11	14	11	6	7	2	6	7
+Innate Immune System	72	14	12	8	16	3	5	3	3	6	9	3	10	14	0	7	10	17	15	4	6	1	6	8
+Metabolism of porphyrins	3	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Transmission across Chemical Synapses	21	4	4	4	9	1	0	4	5	4	2	2	1	6	1	1	6	11	6	2	4	0	4	3
+Signaling by Wnt	44	5	7	4	6	2	0	3	9	2	6	1	4	7	1	6	3	7	8	4	5	1	3	2
+Cytosolic iron-sulfur cluster assembly	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Deadenylation-dependent mRNA decay	7	0	1	1	0	0	1	1	0	0	0	0	0	3	1	1	1	1	3	0	1	0	0	0
+Signaling by PDGF	25	6	6	5	5	3	0	1	5	5	5	1	4	4	0	2	6	5	5	4	4	0	3	0
+Scavenging by Class B Receptors	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0
+Signaling by Leptin	5	4	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0
+Signaling by TGF-beta Receptor Complex	7	2	1	1	1	0	1	0	1	0	1	2	0	2	0	0	2	2	1	0	1	0	1	1
+HDACs deacetylate histones	4	3	1	0	1	0	0	1	5	0	0	0	0	4	0	1	1	2	6	0	0	0	0	0
+Apoptotic execution  phase	8	1	2	2	1	0	0	1	2	0	2	1	2	0	0	0	0	2	0	0	0	0	0	0
+Extrinsic Pathway for Apoptosis	1	1	0	1	1	1	1	1	0	0	1	1	0	0	0	2	1	1	0	1	0	0	1	1
+Signaling by NODAL	3	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+Signaling by BMP	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+Peptide hormone metabolism	9	2	0	0	2	0	0	2	1	0	1	2	2	3	0	1	1	4	4	0	2	0	0	2
+PI3K/AKT Signaling in Cancer	16	2	2	2	5	2	0	0	2	2	4	1	2	3	0	1	3	2	3	2	2	0	2	0
+DAG and IP3 signaling	3	0	2	1	0	0	0	1	0	3	1	0	1	0	0	1	1	1	0	0	1	0	0	0
+Defects in vitamin and cofactor metabolism	14	5	2	3	2	0	0	0	2	0	2	0	0	3	0	1	1	3	3	0	1	0	4	2
+Signalling by NGF	30	8	8	7	9	2	1	4	5	5	6	4	5	6	0	4	9	8	6	5	4	2	3	3
+Signaling by EGFR	21	4	6	4	5	2	0	1	2	5	6	2	5	3	0	2	5	4	3	2	5	1	5	0
+Detoxification of Reactive Oxygen Species	4	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0
+Integration of energy metabolism	17	1	5	2	2	0	0	0	1	2	1	0	1	1	0	2	3	5	2	0	1	0	2	3
+Aquaporin-mediated transport	5	0	3	1	0	0	0	0	0	3	0	0	0	0	0	0	2	3	0	0	1	0	0	0
+Signaling by ERBB2	21	3	6	4	5	3	0	1	2	5	5	1	5	3	0	2	4	3	3	2	4	0	3	0
+Metabolism of nitric oxide	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Fibronectin matrix formation	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intrinsic Pathway	3	0	0	0	1	0	0	0	1	0	0	0	0	2	0	0	0	0	2	1	0	0	0	0
+Regulatory RNA pathways	6	0	1	2	1	0	0	0	1	1	0	0	0	1	0	1	0	1	1	0	1	0	0	1
+SLC-mediated transmembrane transport	38	4	2	4	9	0	1	1	5	1	2	0	5	5	1	3	5	7	5	0	3	0	5	2
+mRNA Editing	0	1	1	1	1	0	1	1	0	0	0	1	0	1	0	2	0	1	1	0	0	0	0	1
+Scavenging by Class F Receptors	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Integrin alphaIIb beta3 signaling	4	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+Metabolism of amino acids and derivatives	37	4	1	4	6	4	1	2	3	2	0	0	5	4	0	2	0	6	3	1	3	0	2	2
+Generic Transcription Pathway	75	10	62	10	7	6	2	1	12	0	2	4	6	9	1	3	8	10	5	4	3	4	3	12
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+Scavenging by Class H Receptors	1	0	1	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+Platelet homeostasis	8	1	2	2	0	0	0	0	2	1	0	1	1	3	0	2	4	2	3	0	0	1	0	1
+Fertilization	4	1	0	0	0	1	1	2	0	1	0	0	1	4	0	2	0	0	2	0	0	0	0	0
+Mitochondrial iron-sulfur cluster biogenesis	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abacavir transport and metabolism	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nonsense-Mediated Decay (NMD)	14	2	4	3	0	1	1	0	1	0	0	1	0	2	2	2	1	2	3	0	2	1	0	1
+PIP3 activates AKT signaling	16	2	2	2	5	2	0	0	2	2	4	1	2	3	0	1	3	2	3	2	2	0	2	0
+Epigenetic regulation of gene expression	16	3	0	1	1	1	0	1	4	0	0	0	1	3	0	3	1	2	4	0	1	0	2	3
+Double-Strand Break Repair	4	0	0	1	0	0	0	0	0	3	0	0	1	0	0	0	3	0	0	0	0	0	0	0
+ER to Golgi Transport	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+Collagen formation	10	3	3	2	2	0	3	1	4	0	0	0	0	1	0	1	2	5	0	1	1	0	3	3
+"RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription"	17	2	1	2	1	1	0	1	4	0	0	1	1	5	0	4	1	3	5	0	1	0	1	2
+Base Excision Repair	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+Abnormal metabolism in phenylketonuria	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Regulation of beta-cell development	4	0	2	1	0	0	1	0	2	0	0	0	1	2	0	0	2	0	2	1	0	0	1	0
+Regulation of Apoptosis	13	1	0	0	1	2	0	0	0	0	0	0	0	3	0	1	0	2	2	1	0	0	1	0
+mRNA Capping	8	0	0	1	1	0	0	0	2	0	0	0	1	2	0	2	0	1	2	0	1	0	0	1
+Endosomal Sorting Complex Required For Transport (ESCRT)	8	0	1	1	0	0	0	0	2	0	0	0	1	2	0	1	1	0	1	0	0	0	0	1
+Post-translational protein modification	21	12	6	5	4	2	5	3	30	5	1	2	1	8	1	5	5	13	9	4	2	0	2	4
+Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Signaling by Hedgehog	16	0	0	0	1	2	1	0	0	0	0	0	0	4	0	1	0	2	3	1	0	0	0	0
+Cytokine Signaling in Immune system	29	8	4	2	8	0	3	1	8	2	3	2	3	6	2	4	6	6	7	3	4	0	4	4
+Scavenging by Class A Receptors	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0
+Translocation of GLUT4 to the plasma membrane	8	0	1	0	1	0	1	0	0	2	1	1	0	8	0	1	0	4	7	0	3	1	0	2
+Mitochondrial protein import	11	1	3	1	1	0	0	0	0	0	0	0	0	0	1	0	3	1	0	0	0	0	0	0
+Mucopolysaccharidoses	15	2	2	1	3	1	1	4	2	2	0	1	3	1	1	5	2	4	2	0	3	1	4	2
+Fanconi Anemia pathway	2	1	0	1	0	0	0	1	0	3	0	1	1	1	0	0	3	1	1	0	0	0	0	0
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	4	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"Cell Cycle, Mitotic"	72	6	5	5	5	2	1	5	8	6	6	2	4	16	2	8	4	12	17	4	5	2	4	4
+Golgi to ER Retrograde Transport	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Elastic fibre formation	6	0	0	0	0	2	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	2
+Degradation of the extracellular matrix	6	2	2	0	1	0	1	1	1	2	0	0	1	1	0	1	1	3	2	0	1	0	1	2
+Inositol phosphate metabolism	7	3	1	1	0	1	0	0	0	1	1	0	3	0	0	0	3	1	1	0	2	0	5	1
+The citric acid (TCA) cycle and respiratory electron transport	14	3	2	2	0	0	0	3	0	3	2	0	1	3	1	1	2	5	4	0	2	0	0	0
+Dissolution of Fibrin Clot	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0
+DNA Damage Bypass	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transcriptional regulation of white adipocyte differentiation	10	3	2	3	3	3	0	0	4	1	0	0	1	7	1	1	4	4	7	1	1	0	2	1
+Cell Cycle Checkpoints	30	2	1	2	2	3	0	2	0	2	4	2	2	4	0	1	1	2	3	2	2	1	2	3
+Ion channel transport	16	6	3	2	6	0	0	1	6	6	2	2	3	9	0	2	7	9	10	3	1	3	1	5
+Cellular response to hypoxia	4	0	3	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	0	1	0
+Biological oxidations	25	2	4	6	2	1	1	1	3	0	2	1	1	2	1	2	1	3	4	0	2	0	1	2
+Gap junction trafficking and regulation	8	0	0	0	2	0	0	0	0	0	0	0	0	3	0	0	0	0	4	1	1	0	0	1
+Metabolism of lipids and lipoproteins	70	14	12	12	17	4	7	6	9	3	5	4	8	21	1	7	14	28	22	3	9	1	10	5
+Metabolism of carbohydrates	39	7	4	1	5	3	2	4	4	3	3	1	4	6	2	6	6	12	7	0	4	1	6	4
+ECM proteoglycans	6	2	1	1	1	0	1	2	0	3	1	0	0	0	0	1	1	1	2	1	0	0	0	0
+Transcriptional regulation of pluripotent stem cells	5	0	2	2	0	0	0	0	0	0	0	0	0	3	0	1	0	1	3	0	0	0	0	1
+Integrin cell surface interactions	6	2	0	0	0	2	0	0	1	1	1	0	0	4	0	1	0	0	2	1	0	0	1	0
+Uptake and actions of bacterial toxins	3	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	1
+Processing-defective Hh variants abrogate ligand secretion	16	0	0	0	1	2	1	0	0	0	0	0	0	4	0	1	0	2	3	1	0	0	0	0
+Smooth Muscle Contraction	0	0	1	0	1	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	2	0
+Potassium Channels	12	2	6	6	1	0	1	0	3	0	0	1	1	2	0	1	3	5	3	1	1	1	0	3
+Non-integrin membrane-ECM interactions	4	3	0	0	1	0	2	1	2	0	0	0	0	1	0	3	0	2	1	0	0	0	0	0
+Cell surface interactions at the vascular wall	15	0	2	0	1	3	0	1	0	4	1	1	1	3	0	1	3	0	1	1	3	0	2	0
+HATs acetylate histones	12	5	1	1	2	0	0	3	4	0	1	1	1	3	1	0	2	4	4	1	0	0	1	0
+Signaling by FGFR	19	3	7	4	5	2	0	1	2	5	6	2	5	3	0	2	4	4	3	2	5	0	4	0
+Cellular response to heat stress	9	1	3	4	0	0	0	1	1	0	1	1	1	0	0	1	0	1	0	0	0	0	2	0
+Signaling by Hippo	1	0	0	0	0	0	0	1	0	0	0	0	3	2	0	0	0	0	2	1	0	0	0	0
+Signaling by Insulin receptor	20	5	2	1	1	0	0	0	1	4	4	0	1	2	1	1	3	3	2	3	3	0	2	3
+Signaling by VEGF	12	3	1	2	2	0	1	0	0	2	2	1	4	4	0	2	4	2	4	0	2	1	4	3
+Signaling by GPCR	132	15	15	16	10	3	8	7	18	7	38	6	14	18	3	9	13	37	22	3	9	32	8	25
+O2/CO2 exchange in erythrocytes	2	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+Unfolded Protein Response (UPR)	9	2	2	1	2	0	0	1	2	3	1	0	0	3	0	1	1	2	3	0	0	0	0	0
+Myogenesis	3	0	0	0	1	0	0	0	4	0	1	2	1	3	0	0	1	1	2	0	0	0	0	0
+DSCAM interactions	0	0	0	0	1	0	0	1	0	0	1	0	1	2	0	0	0	1	2	0	0	1	0	2
+Mismatch Repair	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	1
+Influenza Infection	22	1	3	4	0	1	0	0	1	0	1	1	1	6	2	2	2	3	6	0	2	1	1	2
+Platelet Adhesion to exposed collagen	2	0	0	0	2	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0
+RAF/MAP kinase cascade	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0
+Metabolism of non-coding RNA	10	0	0	0	0	0	0	0	1	0	1	0	1	2	1	0	1	1	2	0	1	0	1	1
+Iron uptake and transport	6	3	1	1	2	0	1	0	0	3	1	0	0	1	1	1	1	2	1	0	2	0	0	1
+Glycogen storage diseases	39	7	4	1	5	3	2	4	4	3	3	1	4	6	2	6	6	12	7	0	4	1	6	4
+Cell junction organization	15	1	3	1	1	0	3	3	2	0	1	1	1	4	1	1	2	0	3	0	2	0	1	4
+HIV Infection	37	1	3	3	5	2	0	0	4	2	2	0	3	9	1	2	3	4	7	2	3	1	1	5
+Factors involved in megakaryocyte development and platelet production	17	4	1	1	3	2	0	1	1	1	2	0	2	1	0	2	2	2	1	3	1	2	1	4
+DNA Damage Reversal	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Signaling by Activin	3	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Chromosome Maintenance	18	3	1	2	0	0	0	1	4	0	1	1	0	2	0	1	1	3	2	0	0	0	1	1
+Processing of Capped Intron-Containing Pre-mRNA	36	2	1	2	3	0	1	0	4	1	2	0	3	4	1	2	1	4	4	1	2	2	3	2
+Cellular Senescence	21	4	2	3	3	1	0	3	3	2	3	2	6	6	1	1	6	3	6	1	2	1	1	4
+Transmission across Electrical Synapses	2	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+Translation	18	5	5	6	2	1	1	1	2	1	0	1	0	4	1	0	1	4	3	1	2	1	0	1
+Metabolism of nucleotides	10	1	0	0	3	0	0	0	1	0	0	1	1	3	0	0	1	1	3	0	1	0	2	0
+Signaling by NOTCH	13	3	3	3	3	1	0	0	2	1	2	2	3	7	0	3	5	7	8	0	2	0	1	2
+Nephrin interactions	2	1	0	0	1	0	0	0	0	0	1	1	0	0	0	0	2	2	0	0	1	0	1	0
+"Platelet activation, signaling and aggregation"	21	9	4	2	5	2	1	1	8	2	3	2	1	5	1	4	4	11	6	2	4	3	4	2
+Regulation of DNA replication	17	0	0	0	2	2	0	0	0	0	1	0	0	4	0	1	0	1	3	1	0	0	0	0
+ABC-family proteins mediated transport	7	1	0	0	0	0	0	0	1	6	0	0	0	0	1	1	3	0	1	0	1	0	0	3
+Metabolism of vitamins and cofactors	14	5	2	3	2	0	0	0	2	0	2	0	0	3	0	1	1	3	3	0	1	0	4	2
+Signaling by FGFR in disease	22	4	7	4	5	2	0	1	2	5	6	2	5	4	0	2	5	5	5	3	5	0	4	0
+Striated Muscle Contraction	2	3	1	0	0	2	0	1	8	1	1	2	0	2	0	3	0	2	2	1	0	0	0	0
+Processing of Capped Intronless Pre-mRNA	6	0	1	1	0	0	0	0	1	1	0	0	1	0	0	1	0	1	0	1	0	0	0	0
+trans-Golgi Network Vesicle Budding	13	2	1	2	4	0	0	1	0	0	0	0	0	2	0	0	1	1	2	0	0	0	0	1
+Mitochondrial biogenesis	8	1	2	1	0	2	0	1	2	0	0	0	1	3	0	1	2	5	3	0	0	0	1	3
+Signaling by EGFR in Cancer	21	4	6	4	5	2	0	1	2	5	6	2	5	3	0	2	5	4	3	2	5	1	5	0
+Signaling by TGF-beta Receptor Complex in Cancer	7	2	1	1	1	0	1	0	1	0	1	2	0	2	0	0	2	2	1	0	1	0	1	1
+Reversible hydration of carbon dioxide	1	1	0	0	0	0	0	0	1	6	0	0	0	0	0	0	4	1	0	0	0	0	0	0
+Amyloids	5	1	0	0	1	0	1	1	4	0	0	2	1	1	0	0	1	0	2	0	1	0	0	0
+Axon guidance	39	12	8	9	9	2	3	4	5	6	2	1	4	6	0	8	4	12	5	5	2	2	7	8
+tRNA Aminoacylation	10	0	0	0	3	0	0	1	0	1	1	1	0	1	0	0	1	0	1	0	0	1	1	1
+Signaling by Rho GTPases	16	7	3	7	9	0	1	2	5	3	1	3	3	0	0	2	2	2	0	2	0	0	2	1
+HDMs demethylate histones	4	4	0	1	0	0	0	0	2	0	1	0	1	1	1	1	0	1	1	0	1	0	1	0
+Signaling by ERBB4	21	4	4	3	5	2	0	0	5	2	4	1	5	3	0	1	4	4	3	2	3	1	3	1
+Laminin interactions	1	1	0	0	1	0	2	1	0	0	0	0	0	2	0	3	0	0	1	0	0	0	0	0
+Protein folding	6	1	0	1	0	0	0	2	0	0	1	0	1	1	0	2	0	0	1	1	1	0	2	1
+RMTs methylate histone arginines	9	2	0	0	0	0	0	0	4	2	2	0	0	0	1	1	3	1	0	0	0	0	0	1
+Signaling by NOTCH1 in Cancer	4	2	2	2	2	0	0	0	2	0	0	2	1	5	0	3	3	5	6	0	1	0	1	1
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	13	3	2	1	0	0	0	0	1	1	3	0	1	2	0	1	2	2	2	3	2	0	2	2
+Visual phototransduction	14	2	1	1	0	0	0	0	1	1	2	0	0	1	2	1	1	3	1	1	2	0	2	0
+Formation of Fibrin Clot (Clotting Cascade)	5	0	0	0	2	0	0	0	1	1	0	0	0	2	0	0	0	0	2	2	0	0	0	1
+M/G1 Transition	19	1	0	0	2	2	0	0	0	0	1	0	0	3	0	1	0	3	2	1	0	0	0	0
+Latent infection of Homo sapiens with Mycobacterium tuberculosis	6	3	0	0	0	0	0	0	0	3	2	0	1	1	0	0	1	1	1	0	1	0	1	3
+Synthesis of DNA	23	1	0	0	2	2	0	0	1	0	1	0	0	4	0	1	0	2	3	1	1	0	1	1
+Diseases associated with visual transduction	14	2	1	1	0	0	0	0	1	1	2	0	0	1	2	1	1	3	1	1	2	0	2	0
+Signaling by SCF-KIT	22	4	3	3	5	3	0	0	2	2	5	1	3	3	0	2	3	2	4	2	3	1	3	1
+Signaling by WNT in cancer	33	5	5	2	3	2	0	3	7	1	4	1	2	5	1	3	2	4	6	4	5	0	1	1
+Signal regulatory protein (SIRP) family interactions	2	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Scavenging of heme from plasma	6	0	0	0	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+RNA Polymerase II Transcription	21	0	3	3	4	0	0	0	2	2	0	0	2	3	0	3	1	2	3	2	2	0	0	2

@@ -1,6 +1,11 @@
-BC2012_07.16.2014.aggregate <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC2012_07.16.2014/BC2012_07.16.2014-aggregate.txt", header=FALSE, stringsAsFactors=FALSE)
-View(BC2012_07.16.2014.aggregate)
-BC2012 = BC2012_07.16.2014.aggregate
-rm(BC2012_07.16.2014.aggregate)
+Su2C <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/su2c_08.06.2014/su2cHMtest.txt", header=FALSE, stringsAsFactors=FALSE)
+View(Su2C)
 
-row.names(BC2012) = BC2012$V1
+row.names(Su2C) = Su2C$V1
+Su2Chm = Su2C[,2:25] 
+
+namevec <- paste(rep("Su2C",24),1:24)
+colnames(Su2Chm)=namevec
+
+Su2Chm = data.matrix(Su2Chm)
+heatmap(Su2Chm)

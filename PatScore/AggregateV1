@@ -11,6 +11,7 @@ use List::Util qw(sum);
 
 # This script is designed to summarise the results from a discrete set of SeqHet runs. 
 # It produces an aggregate table, rows being individual pathways, and the columns as mean score, standard deviation
+# Supercedes old code - summariser.pl
 
 # ---------- Section 1  - directory opening and file scanning
 print "Run to summarise? ";

@@ -70,7 +70,7 @@ foreach my $filename (@files) {
 
 # -----------------	------------------ # this section is the part where the script checks %ghash against the reference pathway document
 
-	my $pathref = "ReactomePathwaysTopLevelsRemoved.csv";
+	my $pathref = "Pathways06082014.csv";
 	my %pathways; # saving the pathway data in here, formatted Pathway:array of genes
 	my %results; # I'd like to put all the results for each pathway in here - formatted Pathway:Score
 	open (INPUT2,"Database/$pathref")
