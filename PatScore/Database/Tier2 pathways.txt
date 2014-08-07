@@ -1,0 +1,156 @@
+Circadian Clock
+Adaptive Immune System
+Innate Immune System
+Metabolism of porphyrins
+Transmission across Chemical Synapses
+Signaling by Wnt
+Cytosolic iron-sulfur cluster assembly
+Deadenylation-dependent mRNA decay
+Signaling by PDGF
+Scavenging by Class B Receptors
+Signaling by Leptin
+Signaling by TGF-beta Receptor Complex
+HDACs deacetylate histones
+Apoptotic execution  phase
+Extrinsic Pathway for Apoptosis
+Signaling by NODAL
+Signaling by BMP
+Peptide hormone metabolism
+PI3K/AKT Signaling in Cancer
+DAG and IP3 signaling
+Defects in vitamin and cofactor metabolism
+Signalling by NGF
+Signaling by EGFR
+Detoxification of Reactive Oxygen Species
+Integration of energy metabolism
+Aquaporin-mediated transport
+Signaling by ERBB2
+Metabolism of nitric oxide
+Fibronectin matrix formation
+Intrinsic Pathway
+Regulatory RNA pathways
+SLC-mediated transmembrane transport
+mRNA Editing
+Scavenging by Class F Receptors
+Integrin alphaIIb beta3 signaling
+Metabolism of amino acids and derivatives
+Generic Transcription Pathway
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA
+Scavenging by Class H Receptors
+Platelet homeostasis
+Fertilization
+Mitochondrial iron-sulfur cluster biogenesis
+Abacavir transport and metabolism
+Nonsense-Mediated Decay (NMD)
+PIP3 activates AKT signaling
+Epigenetic regulation of gene expression
+Double-Strand Break Repair
+ER to Golgi Transport
+Collagen formation
+"RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription"
+Base Excision Repair
+Abnormal metabolism in phenylketonuria
+Regulation of beta-cell development
+Regulation of Apoptosis
+mRNA Capping
+Endosomal Sorting Complex Required For Transport (ESCRT)
+Post-translational protein modification
+Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate
+Signaling by Hedgehog
+Cytokine Signaling in Immune system
+Scavenging by Class A Receptors
+Translocation of GLUT4 to the plasma membrane
+Mitochondrial protein import
+Mucopolysaccharidoses
+Fanconi Anemia pathway
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+"Cell Cycle, Mitotic"
+Golgi to ER Retrograde Transport
+Elastic fibre formation
+Degradation of the extracellular matrix
+Inositol phosphate metabolism
+The citric acid (TCA) cycle and respiratory electron transport
+Dissolution of Fibrin Clot
+DNA Damage Bypass
+Transcriptional regulation of white adipocyte differentiation
+Cell Cycle Checkpoints
+Ion channel transport
+Cellular response to hypoxia
+Biological oxidations
+Gap junction trafficking and regulation
+Metabolism of lipids and lipoproteins
+Metabolism of carbohydrates
+ECM proteoglycans
+Transcriptional regulation of pluripotent stem cells
+Integrin cell surface interactions
+Uptake and actions of bacterial toxins
+Processing-defective Hh variants abrogate ligand secretion
+Smooth Muscle Contraction
+Potassium Channels
+Non-integrin membrane-ECM interactions
+Cell surface interactions at the vascular wall
+HATs acetylate histones
+Signaling by FGFR
+Cellular response to heat stress
+Signaling by Hippo
+Signaling by Insulin receptor
+Signaling by VEGF
+Signaling by GPCR
+O2/CO2 exchange in erythrocytes
+Unfolded Protein Response (UPR)
+Myogenesis
+DSCAM interactions
+Mismatch Repair
+Influenza Infection
+Platelet Adhesion to exposed collagen
+RAF/MAP kinase cascade
+Metabolism of non-coding RNA
+Iron uptake and transport
+Glycogen storage diseases
+Cell junction organization
+HIV Infection
+Factors involved in megakaryocyte development and platelet production
+DNA Damage Reversal
+Signaling by Activin
+Chromosome Maintenance
+Processing of Capped Intron-Containing Pre-mRNA
+Cellular Senescence
+Transmission across Electrical Synapses
+Translation
+Metabolism of nucleotides
+Signaling by NOTCH
+Nephrin interactions
+"Platelet activation, signaling and aggregation"
+Regulation of DNA replication
+ABC-family proteins mediated transport
+Metabolism of vitamins and cofactors
+Signaling by FGFR in disease
+Striated Muscle Contraction
+Processing of Capped Intronless Pre-mRNA
+trans-Golgi Network Vesicle Budding
+Mitochondrial biogenesis
+Signaling by EGFR in Cancer
+Signaling by TGF-beta Receptor Complex in Cancer
+Reversible hydration of carbon dioxide
+Amyloids
+Axon guidance
+tRNA Aminoacylation
+Signaling by Rho GTPases
+HDMs demethylate histones
+Signaling by ERBB4
+Laminin interactions
+Protein folding
+RMTs methylate histone arginines
+Signaling by NOTCH1 in Cancer
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+Visual phototransduction
+Formation of Fibrin Clot (Clotting Cascade)
+M/G1 Transition
+Latent infection of Homo sapiens with Mycobacterium tuberculosis
+Synthesis of DNA
+Diseases associated with visual transduction
+Signaling by SCF-KIT
+Signaling by WNT in cancer
+Signal regulatory protein (SIRP) family interactions
+Scavenging of heme from plasma
+RNA Polymerase II Transcription

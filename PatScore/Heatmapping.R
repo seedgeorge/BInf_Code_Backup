@@ -1,11 +1,10 @@
-Su2C <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/su2c_08.06.2014/su2cHMtest.txt", header=FALSE, stringsAsFactors=FALSE)
-View(Su2C)
+filter2 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp1/filter2", header=FALSE)
 
-row.names(Su2C) = Su2C$V1
-Su2Chm = Su2C[,2:25] 
+row.names(filter2) = filter2$V1
+df = filter2[,2:57] 
 
 namevec <- paste(rep("Su2C",24),1:24)
-colnames(Su2Chm)=namevec
+colnames(df)=namevec
 
-Su2Chm = data.matrix(Su2Chm)
-heatmap(Su2Chm)
+df = data.matrix(df)
+heatmap(df)
