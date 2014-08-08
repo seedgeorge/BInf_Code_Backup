@@ -9,7 +9,7 @@ use DateTime;
 use File::Path qw(make_path);
 use List::Util qw(sum);
 
-my $config = 2; # config code indicates which hierarchy of pathways to filter by
+my $config = 1; # config code indicates which hierarchy of pathways to filter by
 my $target = "";
 if ($config == 1) {
 	$target = "Tier1 pathways.txt";
@@ -43,7 +43,7 @@ my @output; # prepares the output array
 
 foreach my $path (@filter) {
 	foreach my $result (@results) {
-		if ($result =~ /$path\t/) {
+		if ($result =~ /^$path\t\d/) {
 		push (@output,$result)
 		}
 	}
