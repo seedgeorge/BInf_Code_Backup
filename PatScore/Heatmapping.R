@@ -1,19 +1,13 @@
-filter2 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp1/filter2", header=FALSE)
+#requires data from scripting output
+row.names(BC.su2c) = BC.su2c$V1
+df2 = BC.su2c[,2:57] #select desired columns
+colnames(df2) = df2[1,]
+df2 = df2[2:1552,]
 
-row.names(filter1) = filter1$V1
-df = filter1[,2:57] 
+df3 = data.matrix(df2)
+heatmap(df3) #basic heatmap
 
-su2c<- paste(rep("Su2C",24),1:24)
-bc2012 <- paste(rep("BC2012",32),1:32)
-namevec <- c(su2c,bc2012)
-
-colnames(df)=namevec
-
-
-df = data.matrix(df)
-heatmap(df)
-
-#Some stuff to make heatmap.2 more functional
+#stuff for heatmap 2
 if (!require("gplots")) {
   install.packages("gplots", dependencies = TRUE)
   library(gplots)
@@ -22,3 +16,10 @@ if (!require("RColorBrewer")) {
   install.packages("RColorBrewer", dependencies = TRUE)
   library(RColorBrewer)
 }
+rc <- rainbow(nrow(df3), start=0, end=.3)
+cc <- rainbow(ncol(df3), start=0, end=.3)
+hv <- heatmap.2(df3, col=cm.colors(255), scale="column", 
+      RowSideColors=rc, ColSideColors=cc, margin=c(5, 10), 
+      xlab="Tumour Samples", ylab= "Pathway", 
+      main="Test", 
+      tracecol="green", density="density")
