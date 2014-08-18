@@ -24,12 +24,12 @@ while (my $line = <FH>) {	chomp $line;
 close (FH);
 
 print "Which directory to access?\n"; # opens up and results file
-my $dir = "BC-su2c Comp1";
+my $dir = "BC-su2c Comp2";
 chomp $dir; 
 print "Which result to filter?\n";
-my $res = "BC-su2c.txt";
+my $res = "su2c-bc2012_titles_finished.txt";
 chomp $res;
-my $file = "$dir/$res";
+my $file = "$dir/$res"; 
 my @results;
 open (INPUT2,"Results/$file") or die "Couldn't open results.\n";
 while (my $line = <INPUT2>) {
@@ -52,10 +52,7 @@ foreach my $path (@filter) {
 # foreach my $path (@output) {
 	# print "$path\n";
 # }
-
-
-open (OUTPUT, ">Results/$dir/filter$config") or die "Could not open output file...\n";
-
+open (OUTPUT, ">Results/$dir/filter$config.txt") or die "Could not open output file...\n";
 foreach my $filtered (@output) {
 	print OUTPUT "$filtered\n";
 }

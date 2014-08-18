@@ -32,7 +32,7 @@ print "\n";
 
 @files = @files[2.. $#files];
 
-# ---------- Section 2  - prepares the pathwaytotals hash with the aggregate scores, and prints as new file
+# ---------- Section 2  - prepares the pathwaytotals hash with the aggregate scores, and prints an AGGREGATE file of all results
 my %pathwaytotals;
 
 foreach my $file (@files) {
@@ -52,7 +52,11 @@ foreach my $file (@files) {
 my $fileoutput1 = $directory."-aggregate.txt";
 open (OUTPUT1,">$fulldir/$fileoutput1") or die "Could not open output file\n";
 
-foreach my $key (keys %pathwaytotals) {
+foreach my $filename (@files) { #printing the filenames as column headers 
+	print OUTPUT1 "\t$filename";
+}
+print OUTPUT1 "\n";
+foreach my $key (keys %pathwaytotals) { #printing the actual data
 	print OUTPUT1 $key,"\t",$pathwaytotals{$key},"\n";
 }
 close OUTPUT1;
