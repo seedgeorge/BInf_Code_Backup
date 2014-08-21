@@ -1,0 +1,78 @@
+heatmap	group	number su2c	number bc2012	total number			Su2c	BC2012															
+																			 	Group 1	Group 2	Group 3	
+all pats	1	10	45	55		B	4	0			Su2C Bone	4							 Bone	4	3	2	su2c
+						L	1	0			Su2C Liver	1							Liver	1	2	2	
+						LN	1	0			Su2C Lymph Node	1							Lymph Node	1	10	3	
+						P	2	45			Su2C Prostate	2							Prostate	2	0	1	
+						BL	0	0			Su2C Bladder	0							Bladder	0	1	0	
+						ST	0	0			Su2C Soft Tissue	0							Soft Tissue	0	2	2	
+						U	2	0			Su2C Unknown	2							Unknown	2	8	4	
+all pats	2	26	4	30		B	3	0			BC2012 Bone	0		Su2C Bone	3				Bone	0	0	0	su2c
+						L	2	0			BC2012 Liver	0		Su2C Liver	2				Liver	0	0	0	
+						LN	10	0			BC2012 Lymph Node	0		Su2C Lymph Node	10				Lymph Node	0	0	0	
+						P	0	4			BC2012 Prostate	45		Su2C Prostate	0				Prostate	45	4	1	
+						BL	1	0			BC2012 Bladder	0		Su2C Bladder	1				Bladder	0	0	0	
+						ST	2	0			BC2012 Soft Tissue	0		Su2C Soft Tissue	2				Soft Tissue	0	0	0	
+						U	8	0			BC2012 Unknown	0		Su2C Unknown	8				Unknown	0	0	0	
+all pats	3	14	1	15		B	2	0						BC2012 Bone	0		Su2C Bone	2					
+						L	2	0						BC2012 Liver	0		Su2C Liver	2					
+						LN	3	0						BC2012 Lymph Node	0		Su2C Lymph Node	3					
+						P	1	1						BC2012 Prostate	4		Su2C Prostate	1					
+						BL	0	0						BC2012 Bladder	0		Su2C Bladder	0					
+						ST	2	0						BC2012 Soft Tissue	0		Su2C Soft Tissue	2					
+						U	4	0						BC2012 Unknown	0		Su2C Unknown	4					
+filter2	1	15	49	64		B	4	0			Su2C Bone	4					BC2012 Bone	0					
+						L	2	0			Su2C Liver	2					BC2012 Liver	0					
+						LN	2	0			Su2C Lymph Node	2					BC2012 Lymph Node	0					
+						P	2	49			Su2C Prostate	2					BC2012 Prostate	1					
+						BL	1	0			Su2C Bladder	1					BC2012 Bladder	0					
+						ST	0	0			Su2C Soft Tissue	0					BC2012 Soft Tissue	0					
+						U	4	0			Su2C Unknown	4					BC2012 Unknown	0					
+filter2	2	27	0	27		B	3	0			BC2012 Bone	0		Su2C Bone	3								
+						L	3	0			BC2012 Liver	0		Su2C Liver	3								
+						LN	12	0			BC2012 Lymph Node	0		Su2C Lymph Node	12								
+						P	0	0			BC2012 Prostate	49		Su2C Prostate	0								
+						BL	0	0			BC2012 Bladder	0		Su2C Bladder	0								
+						ST	2	0			BC2012 Soft Tissue	0		Su2C Soft Tissue	2								
+						U	7	0			BC2012 Unknown	0		Su2C Unknown	7								
+filter2	3	8	1	9		B	2	0						BC2012 Bone	0		Su2C Bone	2					
+						L	0	0						BC2012 Liver	0		Su2C Liver	0					
+						LN	0	0						BC2012 Lymph Node	0		Su2C Lymph Node	0					
+						P	1	1						BC2012 Prostate	0		Su2C Prostate	1					
+						BL	0	0						BC2012 Bladder	0		Su2C Bladder	0					
+						ST	2	0						BC2012 Soft Tissue	0		Su2C Soft Tissue	2					
+						U	3	0						BC2012 Unknown	0		Su2C Unknown	3					
+filter1	1	14	48	62		B	4	0			Su2C Bone	4					BC2012 Bone	0					
+						L	2	0			Su2C Liver	2					BC2012 Liver	0					
+						LN	2	0			Su2C Lymph Node	2					BC2012 Lymph Node	0					
+						P	2	48			Su2C Prostate	2					BC2012 Prostate	1					
+						BL	0	0			Su2C Bladder	0					BC2012 Bladder	0					
+						ST	0	0			Su2C Soft Tissue	0					BC2012 Soft Tissue	0					
+						U	4	0			Su2C Unknown	4					BC2012 Unknown	0					
+filter1	2	28	1	29		B	3	0			BC2012 Bone	0		Su2C Bone	3								
+						L	3	0			BC2012 Liver	0		Su2C Liver	3								
+						LN	12	0			BC2012 Lymph Node	0		Su2C Lymph Node	12								
+						P	0	1			BC2012 Prostate	48		Su2C Prostate	0								
+						BL	1	0			BC2012 Bladder	0		Su2C Bladder	1								
+						ST	2	0			BC2012 Soft Tissue	0		Su2C Soft Tissue	2								
+						U	7	0			BC2012 Unknown	0		Su2C Unknown	7								
+filter1	3	8	1	9		B	2	0						BC2012 Bone	0		Su2C Bone	2					
+						L	0	0						BC2012 Liver	0		Su2C Liver	0					
+						LN	0	0						BC2012 Lymph Node	0		Su2C Lymph Node	0					
+						P	1	1						BC2012 Prostate	1		Su2C Prostate	1					
+						BL	0	0						BC2012 Bladder	0		Su2C Bladder	0					
+						ST	2	0						BC2012 Soft Tissue	0		Su2C Soft Tissue	2					
+						U	3	0						BC2012 Unknown	0		Su2C Unknown	3					
+																	BC2012 Bone	0					
+																	BC2012 Liver	0					
+																	BC2012 Lymph Node	0					
+																	BC2012 Prostate	1					
+																	BC2012 Bladder	0					
+																	BC2012 Soft Tissue	0					
+																	BC2012 Unknown	0					
+																							
+																							
+																							
+																							
+																							
+																							
