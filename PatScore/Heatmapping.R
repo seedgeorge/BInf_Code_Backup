@@ -1,9 +1,15 @@
-#import data
+#import data sets
 filter1 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp2/filter1.txt", header=FALSE)
+filter2 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp2/filter2.txt", header=FALSE)
+filter3 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp2/filter3 - DNA_repair.txt", header=FALSE) #DNA repair Tier-2 only
+filter4 <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp2/filter4 - Cell_cycle_tier3.txt", header=FALSE) #Cell cycle tier-3 only
+su2c.bc2012_titles_finished_temp <- read.delim("~/GitHub/BInf_Code_Backup/PatScore/Results/BC-Su2c Comp2/su2c-bc2012_titles_finished_temp.txt", header=FALSE)
+unfiltered = su2c.bc2012_titles_finished_temp
 
-#first rename imported data as df (data frame)
+
+#first rename chosen data as df (data frame)
 # df = data set name
-df = filter2
+df = filter4
 
 #set the data frame first column to being row names
 row.names(df) = df$V1
@@ -19,8 +25,8 @@ colnames(df2) = headers
 #convert from data frame to numerical matrix
 df3 = data.matrix(df2)
 
-#basic heatmap
-heatmap(df3) 
+##basic heatmap
+#heatmap(df3) 
 
 #stuff for heatmap 2 - install the dependencies IF we need them
 if (!require("gplots")) {
@@ -41,31 +47,23 @@ col_cluster = hclust(col_distance, method = "ward.D2")
 #setup for colour palette
 my_palette <- colorRampPalette(c("blue", "yellow"))(n = 299)
 
-#heatmap.2(df3,
- #         key = FALSE,
-  #        lhei=c(0.2,.5),
-   #       margins=c(8,5),
-    #      labRow = "",
-     #     dendrogram="column",
-      #    scale = "row",
-       #   col=my_palette)
-
 #the following makes a good size heatmap suitable for use without row labels - for high-tier analysis
 heatmap.2(df3, 
           key = FALSE,
-          lhei=c(0.2,.5),
-          margins=c(20,10),
-          labRow = "",
+          #lhei=c(0.2,.5),
+          margins=c(10,20),
+          #labRow = "",
           Rowv = as.dendrogram(row_cluster),
           Colv = as.dendrogram(col_cluster),
           dendrogram="column",
           scale = "row",
+          ColSideColors = c(rep("orangered",50),rep(rep("skyblue",50))),
           col=my_palette)
 
 # prints out the graph workspace
-dev.copy(png,'plot3.png',    
+dev.copy(png,'plot9.png',    
     width = 60*300,       
     height = 30*300,
     res = 500,           
-    pointsize = 5)     
+    pointsize = 15)     
 dev.off()   # closes image output

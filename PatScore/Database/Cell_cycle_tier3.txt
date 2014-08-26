@@ -1,0 +1,14 @@
+G1/S DNA Damage Checkpoints
+G2/M Checkpoints
+Mitotic Spindle Checkpoint
+Mitotic G1-G1/S phases
+S Phase
+Regulation of DNA replication
+Mitotic G2-G2/M phases
+M Phase
+M/G1 Transition
+Regulation of mitotic cell cycle
+Nucleosome assembly
+Telomere Maintenance
+Meiotic recombination
+Meiotic synapses

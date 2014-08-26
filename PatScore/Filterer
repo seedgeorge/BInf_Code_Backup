@@ -9,12 +9,16 @@ use DateTime;
 use File::Path qw(make_path);
 use List::Util qw(sum);
 
-my $config = 1; # config code indicates which hierarchy of pathways to filter by
+my $config = 4; # config code indicates which hierarchy of pathways to filter by
 my $target = "";
 if ($config == 1) {
 	$target = "Tier1 pathways.txt";
 	} elsif ($config == 2) {
 		$target = "Tier2 pathways.txt";
+	} elsif ($config == 3) {
+		$target = "DNA_repair_tier2.txt";
+	} elsif ($config == 4) {
+		$target = "Cell_cycle_tier3.txt";
 }
 my @filter;
 open (FH,"Database/$target") or die "Couldn't open filter.\n"; # opens up filter list into an array
@@ -27,7 +31,7 @@ print "Which directory to access?\n"; # opens up and results file
 my $dir = "BC-su2c Comp2";
 chomp $dir; 
 print "Which result to filter?\n";
-my $res = "su2c-bc2012_titles_finished.txt";
+my $res = "su2c-bc2012_titles_finished_temp.txt";
 chomp $res;
 my $file = "$dir/$res"; 
 my @results;

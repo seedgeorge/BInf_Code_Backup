@@ -1,0 +1,7 @@
+bladder	1
+bone	9
+liver	5
+lymph node	14
+prostate	3
+soft tissue	4
+unknown	14
