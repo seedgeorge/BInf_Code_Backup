@@ -75,8 +75,8 @@ foreach my $pathway (keys %pathwaytotals) {
 	$pathwaytotals{$pathway} = "$sum\t$avg\t$std"; 
 }
 
-sub StdDev {
-	my $total = "0";
+sub StdDev { #subroutine for StDev
+	my $total = "0"; 
 	my $sumOfSquares = "0";
 	my $stddev = "0";
 	my $variance = "0";
@@ -92,7 +92,7 @@ sub StdDev {
 	return $stddev;
 }
 
-sub Mean {
+sub Mean { #subroutine for Mean
 	my $mean = "";
 	my $total = "";
 	my $sum = sum(@_);

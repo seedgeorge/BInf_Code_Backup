@@ -9,6 +9,8 @@ use DateTime;
 use File::Path qw(make_path);
 use List::Util qw(sum);
 
+# script is used to filter results files based on a list of pathways
+# it is pre-configured based on the existing directory structure
 my $config = 4; # config code indicates which hierarchy of pathways to filter by
 my $target = "";
 if ($config == 1) {
